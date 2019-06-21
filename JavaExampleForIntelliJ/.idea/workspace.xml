@@ -2,143 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4403fdec-fd6c-476c-bac3-cc91934910be" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/KotlinJavaRuntime__2_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/KotlinJavaRuntime__3_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/KotlinJavaRuntime__4_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/libraries/KotlinJavaRuntime__5_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime__10_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime__11_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime__12_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime__13_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime__14_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime__15_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime__16_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime__17_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime__18_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime__19_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime__20_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime__21_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime__22_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime__23_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime__24_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime__25_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime__26_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime__27_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime__5_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime__6_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime__7_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime__8_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime__9_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bai10/bai10.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bai10/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bai10/src/mypack/CauTrucChon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bai11/bai11.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bai12/bai12.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bai13/bai13.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bai14/bai14.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bai15/bai15.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bai16/bai16.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bai17/bai17.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bai18/bai18.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bai19/bai19.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bai2/bai2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bai2/src/HinhChuNhat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bai20/bai20.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bai21/bai21.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bai22/bai22.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bai23/bai23.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bai3/bai3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bai3/src/DecimalFormatDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bai4/bai4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bai4/src/HinhCau.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bai5/bai5.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bai5/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bai5/src/mypack/PhuongTrinhBac1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bai6/bai6.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bai6/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bai6/src/mypack/PhuongTrinhBac2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bai7/bai7.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bai7/src/TamGiac.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bai8/bai8.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bai8/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bai8/src/mypack/KhoangCachDiem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bai9/bai9.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bai9/src/TimNgay.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/JavaProgram.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/JavaProgram.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaiTapThucHanh/Chuong2/bai10/CauTrucChon.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaiTapThucHanh/Chuong2/bai10/CauTrucChon.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaiTapThucHanh/Chuong2/bai10/mypack/Process.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaiTapThucHanh/Chuong2/bai10/mypack/Process.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaiTapThucHanh/Chuong2/bai11/TachSo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaiTapThucHanh/Chuong2/bai11/TachSo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaiTapThucHanh/Chuong2/bai12/SoHoanHao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaiTapThucHanh/Chuong2/bai12/SoHoanHao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaiTapThucHanh/Chuong2/bai13/XuLyChuoi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaiTapThucHanh/Chuong2/bai13/XuLyChuoi.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaiTapThucHanh/Chuong2/bai14/KiemTraKyTu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaiTapThucHanh/Chuong2/bai14/KiemTraKyTu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaiTapThucHanh/Chuong2/bai15/SoSanhChuoi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaiTapThucHanh/Chuong2/bai15/SoSanhChuoi.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaiTapThucHanh/Chuong2/bai16/NoiChuoi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaiTapThucHanh/Chuong2/bai16/NoiChuoi.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaiTapThucHanh/Chuong2/bai17/TachChuoi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaiTapThucHanh/Chuong2/bai17/TachChuoi.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaiTapThucHanh/Chuong2/bai18/PTB2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaiTapThucHanh/Chuong2/bai18/PTB2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaiTapThucHanh/Chuong2/bai18/mypack/XuLyPhuongTrinh.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaiTapThucHanh/Chuong2/bai18/mypack/XuLyPhuongTrinh.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaiTapThucHanh/Chuong2/bai19/Fibonaci.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaiTapThucHanh/Chuong2/bai19/Fibonaci.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaiTapThucHanh/Chuong2/bai19/mypack/Process.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaiTapThucHanh/Chuong2/bai19/mypack/Process.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaiTapThucHanh/Chuong2/bai2/hcn.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaiTapThucHanh/Chuong2/bai2/hcn.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaiTapThucHanh/Chuong2/bai3/DecimalFormatDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaiTapThucHanh/Chuong2/bai3/DecimalFormatDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaiTapThucHanh/Chuong2/bai4/HinhCau.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaiTapThucHanh/Chuong2/bai4/HinhCau.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaiTapThucHanh/Chuong2/bai5/.output/PhuongTrinhB1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaiTapThucHanh/Chuong2/bai5/PhuongTrinhB1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaiTapThucHanh/Chuong2/bai5/PhuongTrinhB1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaiTapThucHanh/Chuong2/bai5/mypack/NhapPhuongTrinh.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaiTapThucHanh/Chuong2/bai5/mypack/NhapPhuongTrinh.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaiTapThucHanh/Chuong2/bai6/PTB2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaiTapThucHanh/Chuong2/bai6/PTB2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaiTapThucHanh/Chuong2/bai6/ptb2/PhuongTrinhBac2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaiTapThucHanh/Chuong2/bai6/ptb2/PhuongTrinhBac2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaiTapThucHanh/Chuong2/bai7/TamGiac.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaiTapThucHanh/Chuong2/bai7/TamGiac.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaiTapThucHanh/Chuong2/bai8/KhoangCachDiem.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaiTapThucHanh/Chuong2/bai8/KhoangCachDiem.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaiTapThucHanh/Chuong2/bai8/mypack/nhap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaiTapThucHanh/Chuong2/bai8/mypack/nhap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaiTapThucHanh/Chuong2/bai9/TimNgay.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaiTapThucHanh/Chuong2/bai9/TimNgay.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaiTapThucHanh/Chuong3/bai20/HinhChuNhat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaiTapThucHanh/Chuong3/bai20/HinhChuNhat.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaiTapThucHanh/Chuong3/bai20/XuLy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaiTapThucHanh/Chuong3/bai20/XuLy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaiTapThucHanh/Chuong3/bai21/HinhTron.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaiTapThucHanh/Chuong3/bai21/HinhTron.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaiTapThucHanh/Chuong3/bai21/XuLyHinhTron.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaiTapThucHanh/Chuong3/bai21/XuLyHinhTron.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaiTapThucHanh/Chuong3/bai22/PTB2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaiTapThucHanh/Chuong3/bai22/PTB2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaiTapThucHanh/Chuong3/bai22/classList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaiTapThucHanh/Chuong3/bai22/classList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaiTapThucHanh/Chuong3/bai22/classPTB2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaiTapThucHanh/Chuong3/bai22/classPTB2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaiTapThucHanh/Chuong3/bai23/NhanSu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaiTapThucHanh/Chuong3/bai23/NhanSu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaiTapThucHanh/Chuong3/bai23/mypack/HoSo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaiTapThucHanh/Chuong3/bai23/mypack/HoSo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaiTapThucHanh/Chuong3/bai24/main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BaiTapThucHanh/Chuong3/bai24/mypack/SinhVien.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai11/src/TachSo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai12/src/SoHoanHao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai13/src/XuLyChuoi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai15/src/SoSanhChuoi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai16/src/NoiChuoi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai17/src/TachChuoi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai18/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai18/src/mypack/PhuongTrinhBac2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai19/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai19/src/mypack/Fibonaci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai20/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai20/src/mypack/HinhChuNhat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai21/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai21/src/mypack/HinhTron.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai22/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai22/src/mypack/List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai22/src/mypack/PhuongTrinhBac2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai23/src/NhanSu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai23/src/mypack/HoSo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai25/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai25/src/mypack/List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai25/src/mypack/XeDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai26/bsi26.iml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -151,7 +38,35 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bai25/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/bai25/src/mypack/XeDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="615">
+              <caret line="41" column="51" selection-start-line="41" selection-start-column="51" selection-end-line="41" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bai25/src/mypack/List.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -186,6 +101,28 @@
         <option value="$PROJECT_DIR$/bai9/src/TimNgay.java" />
         <option value="$PROJECT_DIR$/bai10/src/mypack/CauTrucChon.java" />
         <option value="$PROJECT_DIR$/bai10/src/Main.java" />
+        <option value="$PROJECT_DIR$/bai11/src/TachSo.java" />
+        <option value="$PROJECT_DIR$/bai12/src/SoHoanHao.java" />
+        <option value="$PROJECT_DIR$/bai13/src/XuLyChuoi.java" />
+        <option value="$PROJECT_DIR$/bai14/src/KiemTraKyTu.java" />
+        <option value="$PROJECT_DIR$/bai15/src/SoSanhChuoi.java" />
+        <option value="$PROJECT_DIR$/bai16/src/NoiChuoi.java" />
+        <option value="$PROJECT_DIR$/bai17/src/TachChuoi.java" />
+        <option value="$PROJECT_DIR$/bai18/src/mypack/PhuongTrinhBac2.java" />
+        <option value="$PROJECT_DIR$/bai18/src/Main.java" />
+        <option value="$PROJECT_DIR$/bai19/src/mypack/Fibonaci.java" />
+        <option value="$PROJECT_DIR$/bai19/src/Main.java" />
+        <option value="$PROJECT_DIR$/bai20/src/mypack/HinhChuNhat.java" />
+        <option value="$PROJECT_DIR$/bai20/src/Main.java" />
+        <option value="$PROJECT_DIR$/bai21/src/mypack/HinhTron.java" />
+        <option value="$PROJECT_DIR$/bai21/src/Main.java" />
+        <option value="$PROJECT_DIR$/bai23/src/mypack/HoSo.java" />
+        <option value="$PROJECT_DIR$/bai23/src/NhanSu.java" />
+        <option value="$PROJECT_DIR$/bai22/src/mypack/PhuongTrinhBac2.java" />
+        <option value="$PROJECT_DIR$/bai22/src/mypack/List.java" />
+        <option value="$PROJECT_DIR$/bai22/src/Main.java" />
+        <option value="$PROJECT_DIR$/bai25/src/Main.java" />
+        <option value="$PROJECT_DIR$/bai25/src/mypack/XeDemo.java" />
       </list>
     </option>
   </component>
@@ -212,14 +149,20 @@
             <path>
               <item name="JavaExampleForIntelliJ" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaExampleForIntelliJ" type="462c0819:PsiDirectoryNode" />
-              <item name="bai11" type="462c0819:PsiDirectoryNode" />
+              <item name="bai25" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JavaExampleForIntelliJ" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JavaExampleForIntelliJ" type="462c0819:PsiDirectoryNode" />
+              <item name="bai25" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -229,6 +172,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -241,6 +185,52 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager" selected="Application.Main (4)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="bai19" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="bai20" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="bai21" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="bai22" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NhanSu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NhanSu" />
+      <module name="bai23" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (4)" />
+        <item itemvalue="Application.NhanSu" />
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -255,10 +245,20 @@
     </task>
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="960" height="1055" extended-state="4" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28947368" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17105263" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -266,14 +266,15 @@
       <window_info id="UI Designer" order="5" />
       <window_info id="Learn" order="6" />
       <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.3292683" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3292683" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.33037695" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3292683" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.33037695" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -422,6 +423,197 @@
             <element signature="e#513#514#0" expanded="true" />
             <element signature="e#541#542#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bai11/src/TachSo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="21" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bai12/src/SoHoanHao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bai13/src/XuLyChuoi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bai14/src/KiemTraKyTu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bai15/src/SoSanhChuoi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bai16/src/NoiChuoi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bai17/src/TachChuoi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="47" selection-start-line="10" selection-start-column="47" selection-end-line="10" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bai18/src/mypack/PhuongTrinhBac2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bai18/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bai19/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bai19/src/mypack/Fibonaci.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="28" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bai20/src/mypack/HinhChuNhat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="5" selection-start-line="29" selection-start-column="5" selection-end-line="29" selection-end-column="5" />
+          <folding>
+            <element signature="e#342#343#0" expanded="true" />
+            <element signature="e#381#382#0" expanded="true" />
+            <element signature="e#412#413#0" expanded="true" />
+            <element signature="e#445#446#0" expanded="true" />
+            <element signature="e#611#612#0" expanded="true" />
+            <element signature="e#706#707#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bai20/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bai21/src/mypack/HinhTron.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+          <folding>
+            <element signature="e#260#261#0" expanded="true" />
+            <element signature="e#298#299#0" expanded="true" />
+            <element signature="e#330#331#0" expanded="true" />
+            <element signature="e#368#369#0" expanded="true" />
+            <element signature="e#407#408#0" expanded="true" />
+            <element signature="e#490#491#0" expanded="true" />
+            <element signature="e#516#517#0" expanded="true" />
+            <element signature="e#597#598#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bai21/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bai23/src/mypack/HoSo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <folding>
+            <element signature="e#204#205#0" expanded="true" />
+            <element signature="e#278#279#0" expanded="true" />
+            <element signature="e#309#310#0" expanded="true" />
+            <element signature="e#350#351#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bai23/src/NhanSu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bai22/src/mypack/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="53" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bai22/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="16" selection-start-column="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bai22/src/mypack/PhuongTrinhBac2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="20" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bai25/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bai25/src/mypack/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bai25/src/mypack/XeDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="41" column="51" selection-start-line="41" selection-start-column="51" selection-end-line="41" selection-end-column="51" />
         </state>
       </provider>
     </entry>
