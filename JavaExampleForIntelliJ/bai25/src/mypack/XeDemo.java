@@ -21,8 +21,8 @@ public class XeDemo {
     }
 
     public static void inTieuDe(){
-        System.out.printf("%20s%20s%20s%20s%20s", "TenChuXe",
-                "LoaiXe", "DungTich", "TriGia", "ThuePhaiNop");
+        System.out.printf("%20s%20s%20s%20s%20s%n", "Ten Chu Xe",
+                "Loai Xe", "Dung Tich", "Tri Gia", "Thue Phai Nop");
     }
 
     public double thueNop(){
@@ -39,7 +39,7 @@ public class XeDemo {
     }
 
     public void xuat(){
-        System.out.printf("%20s%20s%20d%20.2f%20.2f",
+        System.out.printf("%20s%20s%20d%20.2f%20.2f%n",
                 tenChuXe, loaiXe, dungTich, triGia, thueNop());
     }
 }

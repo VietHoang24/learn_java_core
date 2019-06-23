@@ -2,30 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4403fdec-fd6c-476c-bac3-cc91934910be" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/bai11/src/TachSo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bai12/src/SoHoanHao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bai13/src/XuLyChuoi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bai15/src/SoSanhChuoi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bai16/src/NoiChuoi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bai17/src/TachChuoi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bai18/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bai18/src/mypack/PhuongTrinhBac2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bai19/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bai19/src/mypack/Fibonaci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bai20/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bai20/src/mypack/HinhChuNhat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bai21/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bai21/src/mypack/HinhTron.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bai22/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bai22/src/mypack/List.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bai22/src/mypack/PhuongTrinhBac2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bai23/src/NhanSu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bai23/src/mypack/HoSo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bai25/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bai25/src/mypack/List.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bai25/src/mypack/XeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime__28_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime__29_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime__30_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai26/bai26.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai26/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai26/src/mypack/List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai26/src/mypack/NhanVien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai27/bai27.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai27/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai27/src/mypack/List.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai27/src/mypack/TamGiac.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai28/bai28.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai28/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai28/src/mypack/CNhanVien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bai28/src/mypack/List.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai26/bsi26.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai25/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/bai25/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai25/src/mypack/List.java" beforeDir="false" afterPath="$PROJECT_DIR$/bai25/src/mypack/List.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai25/src/mypack/XeDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/bai25/src/mypack/XeDemo.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,30 +34,15 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bai25/src/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/bai25/src/mypack/XeDemo.java">
+        <entry file="file://$PROJECT_DIR$/bai28/src/mypack/List.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="615">
-              <caret line="41" column="51" selection-start-line="41" selection-start-column="51" selection-end-line="41" selection-end-column="51" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bai25/src/mypack/List.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            <state relative-caret-position="510">
+              <caret line="34" column="37" selection-start-line="34" selection-start-column="37" selection-end-line="34" selection-end-column="37" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -79,6 +60,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/bai25/src/Main.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -121,8 +105,18 @@
         <option value="$PROJECT_DIR$/bai22/src/mypack/PhuongTrinhBac2.java" />
         <option value="$PROJECT_DIR$/bai22/src/mypack/List.java" />
         <option value="$PROJECT_DIR$/bai22/src/Main.java" />
-        <option value="$PROJECT_DIR$/bai25/src/Main.java" />
+        <option value="$PROJECT_DIR$/bai25/src/mypack/List.java" />
         <option value="$PROJECT_DIR$/bai25/src/mypack/XeDemo.java" />
+        <option value="$PROJECT_DIR$/bai25/src/Main.java" />
+        <option value="$PROJECT_DIR$/bai26/src/mypack/NhanVien.java" />
+        <option value="$PROJECT_DIR$/bai26/src/mypack/List.java" />
+        <option value="$PROJECT_DIR$/bai26/src/Main.java" />
+        <option value="$PROJECT_DIR$/bai27/src/mypack/TamGiac.java" />
+        <option value="$PROJECT_DIR$/bai27/src/mypack/List.java" />
+        <option value="$PROJECT_DIR$/bai27/src/Main.java" />
+        <option value="$PROJECT_DIR$/bai28/src/mypack/CNhanVien.java" />
+        <option value="$PROJECT_DIR$/bai28/src/mypack/List.java" />
+        <option value="$PROJECT_DIR$/bai28/src/Main.java" />
       </list>
     </option>
   </component>
@@ -139,6 +133,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -149,20 +145,12 @@
             <path>
               <item name="JavaExampleForIntelliJ" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaExampleForIntelliJ" type="462c0819:PsiDirectoryNode" />
-              <item name="bai25" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaExampleForIntelliJ" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaExampleForIntelliJ" type="462c0819:PsiDirectoryNode" />
-              <item name="bai25" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="bai28" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -172,6 +160,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
@@ -186,24 +175,24 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (4)">
+  <component name="RunManager" selected="Application.Main (3)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="bai19" />
+      <module name="bai26" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="bai20" />
+      <module name="bai27" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="bai21" />
+      <module name="bai28" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -215,20 +204,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NhanSu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NhanSu" />
-      <module name="bai23" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="bai25" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main (4)" />
-        <item itemvalue="Application.NhanSu" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -258,7 +247,7 @@
     <frame x="0" y="25" width="960" height="1055" extended-state="4" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17105263" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17982456" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -266,7 +255,6 @@
       <window_info id="UI Designer" order="5" />
       <window_info id="Learn" order="6" />
       <window_info id="Favorites" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.3292683" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3292683" />
@@ -277,6 +265,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.33037695" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3292683" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -288,7 +277,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/BaiThucHanh/bai24" />
     <entry file="file://$PROJECT_DIR$/bai24/src/SinhVien.kt" />
     <entry file="file://$PROJECT_DIR$/bai24/src/SinhVien.java" />
     <entry file="file://$PROJECT_DIR$/bai2/src/HinhChuNhat.java">
@@ -371,13 +359,6 @@
             <element signature="e#331#332#0" expanded="true" />
             <element signature="e#360#361#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bai7/src/TamGiac.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="25" selection-start-column="25" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -598,22 +579,152 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/bai25/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="699">
+          <caret line="86" column="19" selection-start-line="86" selection-start-column="19" selection-end-line="86" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bai25/src/mypack/List.java">
+    <entry file="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/java.base/java/lang/Object.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        <state relative-caret-position="248">
+          <caret line="29" column="18" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
+          <folding>
+            <element signature="e#657#658#0" expanded="true" />
+            <element signature="e#750#751#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/bai25/src/mypack/XeDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="615">
-          <caret line="41" column="51" selection-start-line="41" selection-start-column="51" selection-end-line="41" selection-end-column="51" />
+        <state relative-caret-position="360">
+          <caret line="24" column="22" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bai25/src/mypack/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="8" selection-start-line="24" selection-start-column="8" selection-end-line="24" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bai26/src/mypack/NhanVien.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="960">
+          <caret line="64" column="48" lean-forward="true" selection-start-line="64" selection-start-column="48" selection-end-line="64" selection-end-column="48" />
+          <folding>
+            <element signature="e#252#253#0" expanded="true" />
+            <element signature="e#279#280#0" expanded="true" />
+            <element signature="e#319#320#0" expanded="true" />
+            <element signature="e#351#352#0" expanded="true" />
+            <element signature="e#379#380#0" expanded="true" />
+            <element signature="e#406#407#0" expanded="true" />
+            <element signature="e#695#696#0" expanded="true" />
+            <element signature="e#735#736#0" expanded="true" />
+            <element signature="e#1190#1191#0" expanded="true" />
+            <element signature="e#1208#1209#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bai26/src/mypack/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="39" selection-start-line="32" selection-start-column="39" selection-end-line="32" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bai26/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bai7/src/TamGiac.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bai27/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="54" selection-start-line="14" selection-start-column="54" selection-end-line="14" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bai27/src/mypack/TamGiac.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1185">
+          <caret line="79" column="24" selection-start-line="79" selection-start-column="24" selection-end-line="79" selection-end-column="24" />
+          <folding>
+            <element signature="e#1031#1032#0" expanded="true" />
+            <element signature="e#1056#1057#0" expanded="true" />
+            <element signature="e#1143#1144#0" expanded="true" />
+            <element signature="e#1168#1169#0" expanded="true" />
+            <element signature="e#1255#1256#0" expanded="true" />
+            <element signature="e#1280#1281#0" expanded="true" />
+            <element signature="e#1591#1592#0" expanded="true" />
+            <element signature="e#1615#1616#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bai27/src/mypack/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="65" selection-start-line="25" selection-start-column="65" selection-end-line="25" selection-end-column="65" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bai28/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="43" column="16" selection-start-line="43" selection-start-column="16" selection-end-line="43" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bai28/src/mypack/CNhanVien.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1110">
+          <caret line="87" column="35" selection-start-line="87" selection-start-column="35" selection-end-line="87" selection-end-column="35" />
+          <folding>
+            <element signature="e#443#444#0" expanded="true" />
+            <element signature="e#469#470#0" expanded="true" />
+            <element signature="e#507#508#0" expanded="true" />
+            <element signature="e#537#538#0" expanded="true" />
+            <element signature="e#568#569#0" expanded="true" />
+            <element signature="e#595#596#0" expanded="true" />
+            <element signature="e#635#636#0" expanded="true" />
+            <element signature="e#667#668#0" expanded="true" />
+            <element signature="e#696#697#0" expanded="true" />
+            <element signature="e#724#725#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bai28/src/mypack/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="37" selection-start-line="34" selection-start-column="37" selection-end-line="34" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
