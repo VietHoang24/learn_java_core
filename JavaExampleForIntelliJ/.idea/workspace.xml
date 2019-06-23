@@ -2,15 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4403fdec-fd6c-476c-bac3-cc91934910be" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime__31_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bai29/bai29.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bai29/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bai29/src/mypack/List.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bai29/src/mypack/SinhVien.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai28/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/bai28/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai28/src/mypack/List.java" beforeDir="false" afterPath="$PROJECT_DIR$/bai28/src/mypack/List.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai29/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/bai29/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai29/src/mypack/List.java" beforeDir="false" afterPath="$PROJECT_DIR$/bai29/src/mypack/List.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bai29/src/mypack/SinhVien.java" beforeDir="false" afterPath="$PROJECT_DIR$/bai29/src/mypack/SinhVien.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,41 +19,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bai29/src/mypack/SinhVien.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/bai28/src/Main.java">
+        <entry file="file://$PROJECT_DIR$/bai29/src/mypack/List.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="431">
-              <caret line="44" column="17" selection-start-line="44" selection-start-column="17" selection-end-line="44" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bai28/src/mypack/List.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="416">
-              <caret line="51" column="11" selection-start-line="51" selection-start-column="11" selection-end-line="51" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bai28/src/mypack/CNhanVien.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="773">
-              <caret line="87" column="35" selection-start-line="87" selection-start-column="35" selection-end-line="87" selection-end-column="35" />
+            <state relative-caret-position="525">
+              <caret line="35" column="29" lean-forward="true" selection-start-line="35" selection-start-column="29" selection-end-line="35" selection-end-column="29" />
               <folding>
-                <element signature="e#443#444#0" expanded="true" />
-                <element signature="e#469#470#0" expanded="true" />
-                <element signature="e#507#508#0" expanded="true" />
-                <element signature="e#537#538#0" expanded="true" />
-                <element signature="e#568#569#0" expanded="true" />
-                <element signature="e#595#596#0" expanded="true" />
-                <element signature="e#635#636#0" expanded="true" />
-                <element signature="e#667#668#0" expanded="true" />
-                <element signature="e#696#697#0" expanded="true" />
-                <element signature="e#724#725#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bai29/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="68" selection-start-line="6" selection-start-column="68" selection-end-line="6" selection-end-column="68" />
             </state>
           </provider>
         </entry>
@@ -83,8 +69,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/bai24/src/SinhVien.kt" />
-        <option value="$PROJECT_DIR$/bai24/src/SinhVien.java" />
         <option value="$PROJECT_DIR$/bai24/src/mypack/List.java" />
         <option value="$PROJECT_DIR$/bai24/src/Main.java" />
         <option value="$PROJECT_DIR$/bai24/src/mypack/SinhVien.java" />
@@ -133,10 +117,13 @@
         <option value="$PROJECT_DIR$/bai28/src/mypack/CNhanVien.java" />
         <option value="$PROJECT_DIR$/bai28/src/mypack/List.java" />
         <option value="$PROJECT_DIR$/bai28/src/Main.java" />
+        <option value="$PROJECT_DIR$/bai29/src/Main.java" />
+        <option value="$PROJECT_DIR$/bai29/src/mypack/List.java" />
+        <option value="$PROJECT_DIR$/bai29/src/mypack/SinhVien.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="4">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="25" />
     <option name="width" value="960" />
     <option name="height" value="1055" />
@@ -181,19 +168,6 @@
               <item name="JavaExampleForIntelliJ" type="462c0819:PsiDirectoryNode" />
               <item name="bai29" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="JavaExampleForIntelliJ" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaExampleForIntelliJ" type="462c0819:PsiDirectoryNode" />
-              <item name="bai29" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaExampleForIntelliJ" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaExampleForIntelliJ" type="462c0819:PsiDirectoryNode" />
-              <item name="bai29" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="mypack" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -222,7 +196,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (3)">
+  <component name="RunManager" selected="Application.Main (5)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="bai26" />
@@ -244,9 +218,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="bai22" />
+      <module name="bai29" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -260,11 +234,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (5)" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -291,10 +265,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="25" width="960" height="1055" extended-state="4" />
+    <frame x="0" y="25" width="1920" height="1055" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17982456" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.08760684" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -304,7 +278,7 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3292683" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3292683" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -324,16 +298,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/bai24/src/mypack/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" selection-start-column="14" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/bai24/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -727,30 +691,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bai29/src/mypack/List.java">
+    <entry file="file://$PROJECT_DIR$/bai28/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        <state relative-caret-position="431">
+          <caret line="44" column="17" selection-start-line="44" selection-start-column="17" selection-end-line="44" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bai29/src/Main.java">
+    <entry file="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/java.base/java/util/Comparator.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="17" selection-start-column="17" selection-end-column="17" />
+        <state relative-caret-position="-813">
+          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bai29/src/mypack/SinhVien.java">
+    <entry file="file://$PROJECT_DIR$/bai28/src/mypack/List.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        <state relative-caret-position="416">
+          <caret line="51" column="11" lean-forward="true" selection-start-line="51" selection-start-column="11" selection-end-line="51" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/bai28/src/mypack/CNhanVien.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="773">
+        <state relative-caret-position="1260">
           <caret line="87" column="35" selection-start-line="87" selection-start-column="35" selection-end-line="87" selection-end-column="35" />
           <folding>
             <element signature="e#443#444#0" expanded="true" />
@@ -767,17 +731,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bai28/src/mypack/List.java">
+    <entry file="file://$PROJECT_DIR$/bai29/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="51" column="11" selection-start-line="51" selection-start-column="11" selection-end-line="51" selection-end-column="11" />
+        <state relative-caret-position="90">
+          <caret line="6" column="68" selection-start-line="6" selection-start-column="68" selection-end-line="6" selection-end-column="68" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bai28/src/Main.java">
+    <entry file="file://$PROJECT_DIR$/bai29/src/mypack/SinhVien.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="431">
-          <caret line="44" column="17" selection-start-line="44" selection-start-column="17" selection-end-line="44" selection-end-column="17" />
+        <state relative-caret-position="90">
+          <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bai29/src/mypack/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="29" lean-forward="true" selection-start-line="35" selection-start-column="29" selection-end-line="35" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
