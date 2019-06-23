@@ -1,7 +1,6 @@
 package mypack;
 
-import java.util.ArrayList;
-import java.util.Scanner;
+import java.util.*;
 
 public class List {
     private ArrayList<CNhanVien> list;
@@ -25,7 +24,7 @@ public class List {
             list.get(i).xuat();
         }
     }
-
+    /*
     public void sort(){
         for(int i=1; i<list.size(); i++){
             for(int j=0; j<list.size()-i; j++){
@@ -36,5 +35,20 @@ public class List {
                 }
             }
         }
+    }
+    */
+
+    public void sapXep(){
+        Collections.sort(list, new Comparator<CNhanVien>() {
+            @Override
+                public int compare(CNhanVien nv1, CNhanVien nv2) {
+                    if(nv1.getLuong() == nv2.getLuong())
+                        return 0;
+                    else if(nv1.getLuong() > nv2.getLuong())
+                        return 1;
+                    else
+                        return -1;
+            }
+        });
     }
 }

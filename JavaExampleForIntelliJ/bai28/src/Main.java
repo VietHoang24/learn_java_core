@@ -40,7 +40,8 @@ public class Main {
         System.out.println("\n\t\t\t\t\t\t\t\t- Danh sach nhan vien vua nhap\n");
         a.xuat();
         System.out.println("\n\t\t\t- Danh sach nhan vien sau khi sap xep theo chieu tang dan cua luong\n");
-        a.sort();
+        //a.sort();
+        a.sapXep();
         a.xuat();
     }
 }
