@@ -35,7 +35,7 @@ public class List {
                 if(sv1.hoTen.compareTo(sv2.hoTen)>0)
                     return 1;
                 else if(sv1.hoTen.compareTo(sv2.hoTen)==0){
-                    if(sv1.diemLT.compareTo(sv2.diemLT)>=0)
+                    if(sv1.diemLT >=sv2.diemLT)
                         return 1;
                     else
                         return -1;
@@ -43,5 +43,23 @@ public class List {
                     return -1;
             }
         });
+    }
+
+    public float getDiemTBMax(){
+        float MAX = list.get(0).diemTB;
+        for(int i=0; i<list.size(); i++){
+            if(list.get(i).diemTB > MAX)
+                MAX = list.get(i).diemTB;
+        }
+        return MAX;
+    }
+
+    public float getDiemTBMin(){
+        float MIN = list.get(0).diemTB;
+        for(int i=0; i<list.size(); i++){
+            if(list.get(i).diemTB < MIN)
+                MIN = list.get(i).diemTB;
+        }
+        return MIN;
     }
 }
