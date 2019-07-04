@@ -15,9 +15,9 @@ public class NhanVienDemo {
         System.out.print("So nhan vien can nhap: ");
         int n = input.nextInt();
         input.nextLine();
-        System.out.println("- Nhap danh sach nhan vien\n");
+        System.out.println("- Nhap danh sach nhan vien");
         for(int i=0; i<n; i++){
-            System.out.println("\tNhan vien thu " + (i+1) + ":");
+            System.out.println("\t+ Nhan vien thu " + (i+1) + ":");
             NhanVien a = new NhanVien();
             a.nhap();
             list.add(a);
@@ -41,9 +41,9 @@ public class NhanVienDemo {
                 JOptionPane.INFORMATION_MESSAGE );
         System.exit( 0 );*/
 
-        System.out.println("\t=== Nhap danh sach sinh vien ===\n");
+        System.out.println("\n\t\t\t=== Nhap danh sach sinh vien ===\n");
         nhapDS();
-        System.out.println("\t====> Danh sach nhan vien vua nhap <====\n");
+        System.out.println("\n\t\t\t\t\t\t====> Danh sach nhan vien vua nhap <====\n");
         xuat();
     }
 }

@@ -2,167 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4403fdec-fd6c-476c-bac3-cc91934910be" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Chuong2/bai10/Main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chuong2/bai10/mypack/CauTrucChon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chuong2/bai11/TachSo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chuong2/bai12/SoHoanHao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chuong2/bai13/XuLyChuoi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chuong2/bai14/KiemTraKyTu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chuong2/bai15/SoSanhChuoi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chuong2/bai16/NoiChuoi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chuong2/bai17/TachChuoi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chuong2/bai18/Main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chuong2/bai18/mypack/PhuongTrinhBac2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chuong2/bai19/Main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chuong2/bai19/mypack/Fibonaci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chuong2/bai2/HinhChuNhat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chuong2/bai3/DecimalFormatDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chuong2/bai4/HinhCau.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chuong2/bai5/Main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chuong2/bai5/mypack/PhuongTrinhBac1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chuong2/bai6/Main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chuong2/bai6/mypack/PhuongTrinhBac2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chuong2/bai7/TamGiac.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chuong2/bai8/Main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chuong2/bai8/mypack/KhoangCachDiem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chuong2/bai9/TimNgay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai20/Main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai20/mypack/HinhChuNhat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai21/Main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai21/mypack/HinhTron.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai22/Main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai22/mypack/List.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai22/mypack/PhuongTrinhBac2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai23/HoSo/HoSo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai23/NhanSu/NhanSu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai24/Main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai24/mypack/List.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai24/mypack/SinhVien.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai25/Main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai25/mypack/List.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai25/mypack/XeDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai26/Main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai26/mypack/List.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai26/mypack/NhanVien.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai27/Main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai27/mypack/List.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai27/mypack/TamGiac.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai28/Main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai28/mypack/CNhanVien.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai28/mypack/List.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai29/Main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai29/mypack/List.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai29/mypack/SinhVien.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai30/NgayThang/NgayThang.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai30/NhanVien/NhanVien.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai30/NhanVienDemo/NhanVienDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Dev_Jv38/HomeWorks/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Dev_Jv38/HomeWorks/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai31/Main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai31/Mon/Mon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai31/Ngay/Date.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai31/SinhVien/SinhVien.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai10/bai10.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai10/src/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai10/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai10/src/mypack/CauTrucChon.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai10/src/mypack/CauTrucChon.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai11/bai11.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai11/src/TachSo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai11/src/TachSo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai12/bai12.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai12/src/SoHoanHao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai12/src/SoHoanHao.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai13/bai13.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai13/src/XuLyChuoi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai13/src/XuLyChuoi.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai14/bai14.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai14/src/KiemTraKyTu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai14/src/KiemTraKyTu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai15/bai15.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai15/src/SoSanhChuoi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai15/src/SoSanhChuoi.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai16/bai16.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai16/src/NoiChuoi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai16/src/NoiChuoi.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai17/bai17.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai17/src/TachChuoi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai17/src/TachChuoi.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai18/bai18.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai18/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai18/src/mypack/PhuongTrinhBac2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai19/bai19.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai19/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai19/src/mypack/Fibonaci.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai2/bai2.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai2/src/HinhChuNhat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai2/src/HinhChuNhat.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai20/bai20.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai20/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai20/src/mypack/HinhChuNhat.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai21/bai21.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai21/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai21/src/mypack/HinhTron.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai22/bai22.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai22/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai22/src/mypack/List.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai22/src/mypack/PhuongTrinhBac2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai23/bai23.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai23/src/NhanSu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai23/src/mypack/HoSo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai24/bai24.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai24/src/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai24/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai24/src/mypack/List.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai24/src/mypack/List.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai24/src/mypack/SinhVien.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai24/src/mypack/SinhVien.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai25/bai25.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai25/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai25/src/mypack/List.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai25/src/mypack/XeDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai26/bai26.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai26/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai26/src/mypack/List.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai26/src/mypack/NhanVien.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai27/bai27.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai27/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai27/src/mypack/List.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai27/src/mypack/TamGiac.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai28/bai28.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai28/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai28/src/mypack/CNhanVien.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai28/src/mypack/List.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai29/bai29.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai29/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai29/src/mypack/List.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai29/src/mypack/SinhVien.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai3/bai3.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai3/src/DecimalFormatDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai3/src/DecimalFormatDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai30/bai30.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai30/src/NgayThang/NgayThang.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai30/src/NhanVien/NhanVien.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai30/src/NhanVienDemo/NhanVienDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai4/bai4.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai4/src/HinhCau.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai5/bai5.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai5/src/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai5/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai5/src/mypack/PhuongTrinhBac1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai5/src/mypack/PhuongTrinhBac1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai6/bai6.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai6/src/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai6/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai6/src/mypack/PhuongTrinhBac2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai6/src/mypack/PhuongTrinhBac2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai7/bai7.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai7/src/TamGiac.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai7/src/TamGiac.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai8/bai8.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai8/src/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai8/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai8/src/mypack/KhoangCachDiem.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai8/src/mypack/KhoangCachDiem.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai9/bai9.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai9/src/TimNgay.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bai9/src/TimNgay.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaExampleForIntelliJ/Chuong3/bai30/NgayThang/NgayThang.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExampleForIntelliJ/Chuong3/bai30/NgayThang/NgayThang.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaExampleForIntelliJ/Chuong3/bai30/NhanVien/NhanVien.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExampleForIntelliJ/Chuong3/bai30/NhanVien/NhanVien.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaExampleForIntelliJ/Chuong3/bai30/NhanVienDemo/NhanVienDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExampleForIntelliJ/Chuong3/bai30/NhanVienDemo/NhanVienDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chuong3/bai30/NgayThang/NgayThang.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chuong3/bai30/NgayThang/NgayThang.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chuong3/bai30/NhanVien/NhanVien.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chuong3/bai30/NhanVien/NhanVien.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chuong3/bai30/NhanVienDemo/NhanVienDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chuong3/bai30/NhanVienDemo/NhanVienDemo.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -179,35 +29,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Chuong3/bai30/NgayThang/NgayThang.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-94">
-              <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Chuong3/bai30/NhanVien/NhanVien.java">
+        <entry file="file://$PROJECT_DIR$/src/Chuong3/bai31/Main/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="356">
-              <caret line="27" column="24" lean-forward="true" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="45">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Chuong3/bai30/NhanVienDemo/NhanVienDemo.java">
+        <entry file="file://$PROJECT_DIR$/src/Chuong3/bai31/Mon/Mon.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="44" column="17" selection-start-line="44" selection-start-column="17" selection-end-line="44" selection-end-column="17" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="315">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Chuong3/bai31/Ngay/Date.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Chuong3/bai31/SinhVien/SinhVien.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -229,9 +82,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Chuong2/bai5/Main/Main.java" />
-        <option value="$PROJECT_DIR$/src/Chuong2/bai6/mypack/PhuongTrinhBac2.java" />
-        <option value="$PROJECT_DIR$/src/Chuong2/bai6/Main/Main.java" />
         <option value="$PROJECT_DIR$/src/Chuong2/bai7/TamGiac.java" />
         <option value="$PROJECT_DIR$/src/Chuong2/bai8/mypack/KhoangCachDiem.java" />
         <option value="$PROJECT_DIR$/src/Chuong2/bai8/Main/Main.java" />
@@ -277,9 +127,12 @@
         <option value="$PROJECT_DIR$/src/Chuong3/bai29/mypack/List.java" />
         <option value="$PROJECT_DIR$/src/Chuong3/bai29/mypack/SinhVien.java" />
         <option value="$PROJECT_DIR$/src/Chuong3/bai29/Main/Main.java" />
-        <option value="$PROJECT_DIR$/src/Chuong3/bai30/NgayThang/NgayThang.java" />
         <option value="$PROJECT_DIR$/src/Chuong3/bai30/NhanVien/NhanVien.java" />
         <option value="$PROJECT_DIR$/src/Chuong3/bai30/NhanVienDemo/NhanVienDemo.java" />
+        <option value="$PROJECT_DIR$/src/Chuong3/bai30/NgayThang/NgayThang.java" />
+        <option value="$PROJECT_DIR$/src/Chuong3/bai31/Main/Main.java" />
+        <option value="$PROJECT_DIR$/src/Chuong3/bai31/Ngay/Date.java" />
+        <option value="$PROJECT_DIR$/src/Chuong3/bai31/Mon/Mon.java" />
       </list>
     </option>
   </component>
@@ -297,7 +150,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -321,14 +173,14 @@
               <item name="JavaExampleForIntelliJ" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Chuong3" type="462c0819:PsiDirectoryNode" />
-              <item name="bai29" type="462c0819:PsiDirectoryNode" />
+              <item name="bai31" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaExampleForIntelliJ" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaExampleForIntelliJ" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Chuong3" type="462c0819:PsiDirectoryNode" />
-              <item name="bai29" type="462c0819:PsiDirectoryNode" />
+              <item name="bai31" type="462c0819:PsiDirectoryNode" />
               <item name="Main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -336,36 +188,30 @@
               <item name="JavaExampleForIntelliJ" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Chuong3" type="462c0819:PsiDirectoryNode" />
-              <item name="bai30" type="462c0819:PsiDirectoryNode" />
+              <item name="bai31" type="462c0819:PsiDirectoryNode" />
+              <item name="Mon" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaExampleForIntelliJ" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaExampleForIntelliJ" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Chuong3" type="462c0819:PsiDirectoryNode" />
-              <item name="bai30" type="462c0819:PsiDirectoryNode" />
-              <item name="NgayThang" type="462c0819:PsiDirectoryNode" />
+              <item name="bai31" type="462c0819:PsiDirectoryNode" />
+              <item name="Ngay" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaExampleForIntelliJ" type="b2602c69:ProjectViewProjectNode" />
               <item name="JavaExampleForIntelliJ" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Chuong3" type="462c0819:PsiDirectoryNode" />
-              <item name="bai30" type="462c0819:PsiDirectoryNode" />
-              <item name="NhanVien" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaExampleForIntelliJ" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaExampleForIntelliJ" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Chuong3" type="462c0819:PsiDirectoryNode" />
-              <item name="bai30" type="462c0819:PsiDirectoryNode" />
-              <item name="NhanVienDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="bai31" type="462c0819:PsiDirectoryNode" />
+              <item name="SinhVien" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -492,7 +338,7 @@
     <frame x="0" y="25" width="960" height="1055" extended-state="4" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17982456" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18859649" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -502,7 +348,7 @@
       <window_info id="Favorites" order="7" side_tool="true" weight="0.32894737" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3292683" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3292683" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -551,45 +397,10 @@
     </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Chuong2/bai6/mypack/PhuongTrinhBac2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chuong2/bai6/Main/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="42" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chuong2/bai7/TamGiac.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chuong2/bai8/mypack/KhoangCachDiem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="33" lean-forward="true" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Chuong2/bai8/Main/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="42" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chuong2/bai9/TimNgay.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="35" selection-start-line="5" selection-start-column="35" selection-end-line="5" selection-end-column="35" />
         </state>
       </provider>
     </entry>
@@ -948,10 +759,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chuong3/bai30/NhanVienDemo/NhanVienDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/Chuong2/bai9/TimNgay.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="44" column="17" selection-start-line="44" selection-start-column="17" selection-end-line="44" selection-end-column="17" />
+        <state relative-caret-position="480">
+          <caret line="32" column="17" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chuong3/bai30/NhanVien/NhanVien.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="51" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -960,18 +778,50 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Chuong3/bai30/NgayThang/NgayThang.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-94">
-          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+        <state relative-caret-position="840">
+          <caret line="56" column="22" selection-start-line="56" selection-start-column="22" selection-end-line="56" selection-end-column="22" />
+          <folding>
+            <element signature="e#2504#2505#0" expanded="true" />
+            <element signature="e#2557#2558#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chuong3/bai30/NhanVien/NhanVien.java">
+    <entry file="file://$PROJECT_DIR$/src/Chuong3/bai30/NhanVienDemo/NhanVienDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="356">
-          <caret line="27" column="24" lean-forward="true" selection-start-line="27" selection-start-column="24" selection-end-line="27" selection-end-column="24" />
+        <state relative-caret-position="675">
+          <caret line="45" column="30" selection-start-line="45" selection-start-column="30" selection-end-line="45" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chuong3/bai31/Mon/Mon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chuong3/bai31/Ngay/Date.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="25" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chuong3/bai31/SinhVien/SinhVien.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chuong3/bai31/Main/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>

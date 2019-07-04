@@ -6,7 +6,8 @@ import java.util.Scanner;
 
 public class NhanVien {
     private String hoDem, ten;
-    private NgayThang ngaySinh, ngayVaoLam;
+    private NgayThang ngaySinh = new NgayThang();
+    private NgayThang ngayVaoLam = new NgayThang();
     static Scanner input = new Scanner(System.in);
 
     public NhanVien() {
