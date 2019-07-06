@@ -70,6 +70,6 @@ public class MonHoc extends SinhVien {
         for(int i=0; i<list.size(); i++){
             list.get(i).xuatMonHoc();
         }
-        System.out.println("\t=> Diem trung binh tich luy: " + getDiemTB());
+        System.out.println("\n\t\t=> Diem trung binh tich luy: " + getDiemTB());
     }
 }

@@ -6,6 +6,7 @@ public class Mon {
     private String tenMon;
     private int soHocTrinh;
     private String hocKy;
+    private float diemThi;
     static Scanner input = new Scanner(System.in);
 
     public void nhap(){
@@ -16,9 +17,16 @@ public class Mon {
         input.nextLine();
         System.out.print("Hoc ky: ");
         hocKy = input.nextLine();
+        System.out.print("Diem thi: ");
+        diemThi = input.nextFloat();
+        input.nextLine();
     }
 
     public void xuat(){
+        System.out.printf("%20s%20d%20s%20.2f%n", tenMon, soHocTrinh, hocKy, diemThi);
+    }
 
+    public float getDiemThi() {
+        return diemThi;
     }
 }
