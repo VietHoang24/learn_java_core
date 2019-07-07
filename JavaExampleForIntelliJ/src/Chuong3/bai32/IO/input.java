@@ -6,82 +6,90 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 public class input {
+    static ArrayList<KhachHang> listKH = new ArrayList<KhachHang>();
+    static ArrayList<HangHoa> list = new ArrayList<HangHoa>();
     static Scanner input = new Scanner(System.in);
 
     public static Date inputDate(){
-        Date a = new Date();
+        Date day = new Date();
 
         System.out.print("Ngay  : ");
         int ngay = input.nextInt();
-        a.setNgay(ngay);
+        day.setNgay(ngay);
 
         System.out.print("Thang : ");
         int thang = input.nextInt();
-        a.setThang(thang);
+        day.setThang(thang);
 
         System.out.print("Nam   : ");
         int nam = input.nextInt();
-        a.setNam(nam);
+        day.setNam(nam);
         input.nextLine();
 
-        return a;
+        return day;
     }
 
     public static void inputKH(){
-        KhachHang a = new KhachHang();
+        KhachHang kH = new KhachHang();
 
         System.out.print("Ma hoat dong   : ");
         String maHD = input.nextLine();
-        a.setMaHD(maHD);
+        kH.setMaHD(maHD);
 
         System.out.print("Ten khach hang : ");
         String tenKH = input.nextLine();
-        a.setTenKH(tenKH);
+        kH.setTenKH(tenKH);
 
         System.out.print("Dia chi        : ");
         String diaChi = input.nextLine();
-        a.setDiaChi(diaChi);
+        kH.setDiaChi(diaChi);
 
         System.out.println("-- Nhap ngay ban --");
-        Date x = inputDate();
-        a.setNgayBan(x);
+        Date date = inputDate();
+        kH.setNgayBan(date);
+
+        listKH.add(kH);
     }
 
-    public static void inputHangHoa(HangHoa a){
+    public static void inputHangHoa(){
+        HangHoa hH = new HangHoa();
+
         System.out.print("Ten hang : ");
         String tenHang = input.nextLine();
-        a.setTenHang(tenHang);
+        hH.setTenHang(tenHang);
 
         System.out.print("Don gia  : ");
         int donGia = input.nextInt();
-        a.setDonGia(donGia);
+        hH.setDonGia(donGia);
 
         System.out.print("So luong : ");
         int soLuong = input.nextInt();
-        a.setSoLuong(soLuong);
+        hH.setSoLuong(soLuong);
         input.nextLine();
 
-        long thanhTien = a.getSoLuong()*a.getDonGia();
-        a.setThanhTien(thanhTien);
+        long thanhTien = hH.getSoLuong()*hH.getDonGia();
+        hH.setThanhTien(thanhTien);
+
+        list.add(hH);
     }
 
-    public static void inputHoaDon(HoaDon a){
+    public static HoaDon inputHoaDon(){
+        HoaDon hD = new HoaDon();
+
         System.out.println("----- Nhap thong tin khach hang -----");
-        KhachHang x = new KhachHang();
-        inputKH(x);
-        a.setKhachHang(x);
+        inputKH();
+        hD.setKhachHang(listKH.get(0));
 
         System.out.println("----- Nhap thong tin hang hoa -----");
-        ArrayList<HangHoa> y = new ArrayList<HangHoa>();
         System.out.print("Tong so hang hoa can nhap: ");
         int n = input.nextInt();
         input.nextLine();
         for(int i=0; i<n; i++){
             System.out.println("\t-> Mat hang thu " + (i+1));
-            HangHoa z = new HangHoa();
-            inputHangHoa(z);
-            y.add(z);
+            inputHangHoa();
         }
-        a.setHangHoa(y);
+        hD.setHangHoa(list);
+
+        return hD;
     }
 }

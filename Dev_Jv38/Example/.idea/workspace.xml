@@ -2,19 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8e7dce99-e78e-4924-890a-64d2c1cdfd16" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/vn/Unit2/ToanTuBaNgoi/ToanTuBaNgoi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/vn/Unit2/bai1/HinhThang.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/vn/Unit2/bai2/TamGiac.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/vn/Unit2/bai4/UCLN_Euclid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/vn/Unit2/bai8/HocSinh.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/vn/Unit2/bai8/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vn/Unit3/BaiTap1/BaiToan1/PTB2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vn/Unit3/BaiTap1/BaiToan2/XepLoaiHocTap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vn/Unit3/BaiTap1/BaiToan3/TinhLuong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vn/Unit3/BaiTap1/BaiToan4/Date.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vn/Unit3/BaiTap1/Main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vn/Unit3/BaiTap1/Menu/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vn/Unit3/BaiTap3/BaiToan1/GiaiThua.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vn/Unit3/BaiTap3/BaiToan2/SoDaoNguoc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vn/Unit3/BaiTap3/BaiToan3/SaiSo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vn/Unit3/BaiTap3/BaiToan4/PhanSoToiGian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vn/Unit3/BaiTap3/Main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vn/Unit3/BaiTap3/Menu/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vn/Unit3/DemChuSo/DemChuSo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vn/Unit3/TinhTienDien/TinhTienDien.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HomeWorks/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWorks/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HomeWorks/out/production/HomeWorks/VuVanHung_Day1/Bai9/MonHoc.class" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWorks/out/production/HomeWorks/VuVanHung_Day1/Bai9/MonHoc.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HomeWorks/out/production/HomeWorks/VuVanHung_Day1/Bai9/SinhVien.class" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWorks/out/production/HomeWorks/VuVanHung_Day1/Bai9/SinhVien.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../HomeWorks/src/VuVanHung_Day1/Bai9/MonHoc.java" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWorks/src/VuVanHung_Day1/Bai9/MonHoc.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/src/Chuong3/bai31/Mon/Mon.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/src/Chuong3/bai31/Mon/Mon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/out/production/JavaExampleForIntelliJ/Chuong3/bai32/IO/input.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/out/production/JavaExampleForIntelliJ/Chuong3/bai32/IO/input.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/out/production/JavaExampleForIntelliJ/Chuong3/bai32/IO/output.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/out/production/JavaExampleForIntelliJ/Chuong3/bai32/IO/output.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/out/production/JavaExampleForIntelliJ/Chuong3/bai32/Main/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/out/production/JavaExampleForIntelliJ/Chuong3/bai32/Main/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/src/Chuong3/bai32/IO/Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/src/Chuong3/bai32/IO/Sort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/src/Chuong3/bai32/IO/input.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/src/Chuong3/bai32/IO/input.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/src/Chuong3/bai32/IO/output.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/src/Chuong3/bai32/IO/output.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/src/Chuong3/bai32/Main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/src/Chuong3/bai32/Main/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,26 +37,7 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/vn/Unit2/bai4/UCLN_Euclid.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/vn/Unit2/bai2/TamGiac.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="27" column="5" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="27" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -75,6 +66,20 @@
         <option value="$PROJECT_DIR$/src/vn/Unit2/bai8/Main.java" />
         <option value="$PROJECT_DIR$/src/vn/Unit2/bai4/UCLN_Euclid.java" />
         <option value="$PROJECT_DIR$/src/vn/Unit2/bai2/TamGiac.java" />
+        <option value="$PROJECT_DIR$/src/vn/Unit3/TinhTienDien/TinhTienDien.java" />
+        <option value="$PROJECT_DIR$/src/vn/Unit3/BaiTap1/BaiToan1/PTB2.java" />
+        <option value="$PROJECT_DIR$/src/vn/Unit3/BaiTap1/BaiToan2/XepLoaiHocTap.java" />
+        <option value="$PROJECT_DIR$/src/vn/Unit3/BaiTap1/BaiToan4/Date.java" />
+        <option value="$PROJECT_DIR$/src/vn/Unit3/BaiTap1/Main/Main.java" />
+        <option value="$PROJECT_DIR$/src/vn/Unit3/DemChuSo/DemChuSo.java" />
+        <option value="$PROJECT_DIR$/src/vn/Unit3/BaiTap1/Menu/Menu.java" />
+        <option value="$PROJECT_DIR$/src/vn/Unit3/BaiTap1/BaiToan3/TinhLuong.java" />
+        <option value="$PROJECT_DIR$/src/vn/Unit3/BaiTap3/BaiToan2/SoDaoNguoc.java" />
+        <option value="$PROJECT_DIR$/src/vn/Unit3/BaiTap3/BaiToan1/GiaiThua.java" />
+        <option value="$PROJECT_DIR$/src/vn/Unit3/BaiTap3/BaiToan3/SaiSo.java" />
+        <option value="$PROJECT_DIR$/src/vn/Unit3/BaiTap3/BaiToan4/PhanSoToiGian.java" />
+        <option value="$PROJECT_DIR$/src/vn/Unit3/BaiTap3/Main/Main.java" />
+        <option value="$PROJECT_DIR$/src/vn/Unit3/BaiTap3/Menu/Menu.java" />
       </list>
     </option>
   </component>
@@ -92,7 +97,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -116,35 +120,13 @@
               <item name="Example" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="vn" type="462c0819:PsiDirectoryNode" />
-              <item name="Unit1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Unit1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Example" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="vn" type="462c0819:PsiDirectoryNode" />
-              <item name="Unit2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Unit1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Example" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="vn" type="462c0819:PsiDirectoryNode" />
-              <item name="Unit2" type="462c0819:PsiDirectoryNode" />
-              <item name="bai2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Unit1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Example" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="vn" type="462c0819:PsiDirectoryNode" />
-              <item name="Unit2" type="462c0819:PsiDirectoryNode" />
-              <item name="bai4" type="462c0819:PsiDirectoryNode" />
+              <item name="Unit3" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -166,26 +148,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.UCLN_Euclid">
-    <configuration name="HinhThang" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="vn.Unit2.bai1.HinhThang" />
-      <module name="Unit1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="vn.Unit2.bai1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Main (1)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="vn.Unit2.bai8.Main" />
+      <option name="MAIN_CLASS_NAME" value="vn.Unit3.BaiTap3.Main.Main" />
       <module name="Unit1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="vn.Unit2.bai8.*" />
+          <option name="PATTERN" value="vn.Unit3.BaiTap3.Main.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -193,12 +162,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TamGiac" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="vn.Unit2.bai2.TamGiac" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="vn.Unit3.BaiTap1.Main.Main" />
       <module name="Unit1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="vn.Unit2.bai2.*" />
+          <option name="PATTERN" value="vn.Unit3.BaiTap1.Main.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -206,12 +175,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ToanTuBaNgoi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="vn.Unit2.ToanTuBaNgoi.ToanTuBaNgoi" />
+    <configuration name="PhanSoToiGian" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="vn.Unit3.BaiTap3.BaiToan4.PhanSoToiGian" />
       <module name="Unit1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="vn.Unit2.ToanTuBaNgoi.*" />
+          <option name="PATTERN" value="vn.Unit3.BaiTap3.BaiToan4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -219,12 +188,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UCLN_Euclid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="vn.Unit2.bai4.UCLN_Euclid" />
+    <configuration name="SoDaoNguoc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="vn.Unit3.BaiTap3.BaiToan2.SoDaoNguoc" />
       <module name="Unit1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="vn.Unit2.bai4.*" />
+          <option name="PATTERN" value="vn.Unit3.BaiTap3.BaiToan2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TinhTienDien" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="vn.Unit3.TinhTienDien.TinhTienDien" />
+      <module name="Unit1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="vn.Unit3.TinhTienDien.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -234,11 +216,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.UCLN_Euclid" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.TamGiac" />
-        <item itemvalue="Application.HinhThang" />
-        <item itemvalue="Application.ToanTuBaNgoi" />
+        <item itemvalue="Application.PhanSoToiGian" />
+        <item itemvalue="Application.SoDaoNguoc" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.TinhTienDien" />
       </list>
     </recent_temporary>
   </component>
@@ -265,10 +247,10 @@
       <window_info id="UI Designer" order="4" />
       <window_info id="Learn" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="7" visible="true" weight="0.19517544" />
+      <window_info active="true" content_ui="combo" id="Project" order="7" visible="true" weight="0.21491228" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946582" weight="0.3292683" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946582" weight="0.40022174" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -379,8 +361,125 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/vn/Unit2/bai2/TamGiac.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="27" column="5" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="27" selection-end-column="5" />
+        <state relative-caret-position="225">
+          <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/vn/Unit3/TinhTienDien.java" />
+    <entry file="file://$PROJECT_DIR$/src/vn/Unit3/TinhTienDien/TinhTienDien.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="40" lean-forward="true" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/vn/Unit3/BaiTap1/Menu/Menu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="825">
+          <caret line="55" column="42" selection-start-line="55" selection-start-column="42" selection-end-line="55" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/vn/Unit3/BaiTap1/Main/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="20" lean-forward="true" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+          <folding>
+            <element signature="e#131#132#0" expanded="true" />
+            <element signature="e#150#151#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/vn/Unit3/BaiTap1/BaiToan1/PTB2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/vn/Unit3/BaiTap1/BaiToan4/Date.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="50" column="27" selection-start-line="50" selection-start-column="27" selection-end-line="50" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/vn/Unit3/BaiTap1/BaiToan3/TinhLuong.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="20" column="54" selection-start-line="20" selection-start-column="54" selection-end-line="20" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/vn/Unit3/DemChuSo/DemChuSo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="70" selection-start-line="18" selection-start-column="70" selection-end-line="18" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/vn/Unit3/BaiTap1/BaiToan2/XepLoaiHocTap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="61" selection-start-line="26" selection-start-column="61" selection-end-line="26" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/vn/Unit3/BaiTap3/Main/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+          <folding>
+            <element signature="e#131#132#0" expanded="true" />
+            <element signature="e#160#161#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/vn/Unit3/BaiTap3/Menu/Menu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/vn/Unit3/BaiTap3/BaiToan4/PhanSoToiGian.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="5" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/vn/Unit3/BaiTap3/BaiToan3/SaiSo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/vn/Unit3/BaiTap3/BaiToan2/SoDaoNguoc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+          <folding>
+            <element signature="e#508#509#0" expanded="true" />
+            <element signature="e#590#591#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/vn/Unit3/BaiTap3/BaiToan1/GiaiThua.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
         </state>
       </provider>
     </entry>

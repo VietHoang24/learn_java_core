@@ -2,34 +2,33 @@ package Chuong3.bai32.IO;
 
 import Chuong3.bai32.Module.*;
 
-public class output {
-    public static void outputDate(Date a){
-        System.out.print(a.getNgay() + "/" + a.getThang() + "/" + a.getNam());
+public class output extends input {
+    public static void outputDate(){
+        System.out.print(listKH.get(0).getNgayBan().getNgay() + "/" +
+                listKH.get(0).getNgayBan().getThang() + "/" +
+                listKH.get(0).getNgayBan().getNam());
     }
 
-    public static void outputKH(KhachHang a){
-        System.out.printf("%n%30s%s%25s", "Ma hoat dong: ", a.getMaHD(), "Ngay ban: ");
-        outputDate(a.getNgayBan());
-        System.out.printf("%n%28s%s%21s%s%n%n", "Khach hang: ", a.getTenKH(), "Dia chi: ", a.getDiaChi());
-    }
-
-    public static void outputHangHoa(HangHoa a){
-        System.out.printf("%20s%20d%20d%20d%n", a.getTenHang(), a.getDonGia(), a.getSoLuong(), a.getThanhTien());
+    public static void outputKH(){
+        System.out.printf("%n%30s%s%25s", "Ma hoat dong: ", listKH.get(0).getMaHD(), "Ngay ban: ");
+        outputDate();
+        System.out.printf("%n%28s%s%21s%s%n%n", "Khach hang: ", listKH.get(0).getTenKH(), "Dia chi: ", listKH.get(0).getDiaChi());
     }
 
     public static void tieuDe(){
         System.out.printf("%20s%20s%20s%20s%n", "Ten Hang", "Don Gia", "So Luong", "Thanh Tien");
     }
 
-    public static void outputHoaDon(HoaDon a){
+    public static void outputHoaDon(){
         System.out.printf("%n%50s%n", "HOA DON MUA HANG");
-        outputKH(a.getKhachHang());
+        outputKH();
         tieuDe();
         long tongSoLuong = 0, tongThanhTien = 0;
-        for (int i=0; i<a.getHangHoa().size(); i++) {
-            outputHangHoa(a.getHangHoa().get(i));
-            tongSoLuong += a.getHangHoa().get(i).getSoLuong();
-            tongThanhTien += a.getHangHoa().get(i).getThanhTien();
+        for (int i=0; i<list.size(); i++) {
+            System.out.printf("%20s%20d%20d%20d%n", list.get(i).getTenHang(),
+                    list.get(i).getDonGia(), list.get(i).getSoLuong(), list.get(i).getThanhTien());
+            tongSoLuong += list.get(i).getSoLuong();
+            tongThanhTien += list.get(i).getThanhTien();
         }
         System.out.printf("%n%20s%40d%20d%n", "Tong tien", tongSoLuong, tongThanhTien);
     }
