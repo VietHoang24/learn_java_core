@@ -32,7 +32,7 @@ public class input {
     public static void inputKH(){
         KhachHang kH = new KhachHang();
 
-        System.out.print("Ma hoat dong   : ");
+        System.out.print("Ma hoa don     : ");
         String maHD = input.nextLine();
         kH.setMaHD(maHD);
 

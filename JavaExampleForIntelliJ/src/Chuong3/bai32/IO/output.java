@@ -1,7 +1,5 @@
 package Chuong3.bai32.IO;
 
-import Chuong3.bai32.Module.*;
-
 public class output extends input {
     public static void outputDate(){
         System.out.print(listKH.get(0).getNgayBan().getNgay() + "/" +
@@ -10,9 +8,9 @@ public class output extends input {
     }
 
     public static void outputKH(){
-        System.out.printf("%n%30s%s%25s", "Ma hoat dong: ", listKH.get(0).getMaHD(), "Ngay ban: ");
+        System.out.printf("%n%30s%s%25s", "Ma hoa don: ", listKH.get(0).getMaHD(), "Ngay ban: ");
         outputDate();
-        System.out.printf("%n%28s%s%21s%s%n%n", "Khach hang: ", listKH.get(0).getTenKH(), "Dia chi: ", listKH.get(0).getDiaChi());
+        System.out.printf("%n%30s%s%21s%s%n%n", "Khach hang: ", listKH.get(0).getTenKH(), "Dia chi: ", listKH.get(0).getDiaChi());
     }
 
     public static void tieuDe(){

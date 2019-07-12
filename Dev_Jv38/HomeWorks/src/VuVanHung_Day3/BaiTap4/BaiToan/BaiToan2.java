@@ -12,13 +12,17 @@ public class BaiToan2 {
     }
 
     public static void tongNguyenTo(){
-        int tong = 0;
-        for (int i=1; i<=n; i++){
+        int tong = 0, dem = 0;
+        int i = 2;
+        System.out.print(n + " so nguyen to dau tien la: ");
+        do {
             if(BaiToan1.check(i)){
-                System.out.print(i + ", ");
                 tong+=i;
+                dem++;
+                System.out.print(i + ", ");
             }
-        }
-        System.out.println("Tong cua n so nguyen to dau tien la: " + tong);
+            i++;
+        } while (dem<n);
+        System.out.println("\n-> Tong cua n so nguyen to dau tien la: " + tong);
     }
 }

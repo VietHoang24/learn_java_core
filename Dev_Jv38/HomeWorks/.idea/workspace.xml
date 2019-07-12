@@ -2,46 +2,93 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1303fcc8-65ae-4728-965b-d472385d34f5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Example/src/vn/Unit3/BaiTap1/BaiToan1/PTB2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Example/src/vn/Unit3/BaiTap1/BaiToan2/XepLoaiHocTap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Example/src/vn/Unit3/BaiTap1/BaiToan3/TinhLuong.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Example/src/vn/Unit3/BaiTap1/BaiToan4/Date.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Example/src/vn/Unit3/BaiTap1/Main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Example/src/vn/Unit3/BaiTap1/Menu/Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Example/src/vn/Unit3/BaiTap3/BaiToan1/GiaiThua.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Example/src/vn/Unit3/BaiTap3/BaiToan2/SoDaoNguoc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Example/src/vn/Unit3/BaiTap3/BaiToan3/SaiSo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Example/src/vn/Unit3/BaiTap3/BaiToan4/PhanSoToiGian.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Example/src/vn/Unit3/BaiTap3/Main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Example/src/vn/Unit3/BaiTap3/Menu/Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Example/src/vn/Unit3/DemChuSo/DemChuSo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Example/src/vn/Unit3/TinhTienDien/TinhTienDien.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VuVanHung_Day3/BaiTap2/BaiToan/BaiToan1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VuVanHung_Day3/BaiTap2/BaiToan/BaiToan2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VuVanHung_Day3/BaiTap2/BaiToan/BaiToan3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VuVanHung_Day3/BaiTap2/BaiToan/BaiToan4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VuVanHung_Day3/BaiTap2/Main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VuVanHung_Day3/BaiTap2/Menu/HienThiMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VuVanHung_Day3/BaiTap2/Menu/LuaChon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VuVanHung_Day3/BaiTap2/Menu/Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VuVanHung_Day3/BaiTap4/BaiToan/BaiToan1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VuVanHung_Day3/BaiTap4/BaiToan/BaiToan2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VuVanHung_Day3/BaiTap4/BaiToan/BaiToan3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VuVanHung_Day3/BaiTap4/BaiToan/BaiToan4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VuVanHung_Day3/BaiTap4/BaiToan/BaiToan5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VuVanHung_Day3/BaiTap4/Main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VuVanHung_Day3/BaiTap4/Menu/HienThi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VuVanHung_Day3/BaiTap4/Menu/LuaChon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VuVanHung_Day3/BaiTap4/Menu/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ConnectSQLtoJAVA/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ConnectSQLtoJAVA/.idea/libraries/mssql_jdbc_7_0_0_jre10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ConnectSQLtoJAVA/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ConnectSQLtoJAVA/src/Connect/Connect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ConnectSQLtoJAVA/src/Connect/Output.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ConnectSQLtoJAVA/src/Main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/src/vn/Unit4/Chuoi/ArrayStringUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/src/vn/Unit4/Mang1Chieu/vd1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/src/vn/Unit4/Mang1Chieu/vd2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Example/src/vn/Unit4/Mang2Chieu/vd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VuVanHung_Day4/Mang2Chieu/ViDu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/src/Chuong3/bai33/IO/input.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/src/Chuong3/bai33/IO/output.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/src/Chuong3/bai33/Main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/src/Chuong3/bai33/Module/MonHoc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/src/Chuong3/bai33/Module/SinhVien.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/JavaProgram.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/KotlinJavaRuntime__2_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/KotlinJavaRuntime__3_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/KotlinJavaRuntime__4_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/KotlinJavaRuntime__5_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.mylyn/.taskListIndex/segments_1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.mylyn/.taskListIndex/write.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.mylyn/.tasks.xml.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.mylyn/repositories.xml.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.mylyn/tasks.xml.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/history.version" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.version" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.core.resources/.root/2.tree" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.m2e.discovery.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.context.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.monitor.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.tasks.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.jdt.core/assumedExternalFilesCache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.jdt.core/index.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.jdt.ui/OpenTypeHistory.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.m2e.logback.configuration/logback.1.11.0.20190220-2119.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.tips.ide/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.ui.ide/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.ui.intro/introstate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.metadata/version.ini" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Example/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Example/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Example/out/production/Unit1/vn/Unit3/BaiTap3/Menu/Menu.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Example/out/production/Unit1/vn/Unit3/BaiTap3/Menu/Menu.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWorks/VuVanHung_Day2/bai9/TimMax.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HomeWorks/VuVanHung_Day2/bai9/TimMax.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeWorks/VuVanHung_Day3/BaiTap4/BaiToan/BaiToan2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HomeWorks/VuVanHung_Day3/BaiTap4/BaiToan/BaiToan2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeWorks/VuVanHung_Day3/BaiTap4/BaiToan/BaiToan3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HomeWorks/VuVanHung_Day3/BaiTap4/BaiToan/BaiToan3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeWorks/VuVanHung_Day3/BaiTap4/BaiToan/BaiToan4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HomeWorks/VuVanHung_Day3/BaiTap4/BaiToan/BaiToan4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/VuVanHung_Day3/BaiTap4/BaiToan/BaiToan2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/VuVanHung_Day3/BaiTap4/BaiToan/BaiToan2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/VuVanHung_Day3/BaiTap4/BaiToan/BaiToan3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/VuVanHung_Day3/BaiTap4/BaiToan/BaiToan3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/VuVanHung_Day3/BaiTap4/BaiToan/BaiToan4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/VuVanHung_Day3/BaiTap4/BaiToan/BaiToan4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/VuVanHung_Day3/VuVanHung_Day3.zip" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/out/production/JavaExampleForIntelliJ/Chuong3/bai32/Control/Choice.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/out/production/JavaExampleForIntelliJ/Chuong3/bai32/Control/Choice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/out/production/JavaExampleForIntelliJ/Chuong3/bai32/Control/Menu.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/out/production/JavaExampleForIntelliJ/Chuong3/bai32/Control/Menu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/out/production/JavaExampleForIntelliJ/Chuong3/bai32/Control/SwitchChoice.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/out/production/JavaExampleForIntelliJ/Chuong3/bai32/Control/SwitchChoice.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/out/production/JavaExampleForIntelliJ/Chuong3/bai32/IO/input.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/out/production/JavaExampleForIntelliJ/Chuong3/bai32/IO/input.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/out/production/JavaExampleForIntelliJ/Chuong3/bai32/IO/output.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/out/production/JavaExampleForIntelliJ/Chuong3/bai32/IO/output.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/out/production/JavaExampleForIntelliJ/Chuong3/bai32/Main/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/out/production/JavaExampleForIntelliJ/Chuong3/bai32/Main/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/src/Chuong3/bai32/IO/Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/src/Chuong3/bai32/IO/Sort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/src/Chuong3/bai32/Control/Choice.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/src/Chuong3/bai32/Control/Choice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/src/Chuong3/bai32/Control/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/src/Chuong3/bai32/Control/Menu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/src/Chuong3/bai32/Control/SwitchChoice.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/src/Chuong3/bai32/Control/SwitchChoice.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/src/Chuong3/bai32/IO/input.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/src/Chuong3/bai32/IO/input.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/src/Chuong3/bai32/IO/output.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/src/Chuong3/bai32/IO/output.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/src/Chuong3/bai32/Main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/src/Chuong3/bai32/Main/Main.java" afterDir="false" />
@@ -57,52 +104,12 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day3/BaiTap4/Menu/LuaChon.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="35" column="22" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day3/BaiTap4/Main/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day4/Mang2Chieu/ViDu.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-              <folding>
-                <element signature="e#143#144#0" expanded="true" />
-                <element signature="e#162#163#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day3/BaiTap4/BaiToan/BaiToan1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day3/BaiTap4/BaiToan/BaiToan2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="32" lean-forward="true" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day3/BaiTap4/BaiToan/BaiToan3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+            <state relative-caret-position="510">
+              <caret line="34" column="9" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -161,15 +168,16 @@
         <option value="$PROJECT_DIR$/src/VuVanHung_Day3/BaiTap2/Menu/HienThiMenu.java" />
         <option value="$PROJECT_DIR$/src/VuVanHung_Day3/BaiTap2/Menu/Menu.java" />
         <option value="$PROJECT_DIR$/src/VuVanHung_Day3/BaiTap2/Menu/LuaChon.java" />
-        <option value="$PROJECT_DIR$/src/VuVanHung_Day3/BaiTap4/BaiToan/BaiToan5.java" />
         <option value="$PROJECT_DIR$/src/VuVanHung_Day3/BaiTap4/Menu/HienThi.java" />
         <option value="$PROJECT_DIR$/src/VuVanHung_Day3/BaiTap4/Menu/Menu.java" />
         <option value="$PROJECT_DIR$/src/VuVanHung_Day3/BaiTap4/Main/Main.java" />
         <option value="$PROJECT_DIR$/src/VuVanHung_Day3/BaiTap4/BaiToan/BaiToan1.java" />
-        <option value="$PROJECT_DIR$/src/VuVanHung_Day3/BaiTap4/BaiToan/BaiToan2.java" />
         <option value="$PROJECT_DIR$/src/VuVanHung_Day3/BaiTap4/Menu/LuaChon.java" />
-        <option value="$PROJECT_DIR$/src/VuVanHung_Day3/BaiTap4/BaiToan/BaiToan4.java" />
+        <option value="$PROJECT_DIR$/src/VuVanHung_Day3/BaiTap4/BaiToan/BaiToan2.java" />
         <option value="$PROJECT_DIR$/src/VuVanHung_Day3/BaiTap4/BaiToan/BaiToan3.java" />
+        <option value="$PROJECT_DIR$/src/VuVanHung_Day3/BaiTap4/BaiToan/BaiToan4.java" />
+        <option value="$PROJECT_DIR$/src/VuVanHung_Day3/BaiTap4/BaiToan/BaiToan5.java" />
+        <option value="$PROJECT_DIR$/src/VuVanHung_Day4/Mang2Chieu/ViDu.java" />
       </list>
     </option>
   </component>
@@ -192,8 +200,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -206,16 +212,31 @@
               <item name="HomeWorks" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="HomeWorks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HomeWorks" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="VuVanHung_Day4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HomeWorks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HomeWorks" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="VuVanHung_Day4" type="462c0819:PsiDirectoryNode" />
+              <item name="Mang2Chieu" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Example" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -234,9 +255,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
-    <configuration name="BaiToan4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="VuVanHung_Day3.BaiTap4.BaiToan.BaiToan4" />
+  <component name="RunManager" selected="Application.ViDu">
+    <configuration name="BaiToan2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VuVanHung_Day3.BaiTap4.BaiToan.BaiToan2" />
       <module name="HomeWorks" />
       <extension name="coverage">
         <pattern>
@@ -248,12 +269,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IOstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="VuVanHung_Day2.bai7.IOstring" />
+    <configuration name="BaiToan3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VuVanHung_Day3.BaiTap4.BaiToan.BaiToan3" />
       <module name="HomeWorks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="VuVanHung_Day2.bai7.*" />
+          <option name="PATTERN" value="VuVanHung_Day3.BaiTap4.BaiToan.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BaiToan4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VuVanHung_Day3.BaiTap4.BaiToan.BaiToan4" />
+      <module name="HomeWorks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="VuVanHung_Day3.BaiTap4.BaiToan.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -274,25 +308,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="VuVanHung_Day3.BaiTap2.Main.Main" />
+    <configuration name="ViDu" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VuVanHung_Day4.Mang2Chieu.ViDu" />
       <module name="HomeWorks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="VuVanHung_Day3.BaiTap2.Main.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TimMax" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="VuVanHung_Day2.bai9.TimMax" />
-      <module name="HomeWorks" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="VuVanHung_Day2.bai9.*" />
+          <option name="PATTERN" value="VuVanHung_Day4.Mang2Chieu.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -302,11 +323,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ViDu" />
         <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.BaiToan3" />
+        <item itemvalue="Application.BaiToan2" />
         <item itemvalue="Application.BaiToan4" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.TimMax" />
-        <item itemvalue="Application.IOstring" />
       </list>
     </recent_temporary>
   </component>
@@ -326,7 +347,7 @@
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="960" height="1055" extended-state="4" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25219297" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26754385" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -336,7 +357,7 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3292683" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32921347" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -355,7 +376,7 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25219297" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26864034" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -365,7 +386,7 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3292683" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32921347" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -568,62 +589,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day3/BaiTap2/BaiToan/BaiToan3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="80" selection-start-line="29" selection-start-column="80" selection-end-line="29" selection-end-column="80" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day3/BaiTap2/BaiToan/BaiToan1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="39" column="22" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day3/BaiTap2/BaiToan/BaiToan2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="68" selection-start-line="25" selection-start-column="68" selection-end-line="25" selection-end-column="68" />
-          <folding>
-            <element signature="e#562#563#0" expanded="true" />
-            <element signature="e#598#599#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day3/BaiTap2/BaiToan/BaiToan4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="728">
-          <caret line="57" column="5" lean-forward="true" selection-start-line="57" selection-start-column="5" selection-end-line="57" selection-end-column="5" />
-          <folding>
-            <element signature="e#1130#1131#0" expanded="true" />
-            <element signature="e#1154#1155#0" expanded="true" />
-            <element signature="e#1330#1331#0" expanded="true" />
-            <element signature="e#1354#1355#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day3/BaiTap2/Menu/NhapLuaChon.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="52" lean-forward="true" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
-          <folding>
-            <element signature="e#175#176#0" expanded="true" />
-            <element signature="e#211#212#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day3/BaiTap4/BaiToan/BaiToan5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="17" lean-forward="true" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day3/BaiTap2/Menu/NhapLuaChon.java" />
     <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day3/BaiTap2/Menu/HienThiMenu.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -672,15 +638,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day3/BaiTap4/Menu/LuaChon.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
+        <state relative-caret-position="525">
           <caret line="35" column="22" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day3/BaiTap4/BaiToan/BaiToan4.java">
+    <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day3/BaiTap2/BaiToan/BaiToan1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="431">
-          <caret line="36" column="5" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="5" />
+        <state relative-caret-position="585">
+          <caret line="39" column="22" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day3/BaiTap2/BaiToan/BaiToan2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="25" column="68" selection-start-line="25" selection-start-column="68" selection-end-line="25" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day3/BaiTap2/BaiToan/BaiToan3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="80" selection-start-line="29" selection-start-column="80" selection-end-line="29" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day3/BaiTap2/BaiToan/BaiToan4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="71">
+          <caret line="10" column="50" selection-start-line="10" selection-start-column="50" selection-end-line="10" selection-end-column="50" />
         </state>
       </provider>
     </entry>
@@ -691,28 +678,49 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day3/BaiTap4/Main/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding>
+            <element signature="e#143#144#0" expanded="true" />
+            <element signature="e#170#171#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day3/BaiTap4/BaiToan/BaiToan2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="32" lean-forward="true" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+        <state relative-caret-position="390">
+          <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day3/BaiTap4/BaiToan/BaiToan3.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+        <state relative-caret-position="105">
+          <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day3/BaiTap4/Main/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day3/BaiTap4/BaiToan/BaiToan5.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="e#143#144#0" expanded="true" />
-            <element signature="e#162#163#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="390">
+          <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day3/BaiTap4/BaiToan/BaiToan4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="44" column="36" selection-start-line="44" selection-start-column="36" selection-end-line="44" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day4/Mang2Chieu/ViDu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="9" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
         </state>
       </provider>
     </entry>
