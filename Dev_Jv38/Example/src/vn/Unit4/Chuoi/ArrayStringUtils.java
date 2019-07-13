@@ -23,11 +23,11 @@ public class ArrayStringUtils {
         return t;
     }
 
-    public static void xuat(){
+    public static void xuat() {
         System.out.println("----- Danh sach cac ho gia dinh -----");
         System.out.println("STT " + "Ten     " + "   SoKwh" + "      ThanhTien");
-        for(int i=0; i<name.length; i++){
-            System.out.printf("%2d  ", (i+1));
+        for (int i = 0; i < name.length; i++) {
+            System.out.printf("%2d  ", (i + 1));
             System.out.printf("%-10s", name[i]); //-10s can le trai
             System.out.printf("%6d", cto[i]);
             System.out.printf("%12d vnd\n", tienDien(cto[i]));

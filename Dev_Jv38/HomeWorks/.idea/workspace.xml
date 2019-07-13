@@ -2,96 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1303fcc8-65ae-4728-965b-d472385d34f5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../ConnectSQLtoJAVA/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ConnectSQLtoJAVA/.idea/libraries/mssql_jdbc_7_0_0_jre10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ConnectSQLtoJAVA/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ConnectSQLtoJAVA/src/Connect/Connect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ConnectSQLtoJAVA/src/Connect/Output.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../ConnectSQLtoJAVA/src/Main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Example/src/vn/Unit4/Chuoi/ArrayStringUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Example/src/vn/Unit4/Mang1Chieu/vd1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Example/src/vn/Unit4/Mang1Chieu/vd2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Example/src/vn/Unit4/Mang2Chieu/vd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VuVanHung_Day4/Mang2Chieu/ViDu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/src/Chuong3/bai33/IO/input.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/src/Chuong3/bai33/IO/output.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/src/Chuong3/bai33/Main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/src/Chuong3/bai33/Module/MonHoc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/src/Chuong3/bai33/Module/SinhVien.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/JavaProgram.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/kotlinc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/KotlinJavaRuntime__2_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/KotlinJavaRuntime__3_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/KotlinJavaRuntime__4_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/libraries/KotlinJavaRuntime__5_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.metadata/.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.metadata/.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.metadata/.mylyn/.taskListIndex/segments_1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.metadata/.mylyn/.taskListIndex/write.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.metadata/.mylyn/.tasks.xml.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.metadata/.mylyn/repositories.xml.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.metadata/.mylyn/tasks.xml.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/history.version" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.version" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.core.resources/.root/2.tree" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.core.resources.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.m2e.discovery.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.context.core.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.monitor.ui.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.tasks.ui.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.jdt.core/assumedExternalFilesCache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.jdt.core/index.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.jdt.ui/OpenTypeHistory.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.m2e.logback.configuration/logback.1.11.0.20190220-2119.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.tips.ide/dialog_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.ui.ide/dialog_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.ui.intro/introstate" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../.metadata/version.ini" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VuVanHung_Day4/ArrayString/Control/ListMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VuVanHung_Day4/ArrayString/Control/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VuVanHung_Day4/ArrayString/Control/Switch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VuVanHung_Day4/ArrayString/Main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VuVanHung_Day4/ArrayString/Module/HoGiaDinh.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VuVanHung_Day4/ArrayString/Process/SapSoKwh.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VuVanHung_Day4/ArrayString/Process/SapTen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VuVanHung_Day4/ArrayString/Process/TienDien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VuVanHung_Day4/ArrayString/Process/input.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VuVanHung_Day4/ArrayString/Process/output.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Example/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Example/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Example/out/production/Unit1/vn/Unit3/BaiTap3/Menu/Menu.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Example/out/production/Unit1/vn/Unit3/BaiTap3/Menu/Menu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Example/out/production/Unit1/vn/Unit4/Chuoi/ArrayStringUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Example/out/production/Unit1/vn/Unit4/Chuoi/ArrayStringUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Example/src/vn/Unit4/Chuoi/ArrayStringUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Example/src/vn/Unit4/Chuoi/ArrayStringUtils.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWorks/VuVanHung_Day3/BaiTap4/BaiToan/BaiToan2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HomeWorks/VuVanHung_Day3/BaiTap4/BaiToan/BaiToan2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWorks/VuVanHung_Day3/BaiTap4/BaiToan/BaiToan3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HomeWorks/VuVanHung_Day3/BaiTap4/BaiToan/BaiToan3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/HomeWorks/VuVanHung_Day3/BaiTap4/BaiToan/BaiToan4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HomeWorks/VuVanHung_Day3/BaiTap4/BaiToan/BaiToan4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/VuVanHung_Day3/BaiTap4/BaiToan/BaiToan2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/VuVanHung_Day3/BaiTap4/BaiToan/BaiToan2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/VuVanHung_Day3/BaiTap4/BaiToan/BaiToan3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/VuVanHung_Day3/BaiTap4/BaiToan/BaiToan3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/VuVanHung_Day3/BaiTap4/BaiToan/BaiToan4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/VuVanHung_Day3/BaiTap4/BaiToan/BaiToan4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/VuVanHung_Day3/VuVanHung_Day3.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/HomeWorks/VuVanHung_Day4/Mang2Chieu/ViDu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/HomeWorks/VuVanHung_Day4/Mang2Chieu/ViDu.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/out/production/JavaExampleForIntelliJ/Chuong3/bai32/Control/Choice.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/out/production/JavaExampleForIntelliJ/Chuong3/bai32/Control/Choice.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/out/production/JavaExampleForIntelliJ/Chuong3/bai32/Control/Menu.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/out/production/JavaExampleForIntelliJ/Chuong3/bai32/Control/Menu.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/out/production/JavaExampleForIntelliJ/Chuong3/bai32/Control/SwitchChoice.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/out/production/JavaExampleForIntelliJ/Chuong3/bai32/Control/SwitchChoice.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/out/production/JavaExampleForIntelliJ/Chuong3/bai32/IO/input.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/out/production/JavaExampleForIntelliJ/Chuong3/bai32/IO/input.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/out/production/JavaExampleForIntelliJ/Chuong3/bai32/IO/output.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/out/production/JavaExampleForIntelliJ/Chuong3/bai32/IO/output.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/out/production/JavaExampleForIntelliJ/Chuong3/bai32/Main/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/out/production/JavaExampleForIntelliJ/Chuong3/bai32/Main/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/src/Chuong3/bai32/Control/Choice.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/src/Chuong3/bai32/Control/Choice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/src/Chuong3/bai32/Control/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/src/Chuong3/bai32/Control/Menu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/src/Chuong3/bai32/Control/SwitchChoice.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/src/Chuong3/bai32/Control/SwitchChoice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/src/Chuong3/bai32/IO/input.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/src/Chuong3/bai32/IO/input.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/src/Chuong3/bai32/IO/output.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/src/Chuong3/bai32/IO/output.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/src/Chuong3/bai32/Main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/src/Chuong3/bai32/Main/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -105,11 +31,117 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day4/Mang2Chieu/ViDu.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day4/ArrayString/Module/HoGiaDinh.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="34" column="9" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
+            <state relative-caret-position="300">
+              <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+              <folding>
+                <element signature="e#144#145#0" expanded="true" />
+                <element signature="e#170#171#0" expanded="true" />
+                <element signature="e#208#209#0" expanded="true" />
+                <element signature="e#238#239#0" expanded="true" />
+                <element signature="e#267#268#0" expanded="true" />
+                <element signature="e#295#296#0" expanded="true" />
+                <element signature="e#334#335#0" expanded="true" />
+                <element signature="e#368#369#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day4/ArrayString/Process/TienDien.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day4/ArrayString/Process/SapTen.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day4/ArrayString/Process/SapSoKwh.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day4/ArrayString/Process/output.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="465">
+              <caret line="39" column="5" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+              <folding>
+                <element signature="e#116#117#0" expanded="true" />
+                <element signature="e#211#212#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day4/ArrayString/Process/input.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#281#292#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day4/ArrayString/Main/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+              <folding>
+                <element signature="e#154#155#0" expanded="true" />
+                <element signature="e#181#182#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day4/ArrayString/Control/ListMenu.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day4/ArrayString/Control/Switch.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="465">
+              <caret line="39" column="5" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day4/ArrayString/Control/Menu.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -129,25 +161,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Unit1/Bai3/TinhGiaTriBieuThuc.java" />
-        <option value="$PROJECT_DIR$/src/Unit1/Bai3/Main.java" />
-        <option value="$PROJECT_DIR$/src/Unit1/Bai4/TamGiac.java" />
-        <option value="$PROJECT_DIR$/src/VuVanHung_Unit1/Bai3/Main.java" />
-        <option value="$PROJECT_DIR$/src/VuVanHung_Unit1/Bai3/TinhGiaTriBieuThuc.java" />
-        <option value="$PROJECT_DIR$/src/VuVanHung_Unit1/Bai4/Main.java" />
-        <option value="$PROJECT_DIR$/src/VuVanHung_Unit1/Bai4/TamGiac.java" />
-        <option value="$PROJECT_DIR$/src/VuVanHung_Unit1/Bai5/HinhHopChuNhat.java" />
-        <option value="$PROJECT_DIR$/src/VuVanHung_Unit1/Bai5/Main.java" />
-        <option value="$PROJECT_DIR$/src/VuVanHung_Unit1/Bai6/HocSinh.java" />
-        <option value="$PROJECT_DIR$/src/VuVanHung_Day1/Bai3/Main.java" />
-        <option value="$PROJECT_DIR$/src/VuVanHung_Day1/Bai3/TinhGiaTriBieuThuc.java" />
-        <option value="$PROJECT_DIR$/src/VuVanHung_Day1/Bai4/TamGiac.java" />
-        <option value="$PROJECT_DIR$/src/VuVanHung_Day1/Bai4/Main.java" />
-        <option value="$PROJECT_DIR$/src/VuVanHung_Day1/Bai5/HinhHopChuNhat.java" />
-        <option value="$PROJECT_DIR$/src/VuVanHung_Day1/Bai5/Main.java" />
-        <option value="$PROJECT_DIR$/src/VuVanHung_Day1/Bai6/HocSinh.java" />
-        <option value="$PROJECT_DIR$/src/VuVanHung_Day1/Bai6/Main.java" />
-        <option value="$PROJECT_DIR$/src/VuVanHung_Day1/Bai10/TachSo.java" />
         <option value="$PROJECT_DIR$/src/VuVanHung_Day1/Bai10/Main.java" />
         <option value="$PROJECT_DIR$/src/VuVanHung_Day1/Bai9/Main.java" />
         <option value="$PROJECT_DIR$/src/VuVanHung_Day1/Bai9/SinhVien.java" />
@@ -178,6 +191,27 @@
         <option value="$PROJECT_DIR$/src/VuVanHung_Day3/BaiTap4/BaiToan/BaiToan4.java" />
         <option value="$PROJECT_DIR$/src/VuVanHung_Day3/BaiTap4/BaiToan/BaiToan5.java" />
         <option value="$PROJECT_DIR$/src/VuVanHung_Day4/Mang2Chieu/ViDu.java" />
+        <option value="$PROJECT_DIR$/src/VuVanHung_Day4/Chuoi/ListHoGD.java" />
+        <option value="$PROJECT_DIR$/src/VuVanHung_Day4/Chuoi/xuat.java" />
+        <option value="$PROJECT_DIR$/src/VuVanHung_Day4/Chuoi/SapXep.java" />
+        <option value="$PROJECT_DIR$/src/VuVanHung_Day4/Chuoi/HoGD.java" />
+        <option value="$PROJECT_DIR$/src/VuVanHung_Day4/Chuoi/input.java" />
+        <option value="$PROJECT_DIR$/src/VuVanHung_Day4/Chuoi/TienDien.java" />
+        <option value="$PROJECT_DIR$/src/VuVanHung_Day4/Chuoi/SapTen.java" />
+        <option value="$PROJECT_DIR$/src/VuVanHung_Day4/Chuoi/CheckName.java" />
+        <option value="$PROJECT_DIR$/src/VuVanHung_Day4/Chuoi/SapSoKwh.java" />
+        <option value="$PROJECT_DIR$/src/VuVanHung_Day4/Chuoi/Main.java" />
+        <option value="$PROJECT_DIR$/src/VuVanHung_Day4/Chuoi/output.java" />
+        <option value="$PROJECT_DIR$/src/VuVanHung_Day4/ArrayString/Module/HoGiaDinh.java" />
+        <option value="$PROJECT_DIR$/src/VuVanHung_Day4/ArrayString/Process/SapTen.java" />
+        <option value="$PROJECT_DIR$/src/VuVanHung_Day4/ArrayString/Process/SapSoKwh.java" />
+        <option value="$PROJECT_DIR$/src/VuVanHung_Day4/ArrayString/Process/TienDien.java" />
+        <option value="$PROJECT_DIR$/src/VuVanHung_Day4/ArrayString/Process/input.java" />
+        <option value="$PROJECT_DIR$/src/VuVanHung_Day4/ArrayString/Control/Menu.java" />
+        <option value="$PROJECT_DIR$/src/VuVanHung_Day4/ArrayString/Main/Main.java" />
+        <option value="$PROJECT_DIR$/src/VuVanHung_Day4/ArrayString/Control/ListMenu.java" />
+        <option value="$PROJECT_DIR$/src/VuVanHung_Day4/ArrayString/Process/output.java" />
+        <option value="$PROJECT_DIR$/src/VuVanHung_Day4/ArrayString/Control/Switch.java" />
       </list>
     </option>
   </component>
@@ -188,6 +222,7 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="4">
+    <option name="x" value="960" />
     <option name="y" value="25" />
     <option name="width" value="960" />
     <option name="height" value="1055" />
@@ -200,6 +235,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -223,20 +259,51 @@
               <item name="HomeWorks" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="VuVanHung_Day4" type="462c0819:PsiDirectoryNode" />
-              <item name="Mang2Chieu" type="462c0819:PsiDirectoryNode" />
+              <item name="ArrayString" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HomeWorks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HomeWorks" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="VuVanHung_Day4" type="462c0819:PsiDirectoryNode" />
+              <item name="ArrayString" type="462c0819:PsiDirectoryNode" />
+              <item name="Control" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HomeWorks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HomeWorks" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="VuVanHung_Day4" type="462c0819:PsiDirectoryNode" />
+              <item name="ArrayString" type="462c0819:PsiDirectoryNode" />
+              <item name="Main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HomeWorks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HomeWorks" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="VuVanHung_Day4" type="462c0819:PsiDirectoryNode" />
+              <item name="ArrayString" type="462c0819:PsiDirectoryNode" />
+              <item name="Module" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HomeWorks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HomeWorks" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="VuVanHung_Day4" type="462c0819:PsiDirectoryNode" />
+              <item name="ArrayString" type="462c0819:PsiDirectoryNode" />
+              <item name="Process" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Example" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -255,39 +322,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ViDu">
-    <configuration name="BaiToan2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="VuVanHung_Day3.BaiTap4.BaiToan.BaiToan2" />
+  <component name="RunManager" selected="Application.Main (2)">
+    <configuration name="HoGD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VuVanHung_Day4.Chuoi.HoGD" />
       <module name="HomeWorks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="VuVanHung_Day3.BaiTap4.BaiToan.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BaiToan3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="VuVanHung_Day3.BaiTap4.BaiToan.BaiToan3" />
-      <module name="HomeWorks" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="VuVanHung_Day3.BaiTap4.BaiToan.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BaiToan4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="VuVanHung_Day3.BaiTap4.BaiToan.BaiToan4" />
-      <module name="HomeWorks" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="VuVanHung_Day3.BaiTap4.BaiToan.*" />
+          <option name="PATTERN" value="VuVanHung_Day4.Chuoi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -301,6 +342,32 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="VuVanHung_Day3.BaiTap4.Main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VuVanHung_Day4.ArrayString.Main.Main" />
+      <module name="HomeWorks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="VuVanHung_Day4.ArrayString.Main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VuVanHung_Day4.Chuoi.Main" />
+      <module name="HomeWorks" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="VuVanHung_Day4.Chuoi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -323,11 +390,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.HoGD" />
         <item itemvalue="Application.ViDu" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.BaiToan3" />
-        <item itemvalue="Application.BaiToan2" />
-        <item itemvalue="Application.BaiToan4" />
       </list>
     </recent_temporary>
   </component>
@@ -345,9 +412,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="25" width="960" height="1055" extended-state="4" />
+    <frame x="960" y="25" width="960" height="1055" extended-state="4" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26754385" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23464912" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -356,8 +424,8 @@
       <window_info id="Learn" order="6" />
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32921347" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3292683" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3924612" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -410,80 +478,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Unit1/Bai3/TinhGiaTriBieuThuc.java" />
-    <entry file="file://$PROJECT_DIR$/src/Unit1/Bai3/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/Unit1/Bai4/TamGiac.java" />
-    <entry file="file://$PROJECT_DIR$/src/VuVanHung_Unit1/Bai3/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/VuVanHung_Unit1/Bai3/TinhGiaTriBieuThuc.java" />
-    <entry file="file://$PROJECT_DIR$/src/VuVanHung_Unit1/Bai4/TamGiac.java" />
-    <entry file="file://$PROJECT_DIR$/src/VuVanHung_Unit1/Bai4/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/VuVanHung_Unit1/Bai5/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/VuVanHung_Unit1/Bai5/HinhHopChuNhat.java" />
-    <entry file="file://$PROJECT_DIR$/src/VuVanHung_Unit1/Bai6/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/VuVanHung_Unit1/Bai6/HocSinh.java" />
-    <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day1/Bai3/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="21" selection-start-column="21" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day1/Bai3/TinhGiaTriBieuThuc.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="21" selection-start-column="21" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day1/Bai4/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="21" selection-start-column="21" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day1/Bai4/TamGiac.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="21" selection-start-column="21" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day1/Bai5/HinhHopChuNhat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="21" selection-start-column="21" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day1/Bai5/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="21" selection-start-column="21" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day1/Bai6/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day1/Bai6/HocSinh.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="35" column="16" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day1/Bai10/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day1/Bai10/TachSo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -717,10 +711,202 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day4/Chuoi/xuat.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day4/Chuoi/ListHoGD.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day4/Chuoi/SapXep.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day4/Chuoi/CheckName.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day4/Chuoi/HoGD.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+          <folding>
+            <element signature="e#126#127#0" expanded="true" />
+            <element signature="e#152#153#0" expanded="true" />
+            <element signature="e#190#191#0" expanded="true" />
+            <element signature="e#220#221#0" expanded="true" />
+            <element signature="e#249#250#0" expanded="true" />
+            <element signature="e#277#278#0" expanded="true" />
+            <element signature="e#316#317#0" expanded="true" />
+            <element signature="e#350#351#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day4/Chuoi/input.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#132#138#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day4/Chuoi/output.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
+          <folding>
+            <element signature="e#102#103#0" expanded="true" />
+            <element signature="e#139#140#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day4/Chuoi/SapTen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day4/Chuoi/SapSoKwh.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day4/Chuoi/TienDien.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day4/Chuoi/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day4/Mang2Chieu/ViDu.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="34" column="9" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
+        <state relative-caret-position="495">
+          <caret line="33" column="12" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day4/ArrayString/Module/HoGiaDinh.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+          <folding>
+            <element signature="e#144#145#0" expanded="true" />
+            <element signature="e#170#171#0" expanded="true" />
+            <element signature="e#208#209#0" expanded="true" />
+            <element signature="e#238#239#0" expanded="true" />
+            <element signature="e#267#268#0" expanded="true" />
+            <element signature="e#295#296#0" expanded="true" />
+            <element signature="e#334#335#0" expanded="true" />
+            <element signature="e#368#369#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day4/ArrayString/Process/TienDien.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day4/ArrayString/Process/SapTen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day4/ArrayString/Process/SapSoKwh.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day4/ArrayString/Process/output.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="39" column="5" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+          <folding>
+            <element signature="e#116#117#0" expanded="true" />
+            <element signature="e#211#212#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day4/ArrayString/Process/input.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#281#292#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day4/ArrayString/Control/ListMenu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day4/ArrayString/Control/Switch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="39" column="5" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day4/ArrayString/Control/Menu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day4/ArrayString/Main/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+          <folding>
+            <element signature="e#154#155#0" expanded="true" />
+            <element signature="e#181#182#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
