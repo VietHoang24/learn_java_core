@@ -1,12 +1,14 @@
 package Chuong3.bai33.IO;
 
-import Chuong3.bai33.Module.SinhVien;
+import Chuong3.bai33.Module.*;
 
 import java.util.ArrayList;
 import java.util.Scanner;
 
 public class inputSinhVien {
     static ArrayList<SinhVien> listSV = new ArrayList<SinhVien>();
+    static ArrayList<LopHoc> listLH = new ArrayList<LopHoc>();
+    static ArrayList<MonHoc> listMH = new ArrayList<MonHoc>();
     static Scanner input = new Scanner(System.in);
 
     public static void nhapSv(){
@@ -20,8 +22,12 @@ public class inputSinhVien {
         String tenSV = input.nextLine();
         a.setTenSinhVien(tenSV);
 
+        System.out.println("\t- Nhap lop hoc");
         inputLopHoc.nhapLopHoc();
+
+        System.out.println("\t- Nhap danh sach mon hoc");
         inputMonHoc.nhapDSMH();
+        a.setListMH(listMH);
 
         listSV.add(a);
     }
@@ -32,7 +38,7 @@ public class inputSinhVien {
         int n = input.nextInt();
         input.nextLine();
         for(int i=0; i<n; i++){
-            System.out.println("Sinh vien thu " + (i+1) + ":");
+            System.out.println("\n-> Sinh vien thu " + (i+1));
             nhapSv();
         }
     }

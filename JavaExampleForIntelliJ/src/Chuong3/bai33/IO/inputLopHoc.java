@@ -2,11 +2,9 @@ package Chuong3.bai33.IO;
 
 import Chuong3.bai33.Module.LopHoc;
 
-import java.util.ArrayList;
 import java.util.Scanner;
 
-public class inputLopHoc {
-    static ArrayList<LopHoc> listLH = new ArrayList<LopHoc>();
+public class inputLopHoc extends inputSinhVien {
     static Scanner input = new Scanner(System.in);
     public static void nhapLopHoc(){
         LopHoc a = new LopHoc();

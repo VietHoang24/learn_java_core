@@ -6,15 +6,6 @@ public class MonHoc {
     private String tenMonHoc;
     private int soTrinh;
     private float diem;
-    private ArrayList<MonHoc> listMH = new ArrayList<MonHoc>();
-
-    public ArrayList<MonHoc> getListMH() {
-        return listMH;
-    }
-
-    public void setListMH(ArrayList<MonHoc> listMH) {
-        this.listMH = listMH;
-    }
 
     public String getTenMonHoc() {
         return tenMonHoc;

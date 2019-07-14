@@ -5,23 +5,15 @@ import java.util.ArrayList;
 public class SinhVien {
     private String maSinhVien;
     private String tenSinhVien;
-    private MonHoc monHoc;
+    private ArrayList<MonHoc> listMH = new ArrayList<MonHoc>();
     private LopHoc lopHoc;
 
-    public MonHoc getMonHoc() {
-        return monHoc;
+    public ArrayList<MonHoc> getListMH() {
+        return listMH;
     }
 
-    public void setMonHoc(MonHoc monHoc) {
-        this.monHoc = monHoc;
-    }
-
-    public LopHoc getLopHoc() {
-        return lopHoc;
-    }
-
-    public void setLopHoc(LopHoc lopHoc) {
-        this.lopHoc = lopHoc;
+    public void setListMH(ArrayList<MonHoc> listMH) {
+        this.listMH = listMH;
     }
 
     public String getMaSinhVien() {

@@ -1,10 +1,9 @@
 package Chuong3.bai33.IO;
 
 import Chuong3.bai33.Module.MonHoc;
-
 import java.util.Scanner;
 
-public class inputMonHoc {
+public class inputMonHoc extends inputSinhVien {
     static Scanner input = new Scanner(System.in);
 
     public static void nhapMH(){
@@ -22,7 +21,7 @@ public class inputMonHoc {
         a.setDiem(diem);
         input.nextLine();
 
-        a.getListMH().add(a);
+        listMH.add(a);
     }
 
     public static void nhapDSMH(){
@@ -31,7 +30,7 @@ public class inputMonHoc {
         int n = input.nextInt();
         input.nextLine();
         for(int i=0; i<n; i++){
-            System.out.println("- Mon hoc thu " + (i+1) + ":");
+            System.out.println("-> Mon hoc thu " + (i+1));
             nhapMH();
         }
     }
