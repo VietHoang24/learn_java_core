@@ -6,7 +6,6 @@ public class SinhVien {
     private String maSinhVien;
     private String tenSinhVien;
     private ArrayList<MonHoc> listMH = new ArrayList<MonHoc>();
-    private LopHoc lopHoc;
 
     public ArrayList<MonHoc> getListMH() {
         return listMH;

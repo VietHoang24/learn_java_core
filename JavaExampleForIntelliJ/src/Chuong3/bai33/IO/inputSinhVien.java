@@ -8,7 +8,6 @@ import java.util.Scanner;
 public class inputSinhVien {
     static ArrayList<SinhVien> listSV = new ArrayList<SinhVien>();
     static ArrayList<LopHoc> listLH = new ArrayList<LopHoc>();
-    static ArrayList<MonHoc> listMH = new ArrayList<MonHoc>();
     static Scanner input = new Scanner(System.in);
 
     public static void nhapSv(){
@@ -22,24 +21,29 @@ public class inputSinhVien {
         String tenSV = input.nextLine();
         a.setTenSinhVien(tenSV);
 
-        System.out.println("\t- Nhap lop hoc");
+        System.out.println("- Nhap lop hoc");
         inputLopHoc.nhapLopHoc();
 
-        System.out.println("\t- Nhap danh sach mon hoc");
-        inputMonHoc.nhapDSMH();
-        a.setListMH(listMH);
+        System.out.println("----------------------------------------------------");
+        System.out.println("- Nhap danh sach mon hoc");
+        ArrayList<MonHoc> mh = new ArrayList<MonHoc>();
+        inputMonHoc.nhapDSMH(mh);
+        a.setListMH(mh);
 
         listSV.add(a);
     }
 
     public static void nhapDSSV(){
-        System.out.println("---- Nhap danh sach sinh vien ----");
+        System.out.println("------------- Nhap danh sach sinh vien -------------");
         System.out.print("So sinh vien can nhap: ");
         int n = input.nextInt();
+        System.out.println("----------------------------------------------------");
         input.nextLine();
         for(int i=0; i<n; i++){
-            System.out.println("\n-> Sinh vien thu " + (i+1));
+            System.out.println("-> Sinh vien thu " + (i+1));
+            System.out.println("----------------------------------------------------");
             nhapSv();
+            System.out.println("----------------------------------------------------");
         }
     }
 }

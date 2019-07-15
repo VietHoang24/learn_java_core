@@ -1,7 +1,5 @@
 package Chuong3.bai33.Module;
 
-import java.util.ArrayList;
-
 public class MonHoc {
     private String tenMonHoc;
     private int soTrinh;

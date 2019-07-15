@@ -9,11 +9,11 @@ public class inputLopHoc extends inputSinhVien {
     public static void nhapLopHoc(){
         LopHoc a = new LopHoc();
 
-        System.out.print("Lop hoc: ");
+        System.out.print("\tLop hoc: ");
         String lopHoc = input.nextLine();
         a.setTenLop(lopHoc);
 
-        System.out.print("Khoa: ");
+        System.out.print("\tKhoa: ");
         int khoaHoc = input.nextInt();
         a.setKhoa(khoaHoc);
         input.nextLine();

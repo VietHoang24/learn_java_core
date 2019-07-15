@@ -12,20 +12,23 @@ public class outputSinhVien extends inputSinhVien {
         }
     }
 
+    public static void phieuSV(int i){
+        System.out.println("\t- Phieu thu " + (i+1));
+        System.out.printf("%40s%n", "PHIEU BAO DIEM");
+        System.out.print("\t\tMa sinh vien: " + listSV.get(i).getMaSinhVien() + ". ");
+        System.out.println("\t\tTen sinh vien: " + listSV.get(i).getTenSinhVien() + ".");
+        System.out.print("\t\tLop:\t\t  " + listLH.get(i).getTenLop());
+        System.out.print("\t\tKhoa: " + listLH.get(i).getKhoa() + ";");
+        System.out.println("\t\tDiem TB: " + outputMonHoc.diemTB(i));
+        System.out.println("\t\tBang diem:");
+    }
+
     public static void phieuBaoDiem(){
         for(int i=0; i<listSV.size(); i++){
-            System.out.println("\t- Phieu thu " + (i+1));
-            System.out.printf("%n%40s%n", "PHIEU BAO DIEM");
-            System.out.print("Ma sinh vien: " + listSV.get(i).getMaSinhVien() + ". ");
-            System.out.println("\tTen sinh vien: " + listSV.get(i).getTenSinhVien() + ".");
-            System.out.print("Lop:\t" + listLH.get(i).getTenLop());
-            System.out.println("\tKhoa: " + listLH.get(i).getKhoa() + ";");
-            System.out.println("Bang diem:");
+            phieuSV(i);
             outputMonHoc.tieuDe();
-            for(int j=0; j<listMH.size(); j++){
-                System.out.printf("%20s%20d%20.2f%n", listSV.get(j).getListMH().get(j).getTenMonHoc(),
-                        listSV.get(j).getListMH().get(j).getSoTrinh(), listSV.get(j).getListMH().get(j).getDiem());
-            }
+            outputMonHoc.xuatMonHoc(i);
+            System.out.println("--------------------------------------------------------------------------------------------------------");
         }
     }
 }

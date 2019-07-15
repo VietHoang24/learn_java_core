@@ -1,37 +1,38 @@
 package Chuong3.bai33.IO;
 
 import Chuong3.bai33.Module.MonHoc;
+
+import java.util.ArrayList;
 import java.util.Scanner;
 
 public class inputMonHoc extends inputSinhVien {
     static Scanner input = new Scanner(System.in);
 
-    public static void nhapMH(){
-        MonHoc a = new MonHoc();
-        System.out.print("Ten mon hoc: ");
+    public static void nhapMH(MonHoc a){
+        System.out.print("\tTen mon hoc: ");
         String tenMH = input.nextLine();
         a.setTenMonHoc(tenMH);
 
-        System.out.print("So trinh: ");
+        System.out.print("\tSo trinh: ");
         int soTrinh = input.nextInt();
         a.setSoTrinh(soTrinh);
 
-        System.out.print("Diem: ");
+        System.out.print("\tDiem: ");
         float diem = input.nextFloat();
         a.setDiem(diem);
         input.nextLine();
-
-        listMH.add(a);
     }
 
-    public static void nhapDSMH(){
-        System.out.println("---- Nhap danh sach mon hoc ----");
+    public static void nhapDSMH(ArrayList<MonHoc> x){
         System.out.print("Nhap tong so mon hoc: ");
         int n = input.nextInt();
         input.nextLine();
+        System.out.println("----------------------------------------------------");
         for(int i=0; i<n; i++){
             System.out.println("-> Mon hoc thu " + (i+1));
-            nhapMH();
+            MonHoc a = new MonHoc();
+            nhapMH(a);
+            x.add(a);
         }
     }
 }
