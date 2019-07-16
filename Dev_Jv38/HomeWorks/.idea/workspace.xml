@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1303fcc8-65ae-4728-965b-d472385d34f5" name="Default Changelist" comment="" />
+    <list default="true" id="1303fcc8-65ae-4728-965b-d472385d34f5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/VuVanHung_Day5/Main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VuVanHung_Day5/Menu/ListMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VuVanHung_Day5/Menu/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VuVanHung_Day5/Menu/Switch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VuVanHung_Day5/Module/VDV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VuVanHung_Day5/Process/Function1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VuVanHung_Day5/Process/Function10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VuVanHung_Day5/Process/Function2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VuVanHung_Day5/Process/Function3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VuVanHung_Day5/Process/Function4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VuVanHung_Day5/Process/Function5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VuVanHung_Day5/Process/Function6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VuVanHung_Day5/Process/Function7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VuVanHung_Day5/Process/Function8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VuVanHung_Day5/Process/Function9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VuVanHung_Day5/Process/SumResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VuVanHung_Day5/Process/Title.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/out/production/JavaExampleForIntelliJ/Chuong3/bai33/Control/Switch.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/out/production/JavaExampleForIntelliJ/Chuong3/bai33/Control/Switch.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,28 +34,18 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day4/ArrayString/Module/HoGiaDinh.java">
+        <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day5/Menu/Switch.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
-              <folding>
-                <element signature="e#144#145#0" expanded="true" />
-                <element signature="e#170#171#0" expanded="true" />
-                <element signature="e#208#209#0" expanded="true" />
-                <element signature="e#238#239#0" expanded="true" />
-                <element signature="e#267#268#0" expanded="true" />
-                <element signature="e#295#296#0" expanded="true" />
-                <element signature="e#334#335#0" expanded="true" />
-                <element signature="e#368#369#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="465">
+              <caret line="41" column="5" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day4/ArrayString/Process/TienDien.java">
+        <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day5/Menu/Menu.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
               <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
@@ -43,19 +54,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day4/ArrayString/Process/SapTen.java">
+        <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day5/Process/Function4.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+            <state relative-caret-position="120">
+              <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day4/ArrayString/Process/SapSoKwh.java">
+        <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day5/Process/Function5.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+            <state relative-caret-position="300">
+              <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -64,23 +75,55 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day4/ArrayString/Process/output.java">
+        <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day5/Process/Function6.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="555">
-              <caret line="39" column="5" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
+            <state relative-caret-position="300">
+              <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
               <folding>
-                <element signature="e#116#117#0" expanded="true" />
-                <element signature="e#211#212#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day4/ArrayString/Process/input.java">
+        <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day5/Process/Function7.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+            <state relative-caret-position="255">
+              <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day5/Process/Function8.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day5/Process/Function9.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day5/Process/Function10.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -89,41 +132,13 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day4/ArrayString/Main/Main.java">
+        <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day5/Main/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="105">
+              <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
               <folding>
-                <element signature="e#154#155#0" expanded="true" />
-                <element signature="e#181#182#0" expanded="true" />
+                <element signature="e#127#128#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day4/ArrayString/Control/ListMenu.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day4/ArrayString/Control/Switch.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="585">
-              <caret line="39" column="5" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day4/ArrayString/Control/Menu.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -143,23 +158,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/VuVanHung_Day1/Bai10/Main.java" />
-        <option value="$PROJECT_DIR$/src/VuVanHung_Day1/Bai9/Main.java" />
-        <option value="$PROJECT_DIR$/src/VuVanHung_Day1/Bai9/SinhVien.java" />
-        <option value="$PROJECT_DIR$/src/VuVanHung_Day1/Bai9/MonHoc.java" />
-        <option value="$PROJECT_DIR$/src/VuVanHung_Day2/bai2/TamGiac.java" />
-        <option value="$PROJECT_DIR$/src/VuVanHung_Day2/bai3/HinhTron.java" />
-        <option value="$PROJECT_DIR$/src/VuVanHung_Day2/bai5/Fibonacci.java" />
-        <option value="$PROJECT_DIR$/src/VuVanHung_Day2/bai6/IOput.java" />
-        <option value="$PROJECT_DIR$/src/VuVanHung_Day2/bai7/IOstring.java" />
-        <option value="$PROJECT_DIR$/src/VuVanHung_Day2/bai9/PhanTu.java" />
-        <option value="$PROJECT_DIR$/src/VuVanHung_Day2/bai9/TimMax.java" />
-        <option value="$PROJECT_DIR$/src/VuVanHung_Day3/BaiTap2/BaiToan/BaiToan1.java" />
-        <option value="$PROJECT_DIR$/src/VuVanHung_Day3/BaiTap2/BaiToan/BaiToan2.java" />
-        <option value="$PROJECT_DIR$/src/VuVanHung_Day3/BaiTap2/BaiToan/BaiToan3.java" />
-        <option value="$PROJECT_DIR$/src/VuVanHung_Day3/BaiTap2/BaiToan/BaiToan4.java" />
-        <option value="$PROJECT_DIR$/src/VuVanHung_Day3/BaiTap2/Menu/NhapLuaChon.java" />
-        <option value="$PROJECT_DIR$/src/VuVanHung_Day3/BaiTap2/Main/Main.java" />
         <option value="$PROJECT_DIR$/src/VuVanHung_Day3/BaiTap2/Menu/HienThiMenu.java" />
         <option value="$PROJECT_DIR$/src/VuVanHung_Day3/BaiTap2/Menu/Menu.java" />
         <option value="$PROJECT_DIR$/src/VuVanHung_Day3/BaiTap2/Menu/LuaChon.java" />
@@ -194,6 +192,23 @@
         <option value="$PROJECT_DIR$/src/VuVanHung_Day4/ArrayString/Control/ListMenu.java" />
         <option value="$PROJECT_DIR$/src/VuVanHung_Day4/ArrayString/Process/output.java" />
         <option value="$PROJECT_DIR$/src/VuVanHung_Day4/ArrayString/Control/Switch.java" />
+        <option value="$PROJECT_DIR$/src/VuVanHung_Day5/Module/VDV.java" />
+        <option value="$PROJECT_DIR$/src/VuVanHung_Day5/Process/SumResult.java" />
+        <option value="$PROJECT_DIR$/src/VuVanHung_Day5/Process/Title.java" />
+        <option value="$PROJECT_DIR$/src/VuVanHung_Day5/Main/Main.java" />
+        <option value="$PROJECT_DIR$/src/VuVanHung_Day5/Menu/Menu.java" />
+        <option value="$PROJECT_DIR$/src/VuVanHung_Day5/Process/Function3.java" />
+        <option value="$PROJECT_DIR$/src/VuVanHung_Day5/Process/Function4.java" />
+        <option value="$PROJECT_DIR$/src/VuVanHung_Day5/Process/Function2.java" />
+        <option value="$PROJECT_DIR$/src/VuVanHung_Day5/Process/Function6.java" />
+        <option value="$PROJECT_DIR$/src/VuVanHung_Day5/Process/Function1.java" />
+        <option value="$PROJECT_DIR$/src/VuVanHung_Day5/Process/Function5.java" />
+        <option value="$PROJECT_DIR$/src/VuVanHung_Day5/Process/Function7.java" />
+        <option value="$PROJECT_DIR$/src/VuVanHung_Day5/Menu/Switch.java" />
+        <option value="$PROJECT_DIR$/src/VuVanHung_Day5/Menu/ListMenu.java" />
+        <option value="$PROJECT_DIR$/src/VuVanHung_Day5/Process/Function8.java" />
+        <option value="$PROJECT_DIR$/src/VuVanHung_Day5/Process/Function9.java" />
+        <option value="$PROJECT_DIR$/src/VuVanHung_Day5/Process/Function10.java" />
       </list>
     </option>
   </component>
@@ -232,59 +247,48 @@
               <item name="HomeWorks" type="b2602c69:ProjectViewProjectNode" />
               <item name="HomeWorks" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="VuVanHung_Day4" type="462c0819:PsiDirectoryNode" />
+              <item name="VuVanHung_Day5" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="HomeWorks" type="b2602c69:ProjectViewProjectNode" />
               <item name="HomeWorks" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="VuVanHung_Day4" type="462c0819:PsiDirectoryNode" />
-              <item name="ArrayString" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HomeWorks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HomeWorks" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="VuVanHung_Day4" type="462c0819:PsiDirectoryNode" />
-              <item name="ArrayString" type="462c0819:PsiDirectoryNode" />
-              <item name="Control" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="HomeWorks" type="b2602c69:ProjectViewProjectNode" />
-              <item name="HomeWorks" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="VuVanHung_Day4" type="462c0819:PsiDirectoryNode" />
-              <item name="ArrayString" type="462c0819:PsiDirectoryNode" />
+              <item name="VuVanHung_Day5" type="462c0819:PsiDirectoryNode" />
               <item name="Main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="HomeWorks" type="b2602c69:ProjectViewProjectNode" />
               <item name="HomeWorks" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="VuVanHung_Day4" type="462c0819:PsiDirectoryNode" />
-              <item name="ArrayString" type="462c0819:PsiDirectoryNode" />
+              <item name="VuVanHung_Day5" type="462c0819:PsiDirectoryNode" />
+              <item name="Menu" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HomeWorks" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HomeWorks" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="VuVanHung_Day5" type="462c0819:PsiDirectoryNode" />
               <item name="Module" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="HomeWorks" type="b2602c69:ProjectViewProjectNode" />
               <item name="HomeWorks" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="VuVanHung_Day4" type="462c0819:PsiDirectoryNode" />
-              <item name="ArrayString" type="462c0819:PsiDirectoryNode" />
+              <item name="VuVanHung_Day5" type="462c0819:PsiDirectoryNode" />
               <item name="Process" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../JavaExampleForIntelliJ" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -303,7 +307,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
+  <component name="RunManager" selected="Application.Main (3)">
     <configuration name="HoGD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="VuVanHung_Day4.Chuoi.HoGD" />
       <module name="HomeWorks" />
@@ -317,12 +321,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="VuVanHung_Day3.BaiTap4.Main.Main" />
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VuVanHung_Day4.ArrayString.Main.Main" />
       <module name="HomeWorks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="VuVanHung_Day3.BaiTap4.Main.*" />
+          <option name="PATTERN" value="VuVanHung_Day4.ArrayString.Main.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -330,12 +334,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="VuVanHung_Day4.ArrayString.Main.Main" />
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VuVanHung_Day5.Main.Main" />
       <module name="HomeWorks" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="VuVanHung_Day4.ArrayString.Main.*" />
+          <option name="PATTERN" value="VuVanHung_Day5.Main.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -371,11 +375,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.HoGD" />
         <item itemvalue="Application.ViDu" />
-        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -395,7 +399,7 @@
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="960" height="1055" extended-state="4" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24013157" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17763157" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -458,151 +462,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day1/Bai10/TachSo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="28" selection-start-column="28" selection-end-line="2" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day1/Bai9/MonHoc.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-216">
-          <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day1/Bai9/SinhVien.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="32" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day1/Bai9/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" selection-start-column="8" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day2/bai2/TamGiac.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day2/bai3/HinhTron.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="68" lean-forward="true" selection-start-line="24" selection-start-column="68" selection-end-line="24" selection-end-column="68" />
-          <folding>
-            <element signature="e#325#326#0" expanded="true" />
-            <element signature="e#348#349#0" expanded="true" />
-            <element signature="e#409#410#0" expanded="true" />
-            <element signature="e#433#434#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day2/bai5/Fibonacci.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="84" selection-start-line="23" selection-start-column="84" selection-end-line="23" selection-end-column="84" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day2/bai6/IOput.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="14" selection-start-line="28" selection-start-column="14" selection-end-line="28" selection-end-column="14" />
-          <folding>
-            <element signature="e#120#121#0" expanded="true" />
-            <element signature="e#144#145#0" expanded="true" />
-            <element signature="e#175#176#0" expanded="true" />
-            <element signature="e#201#202#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day2/bai7/IOstring.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="17" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day2/bai9/TimMax.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="36" column="53" selection-start-line="36" selection-start-column="53" selection-end-line="36" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day2/bai9/PhanTu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
-          <folding>
-            <element signature="e#156#157#0" expanded="true" />
-            <element signature="e#187#188#0" expanded="true" />
-            <element signature="e#213#214#0" expanded="true" />
-            <element signature="e#238#239#0" expanded="true" />
-            <element signature="e#262#263#0" expanded="true" />
-            <element signature="e#293#294#0" expanded="true" />
-            <element signature="e#319#320#0" expanded="true" />
-            <element signature="e#344#345#0" expanded="true" />
-            <element signature="e#368#369#0" expanded="true" />
-            <element signature="e#399#400#0" expanded="true" />
-            <element signature="e#425#426#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day3/BaiTap2/Menu/NhapLuaChon.java" />
-    <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day3/BaiTap2/Menu/HienThiMenu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day3/BaiTap4/Menu/HienThi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="31" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day3/BaiTap2/Menu/LuaChon.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day3/BaiTap2/Menu/Menu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="5" selection-start-line="7" selection-start-column="4" selection-end-line="18" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day3/BaiTap2/Main/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="5" selection-start-line="5" selection-start-column="4" selection-end-line="7" selection-end-column="5" />
-          <folding>
-            <element signature="e#143#144#0" expanded="true" />
-            <element signature="e#170#171#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day3/BaiTap4/Menu/Menu.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -709,9 +568,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day4/ArrayString/Process/SapTen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day4/ArrayString/Process/TienDien.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day4/ArrayString/Module/HoGiaDinh.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
+        <state relative-caret-position="300">
           <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
           <folding>
             <element signature="e#144#145#0" expanded="true" />
@@ -726,23 +599,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day4/ArrayString/Process/TienDien.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day4/ArrayString/Process/SapTen.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day4/ArrayString/Process/SapSoKwh.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
+        <state relative-caret-position="270">
           <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -752,7 +611,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day4/ArrayString/Process/output.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
+        <state relative-caret-position="585">
           <caret line="39" column="5" selection-start-line="39" selection-start-column="5" selection-end-line="39" selection-end-column="5" />
           <folding>
             <element signature="e#116#117#0" expanded="true" />
@@ -763,10 +622,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day4/ArrayString/Process/input.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
+        <state relative-caret-position="465">
           <caret line="31" column="5" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day4/ArrayString/Main/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#154#155#0" expanded="true" />
+            <element signature="e#181#182#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -792,13 +662,148 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day4/ArrayString/Main/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day5/Module/VDV.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="105">
+          <caret line="7" column="79" selection-start-line="7" selection-start-column="79" selection-end-line="7" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day5/Process/SumResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day5/Process/Function1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
           <folding>
-            <element signature="e#154#155#0" expanded="true" />
-            <element signature="e#181#182#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day5/Process/Title.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day5/Process/Function2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day5/Process/Function3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="43" column="5" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day5/Menu/ListMenu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day5/Menu/Switch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="41" column="5" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day5/Menu/Menu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day5/Process/Function4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day5/Process/Function5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day5/Process/Function6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day5/Process/Function7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day5/Process/Function8.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day5/Process/Function9.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day5/Process/Function10.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="13" selection-start-line="29" selection-start-column="13" selection-end-line="29" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/VuVanHung_Day5/Main/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+          <folding>
+            <element signature="e#127#128#0" expanded="true" />
           </folding>
         </state>
       </provider>
