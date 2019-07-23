@@ -16,6 +16,7 @@ public class Switch {
             case 3:
                 System.err.println("\n->Thoat chuong trinh<-");
                 System.exit(0);
+                break;
         }
     }
 }

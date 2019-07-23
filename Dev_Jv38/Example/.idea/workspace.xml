@@ -2,52 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8e7dce99-e78e-4924-890a-64d2c1cdfd16" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/learningJV/Unit6/XeHoi/Control/ListMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learningJV/Unit6/XeHoi/Control/Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learningJV/Unit6/XeHoi/Control/Switch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learningJV/Unit6/XeHoi/Main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learningJV/Unit6/XeHoi/Module/XeHoi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learningJV/Unit6/XeHoi/Process/input.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learningJV/Unit6/XeHoi/Process/output.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learningJV/Unit6/SinhVien/Main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learningJV/Unit6/SinhVien/Module/Students.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learningJV/Unit6/SinhVien/Module/Subjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learningJV/Unit7/bai1/Diem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learningJV/Unit7/bai1/DoanThang.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learningJV/Unit7/bai1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learningJV/Unit7/bai1/TamGiac.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learningJV/Unit7/bai2/HangDienTu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learningJV/Unit7/bai2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learningJV/Unit7/bai2/SanPham.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learningJV/Unit7/bai3/HangDienTu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learningJV/Unit7/bai3/HangHoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learningJV/Unit7/bai3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learningJV/Unit7/bai3/MayTinh.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learningJV/Unit7/bai3/TiVi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/src/Chuong3/bai35/Artist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/src/Chuong3/bai35/ArtistDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/src/Chuong3/bai35/RightTriangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/vn/Unit1/01_TongQuanVeJava.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/learningJV/Unit1/01_TongQuanVeJava.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/vn/Unit1/CanBo/CanBo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/learningJV/Unit1/CanBo/CanBo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/vn/Unit1/CanBo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/learningJV/Unit1/CanBo/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/vn/Unit1/HinhTron/HinhTron.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/learningJV/Unit1/HinhTron/HinhTron.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/vn/Unit1/HinhTron/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/learningJV/Unit1/HinhTron/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/vn/Unit1/hello/BodyHello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/learningJV/Unit1/hello/BodyHello.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/vn/Unit1/hinhthang/HinhThang.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/learningJV/Unit1/hinhthang/HinhThang.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/vn/Unit1/hinhthang/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/learningJV/Unit1/hinhthang/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/vn/Unit2/02_ToaTu_Ham_ThamChieu_ThamTri.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/learningJV/Unit2/02_ToaTu_Ham_ThamChieu_ThamTri.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/vn/Unit2/ToanTuBaNgoi/ToanTuBaNgoi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/learningJV/Unit2/ToanTuBaNgoi/ToanTuBaNgoi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/vn/Unit2/bai1/HinhThang.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/learningJV/Unit2/bai1/HinhThang.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/vn/Unit2/bai2/TamGiac.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/learningJV/Unit2/bai2/TamGiac.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/vn/Unit2/bai4/UCLN_Euclid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/learningJV/Unit2/bai4/UCLN_Euclid.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/vn/Unit2/bai8/HocSinh.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/learningJV/Unit2/bai8/HocSinh.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/vn/Unit2/bai8/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/learningJV/Unit2/bai8/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/vn/Unit3/03_Cau_Truc_Dieu_Khien.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/learningJV/Unit3/03_Cau_Truc_Dieu_Khien.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/vn/Unit3/BaiTap1/BaiToan1/PTB2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/learningJV/Unit3/BaiTap1/BaiToan1/PTB2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/vn/Unit3/BaiTap1/BaiToan2/XepLoaiHocTap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/learningJV/Unit3/BaiTap1/BaiToan2/XepLoaiHocTap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/vn/Unit3/BaiTap1/BaiToan3/TinhLuong.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/learningJV/Unit3/BaiTap1/BaiToan3/TinhLuong.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/vn/Unit3/BaiTap1/BaiToan4/Date.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/learningJV/Unit3/BaiTap1/BaiToan4/Date.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/vn/Unit3/BaiTap1/Main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/learningJV/Unit3/BaiTap1/Main/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/vn/Unit3/BaiTap1/Menu/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/learningJV/Unit3/BaiTap1/Menu/Menu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/vn/Unit3/BaiTap3/BaiToan1/GiaiThua.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/learningJV/Unit3/BaiTap3/BaiToan1/GiaiThua.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/vn/Unit3/BaiTap3/BaiToan2/SoDaoNguoc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/learningJV/Unit3/BaiTap3/BaiToan2/SoDaoNguoc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/vn/Unit3/BaiTap3/BaiToan3/SaiSo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/learningJV/Unit3/BaiTap3/BaiToan3/SaiSo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/vn/Unit3/BaiTap3/BaiToan4/PhanSoToiGian.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/learningJV/Unit3/BaiTap3/BaiToan4/PhanSoToiGian.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/vn/Unit3/BaiTap3/Main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/learningJV/Unit3/BaiTap3/Main/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/vn/Unit3/BaiTap3/Menu/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/learningJV/Unit3/BaiTap3/Menu/Menu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/vn/Unit3/DAY 03 condition.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/learningJV/Unit3/DAY 03 condition.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/vn/Unit3/DemChuSo/DemChuSo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/learningJV/Unit3/DemChuSo/DemChuSo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/vn/Unit3/TinhTienDien/TinhTienDien.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/learningJV/Unit3/TinhTienDien/TinhTienDien.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/vn/Unit4/04_Mang_va_Chuoi.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/learningJV/Unit4/04_Mang_va_Chuoi.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/vn/Unit4/Chuoi/ArrayStringUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/learningJV/Unit4/Chuoi/ArrayStringUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/vn/Unit4/Mang1Chieu/vd1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/learningJV/Unit4/Mang1Chieu/vd1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/vn/Unit4/Mang1Chieu/vd2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/learningJV/Unit4/Mang1Chieu/vd2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/vn/Unit4/Mang2Chieu/vd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/learningJV/Unit4/Mang2Chieu/vd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/vn/Unit5/05_Date_Time_Enum.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/learningJV/Unit5/05_Date_Time_Enum.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/vn/Unit6/06_Class_Object.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/learningJV/Unit6/06_Class_Object.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Unit1/learningJV/Unit6/XeHoi/Control/Switch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Unit1/learningJV/Unit6/XeHoi/Control/Switch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Unit1/learningJV/Unit6/XeHoi/Process/input.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Unit1/learningJV/Unit6/XeHoi/Process/input.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/learningJV/Unit6/XeHoi/Control/Switch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/learningJV/Unit6/XeHoi/Control/Switch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/learningJV/Unit6/XeHoi/Process/input.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/learningJV/Unit6/XeHoi/Process/input.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HomeWorks/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HomeWorks/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/src/Chuong3/bai35/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/src/Chuong3/bai35/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/src/Chuong3/bai35/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/src/Chuong3/bai35/Shape.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -60,103 +41,48 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/learningJV/Unit6/XeHoi/Module/XeHoi.java">
+        <entry file="file://$PROJECT_DIR$/src/learningJV/Unit7/bai3/HangHoa.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="713">
-              <caret line="71" column="16" lean-forward="true" selection-start-line="71" selection-start-column="16" selection-end-line="71" selection-end-column="16" />
-              <folding>
-                <element signature="e#588#589#0" expanded="true" />
-                <element signature="e#615#616#0" expanded="true" />
-                <element signature="e#655#656#0" expanded="true" />
-                <element signature="e#687#688#0" expanded="true" />
-                <element signature="e#722#723#0" expanded="true" />
-                <element signature="e#753#754#0" expanded="true" />
-                <element signature="e#801#802#0" expanded="true" />
-                <element signature="e#841#842#0" expanded="true" />
-                <element signature="e#874#875#0" expanded="true" />
-                <element signature="e#903#904#0" expanded="true" />
-                <element signature="e#947#948#0" expanded="true" />
-                <element signature="e#983#984#0" expanded="true" />
-                <element signature="e#1018#1019#0" expanded="true" />
-                <element signature="e#1049#1050#0" expanded="true" />
-                <element signature="e#1097#1098#0" expanded="true" />
-                <element signature="e#1137#1138#0" expanded="true" />
-                <element signature="e#1171#1172#0" expanded="true" />
-                <element signature="e#1201#1202#0" expanded="true" />
-                <element signature="e#1247#1248#0" expanded="true" />
-                <element signature="e#1285#1286#0" expanded="true" />
-                <element signature="e#1318#1319#0" expanded="true" />
-                <element signature="e#1347#1348#0" expanded="true" />
-                <element signature="e#1391#1392#0" expanded="true" />
-                <element signature="e#1427#1428#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="285">
+              <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/learningJV/Unit7/bai3/HangDienTu.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/learningJV/Unit7/bai3/TiVi.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/learningJV/Unit7/bai3/MayTinh.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/learningJV/Unit6/XeHoi/Process/input.java">
+        <entry file="file://$PROJECT_DIR$/src/learningJV/Unit7/bai3/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="218">
-              <caret line="51" column="23" selection-start-line="51" selection-start-column="23" selection-end-line="51" selection-end-column="23" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/learningJV/Unit6/XeHoi/Process/output.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-              <folding>
-                <element signature="e#106#107#0" expanded="true" />
-                <element signature="e#142#143#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/learningJV/Unit6/XeHoi/Control/ListMenu.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="52" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/learningJV/Unit6/XeHoi/Control/Menu.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/learningJV/Unit6/XeHoi/Control/Switch.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/learningJV/Unit6/XeHoi/Main/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
-              <folding>
-                <element signature="e#146#147#0" expanded="true" />
-                <element signature="e#165#166#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="315">
+              <caret line="21" column="62" selection-start-line="21" selection-start-column="62" selection-end-line="21" selection-end-column="62" />
             </state>
           </provider>
         </entry>
@@ -176,10 +102,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/vn/devpro/hello/BodyHello.java" />
-        <option value="$PROJECT_DIR$/src/vn/dev/hinhthang/HinhThang.java" />
-        <option value="$PROJECT_DIR$/src/vn/devpro/hinhthang/HinhThang.java" />
-        <option value="$PROJECT_DIR$/src/vn/devpro/hinhthang/Main.java" />
         <option value="$PROJECT_DIR$/src/vn/devpro/HinhTron/HinhTron.java" />
         <option value="$PROJECT_DIR$/src/vn/devpro/HinhTron/Main.java" />
         <option value="$PROJECT_DIR$/src/vn/devpro/CanBo/Main.java" />
@@ -214,12 +136,27 @@
         <option value="$PROJECT_DIR$/src/learningJV/Unit6/XeHoi/Control/Menu.java" />
         <option value="$PROJECT_DIR$/src/learningJV/Unit6/XeHoi/Main/Main.java" />
         <option value="$PROJECT_DIR$/src/learningJV/Unit6/XeHoi/Control/ListMenu.java" />
-        <option value="$PROJECT_DIR$/src/learningJV/Unit6/XeHoi/Control/Switch.java" />
+        <option value="$PROJECT_DIR$/src/learningJV/Unit6/SinhVien/Module/Subjects.java" />
+        <option value="$PROJECT_DIR$/src/learningJV/Unit6/SinhVien/Main/Main.java" />
+        <option value="$PROJECT_DIR$/src/learningJV/Unit6/SinhVien/Module/Students.java" />
         <option value="$PROJECT_DIR$/src/learningJV/Unit6/XeHoi/Process/input.java" />
+        <option value="$PROJECT_DIR$/src/learningJV/Unit6/XeHoi/Control/Switch.java" />
+        <option value="$PROJECT_DIR$/src/learningJV/Unit7/bai1/Diem.java" />
+        <option value="$PROJECT_DIR$/src/learningJV/Unit7/bai1/DoanThang.java" />
+        <option value="$PROJECT_DIR$/src/learningJV/Unit7/bai1/TamGiac.java" />
+        <option value="$PROJECT_DIR$/src/learningJV/Unit7/bai1/Main.java" />
+        <option value="$PROJECT_DIR$/src/learningJV/Unit7/bai2/HangDienTu.java" />
+        <option value="$PROJECT_DIR$/src/learningJV/Unit7/bai2/SanPham.java" />
+        <option value="$PROJECT_DIR$/src/learningJV/Unit7/bai2/Main.java" />
+        <option value="$PROJECT_DIR$/src/learningJV/Unit7/bai3/HangHoa.java" />
+        <option value="$PROJECT_DIR$/src/learningJV/Unit7/bai3/HangDienTu.java" />
+        <option value="$PROJECT_DIR$/src/learningJV/Unit7/bai3/TiVi.java" />
+        <option value="$PROJECT_DIR$/src/learningJV/Unit7/bai3/MayTinh.java" />
+        <option value="$PROJECT_DIR$/src/learningJV/Unit7/bai3/Main.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="4">
     <option name="y" value="25" />
     <option name="width" value="960" />
     <option name="height" value="1055" />
@@ -232,7 +169,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -256,27 +193,27 @@
               <item name="Example" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="learningJV" type="462c0819:PsiDirectoryNode" />
-              <item name="Unit6" type="462c0819:PsiDirectoryNode" />
+              <item name="Unit7" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Unit1" type="b2602c69:ProjectViewProjectNode" />
               <item name="Example" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="learningJV" type="462c0819:PsiDirectoryNode" />
-              <item name="Unit6" type="462c0819:PsiDirectoryNode" />
-              <item name="SinhVien" type="462c0819:PsiDirectoryNode" />
+              <item name="Unit7" type="462c0819:PsiDirectoryNode" />
+              <item name="bai3" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../HomeWorks" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
@@ -292,20 +229,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
-    <configuration name="ArrayStringUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="learningJV.Unit4.Chuoi.ArrayStringUtils" />
-      <module name="Unit1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="learningJV.Unit4.Chuoi.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Main (4)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="learningJV.Unit6.XeHoi.Main.Main" />
       <module name="Unit1" />
@@ -319,51 +243,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="learningJV.Unit7.bai1.Main" />
+      <module name="Unit1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="learningJV.Unit7.bai1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="learningJV.Unit7.bai2.Main" />
+      <module name="Unit1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="learningJV.Unit7.bai2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="learningJV.Unit7.bai3.Main" />
+      <module name="Unit1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="learningJV.Unit7.bai3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="learningJV.Unit3.BaiTap3.Main.Main" />
+      <option name="MAIN_CLASS_NAME" value="learningJV.Unit6.SinhVien.Main.Main" />
       <module name="Unit1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="learningJV.Unit3.BaiTap3.Main.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="vd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="learningJV.Unit4.Mang2Chieu.vd" />
-      <module name="Unit1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="learningJV.Unit4.Mang2Chieu.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="vd1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="learningJV.Unit4.Mang1Chieu.vd1" />
-      <module name="Unit1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="learningJV.Unit4.Mang1Chieu.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="vd2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="learningJV.Unit4.Mang1Chieu.vd2" />
-      <module name="Unit1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="learningJV.Unit4.Mang1Chieu.*" />
+          <option name="PATTERN" value="learningJV.Unit6.SinhVien.Main.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -373,11 +297,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (4)" />
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.ArrayStringUtils" />
-        <item itemvalue="Application.vd" />
-        <item itemvalue="Application.vd2" />
-        <item itemvalue="Application.vd1" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -395,7 +319,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="25" width="1920" height="1055" extended-state="6" />
+    <frame x="0" y="25" width="960" height="1055" extended-state="4" />
     <layout>
       <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="1" />
@@ -404,11 +328,11 @@
       <window_info id="UI Designer" order="4" />
       <window_info id="Learn" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="7" visible="true" weight="0.12286325" />
+      <window_info content_ui="combo" id="Project" order="7" visible="true" weight="0.20394737" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946582" visible="true" weight="0.3991131" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946582" weight="0.2949002" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991131" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -433,10 +357,10 @@
       <window_info id="UI Designer" order="4" />
       <window_info id="Learn" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="7" visible="true" weight="0.11752137" />
+      <window_info content_ui="combo" id="Project" order="7" visible="true" weight="0.1995614" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946582" visible="true" weight="0.3292683" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49946582" visible="true" weight="0.41463414" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -444,7 +368,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5005342" side_tool="true" weight="0.3292683" />
-      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.3292683" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -456,10 +380,6 @@
     </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/vn/dev/hinhthang/HinhThang.java" />
-    <entry file="file://$PROJECT_DIR$/src/vn/devpro/hello/BodyHello.java" />
-    <entry file="file://$PROJECT_DIR$/src/vn/devpro/hinhthang/HinhThang.java" />
-    <entry file="file://$PROJECT_DIR$/src/vn/devpro/hinhthang/Main.java" />
     <entry file="file://$PROJECT_DIR$/src/vn/devpro/HinhTron/Main.java" />
     <entry file="file://$PROJECT_DIR$/src/vn/devpro/HinhTron/HinhTron.java" />
     <entry file="file://$PROJECT_DIR$/src/vn/devpro/CanBo/CanBo.java" />
@@ -654,13 +574,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/learningJV/Unit4/Mang2Chieu/vd.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="28" selection-start-column="28" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/learningJV/Unit4/Chuoi/ArrayStringUtils.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="555">
@@ -672,10 +585,51 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/learningJV/Unit6/XeHoi/Process/output.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="15" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/learningJV/Unit4/Mang2Chieu/vd.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/learningJV/Unit6/SinhVien/Module/Subjects.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="53" column="26" selection-start-line="53" selection-start-column="26" selection-end-line="53" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/learningJV/Unit6/SinhVien/Module/Students.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1260">
+          <caret line="109" column="35" selection-start-line="109" selection-start-column="35" selection-end-line="109" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/learningJV/Unit6/SinhVien/Main/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/learningJV/Unit6/XeHoi/Module/XeHoi.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="713">
-          <caret line="71" column="16" lean-forward="true" selection-start-line="71" selection-start-column="16" selection-end-line="71" selection-end-column="16" />
+        <state relative-caret-position="120">
+          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
           <folding>
             <element signature="e#588#589#0" expanded="true" />
             <element signature="e#615#616#0" expanded="true" />
@@ -705,34 +659,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/learningJV/Unit6/XeHoi/Control/Menu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/learningJV/Unit6/XeHoi/Control/Switch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="32" selection-start-line="16" selection-start-column="32" selection-end-line="16" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/learningJV/Unit6/XeHoi/Control/ListMenu.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="52" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
+        <state relative-caret-position="135">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/learningJV/Unit6/XeHoi/Process/output.java">
+    <entry file="file://$PROJECT_DIR$/src/learningJV/Unit6/XeHoi/Process/input.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="386">
+          <caret line="44" column="19" selection-start-line="44" selection-start-column="19" selection-end-line="44" selection-end-column="19" />
           <folding>
-            <element signature="e#106#107#0" expanded="true" />
-            <element signature="e#142#143#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -743,18 +682,120 @@
           <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
           <folding>
             <element signature="e#146#147#0" expanded="true" />
-            <element signature="e#165#166#0" expanded="true" />
+            <element signature="e#173#174#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/learningJV/Unit6/XeHoi/Process/input.java">
+    <entry file="file://$PROJECT_DIR$/src/learningJV/Unit6/XeHoi/Control/Menu.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="51" column="23" selection-start-line="51" selection-start-column="23" selection-end-line="51" selection-end-column="23" />
+        <state relative-caret-position="240">
+          <caret line="16" column="24" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/learningJV/Unit6/XeHoi/Control/Switch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/learningJV/Unit7/bai1/DoanThang.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/learningJV/Unit7/bai1/Diem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#133#134#0" expanded="true" />
+            <element signature="e#159#160#0" expanded="true" />
+            <element signature="e#377#378#0" expanded="true" />
+            <element signature="e#410#411#0" expanded="true" />
+            <element signature="e#436#437#0" expanded="true" />
+            <element signature="e#463#464#0" expanded="true" />
+            <element signature="e#487#488#0" expanded="true" />
+            <element signature="e#520#521#0" expanded="true" />
+            <element signature="e#546#547#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/learningJV/Unit7/bai1/TamGiac.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="46" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/learningJV/Unit7/bai1/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/learningJV/Unit7/bai2/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/learningJV/Unit7/bai2/HangDienTu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/learningJV/Unit7/bai2/SanPham.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+          <folding>
+            <element signature="e#615#616#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/learningJV/Unit7/bai3/HangHoa.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/learningJV/Unit7/bai3/HangDienTu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/learningJV/Unit7/bai3/TiVi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/learningJV/Unit7/bai3/MayTinh.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/learningJV/Unit7/bai3/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="62" selection-start-line="21" selection-start-column="62" selection-end-line="21" selection-end-column="62" />
         </state>
       </provider>
     </entry>

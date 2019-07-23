@@ -49,21 +49,21 @@ public class input {
                 break;
             case 6:
                 System.err.println("Dung sua thong tin => EXIT");
-                return;
+                System.exit(0);
         }
     }
 
     public static void suaThongTin(){
-        do {
-            menuSuaTT();
-            System.out.print("Nhap lua chon ban muon sua: ");
-            int n = input.nextInt();
-            while (n<0 || n>6){
-                System.out.print("Lua chon khong ton tai, moi nhap lai: ");
-                n = input.nextInt();
-            }
-            input.nextLine();
-            luaChon(n);
-        } while (true);
+       do {
+           menuSuaTT();
+           System.out.print("Nhap lua chon ban muon sua: ");
+           int n = input.nextInt();
+           while (n<0 || n>6){
+               System.out.print("Lua chon khong ton tai, moi nhap lai: ");
+               n = input.nextInt();
+           }
+           input.nextLine();
+           luaChon(n);
+       } while (true);
     }
 }
