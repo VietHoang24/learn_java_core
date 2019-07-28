@@ -1,66 +1,60 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/src/Chuong3/bai36/Module/Date.java" line="14" />
-  </component>
   <component name="ChangeListManager">
     <list default="true" id="4403fdec-fd6c-476c-bac3-cc91934910be" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Dev_Jv38/HomeWorks/src/VuVanHung_Day7/Control/ListMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Dev_Jv38/HomeWorks/src/VuVanHung_Day7/Control/Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Dev_Jv38/HomeWorks/src/VuVanHung_Day7/Control/Switch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Dev_Jv38/HomeWorks/src/VuVanHung_Day7/Main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Dev_Jv38/HomeWorks/src/VuVanHung_Day7/Module/CanBo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Dev_Jv38/HomeWorks/src/VuVanHung_Day7/Module/CongNhan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Dev_Jv38/HomeWorks/src/VuVanHung_Day7/Module/NhanSu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Dev_Jv38/HomeWorks/src/VuVanHung_Day7/Module/Phong.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Dev_Jv38/HomeWorks/src/VuVanHung_Day7/Module/XuongSX.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Dev_Jv38/HomeWorks/src/VuVanHung_Day7/Module/inputList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Dev_Jv38/HomeWorks/src/VuVanHung_Day7/Module/outputList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai36/Control/ListMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai36/Control/Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai36/Control/Switch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai36/Main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai36/Module/Date.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai36/Module/GiaoDichDat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai36/Module/GiaoDichNha.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai36/Process/ThanhTien.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai36/Process/inputDate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai36/Process/inputGiaoDich.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai36/Process/outputGiaoDich.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai37/Control/ListMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai37/Control/Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai37/Control/Switch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai37/Main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai37/Module/Date.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai37/Module/KhachHang.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai37/Module/NuocNgoai.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai37/Module/VietNam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai37/Process/ThanhTien.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai37/Process/inputDate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai37/Process/inputKhachHang.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai37/Process/outputKhachHang.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai38/Control/ListMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai38/Control/Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai38/Control/Switch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai38/Main/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Dev_Jv38/HomeWorks/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Dev_Jv38/HomeWorks/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai38/Module/Date.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai38/Module/Gio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai38/Module/HoaDon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai38/Module/Ngay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai38/Process/ThanhTien.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai38/Process/inputDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai38/Process/inputHoaDon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai38/Process/outputHoaDon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai39/Control/ListMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai39/Control/Menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai39/Control/Switch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai39/Main/QuanLy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai39/Module/DMY.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai39/Module/HangDienMay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai39/Module/HangHoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai39/Module/HangSanhSu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai39/Module/HangThucPham.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai39/Process/inputDMY.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai39/Process/inputHangDienMay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai39/Process/inputHangSanhSu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai39/Process/inputHangThucPham.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai39/Process/inputSanhSu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai39/Process/outputDienMay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai39/Process/outputSanhSu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai39/Process/outputThucPham.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaExampleForIntelliJ/Chuong3/bai37/Control/Menu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExampleForIntelliJ/Chuong3/bai37/Control/Menu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaExampleForIntelliJ/Chuong3/bai37/Control/Switch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExampleForIntelliJ/Chuong3/bai37/Control/Switch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaExampleForIntelliJ/Chuong3/bai37/Process/inputKhachHang.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExampleForIntelliJ/Chuong3/bai37/Process/inputKhachHang.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaExampleForIntelliJ/Chuong3/bai37/Process/outputKhachHang.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExampleForIntelliJ/Chuong3/bai37/Process/outputKhachHang.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaExampleForIntelliJ/Chuong3/bai38/Control/ListMenu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExampleForIntelliJ/Chuong3/bai38/Control/ListMenu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaExampleForIntelliJ/Chuong3/bai38/Control/Menu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExampleForIntelliJ/Chuong3/bai38/Control/Menu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaExampleForIntelliJ/Chuong3/bai38/Control/Switch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExampleForIntelliJ/Chuong3/bai38/Control/Switch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaExampleForIntelliJ/Chuong3/bai38/Main/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExampleForIntelliJ/Chuong3/bai38/Main/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chuong3/bai38/Control/ListMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chuong3/bai38/Control/ListMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chuong3/bai38/Control/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chuong3/bai38/Control/Menu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chuong3/bai38/Control/Switch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chuong3/bai38/Control/Switch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chuong3/bai38/Main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chuong3/bai38/Main/Main.java" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
   <component name="FavoritesManager">
     <favorites_list name="JavaExampleForIntelliJ" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -76,129 +70,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/Chuong3/bai33/IO/inputLopHoc.java" />
-        <option value="$PROJECT_DIR$/src/Chuong3/bai33/IO/inputMonHoc.java" />
-        <option value="$PROJECT_DIR$/src/Chuong3/bai33/IO/inputSinhVien.java" />
-        <option value="$PROJECT_DIR$/src/Chuong3/bai33/IO/outputSinhVien.java" />
-        <option value="$PROJECT_DIR$/src/Chuong3/bai33/Control/Switch.java" />
-        <option value="$PROJECT_DIR$/src/Chuong3/bai34/Module/ChiTietSach.java" />
-        <option value="$PROJECT_DIR$/src/Chuong3/bai34/Module/Date.java" />
-        <option value="$PROJECT_DIR$/src/Chuong3/bai34/Process/intputDate.java" />
-        <option value="$PROJECT_DIR$/src/Chuong3/bai34/Module/PhieuNhapSach.java" />
-        <option value="$PROJECT_DIR$/src/Chuong3/bai34/Process/inputPhieuNhapSach.java" />
-        <option value="$PROJECT_DIR$/src/Chuong3/bai34/Control/Menu.java" />
-        <option value="$PROJECT_DIR$/src/Chuong3/bai34/Main/Main.java" />
-        <option value="$PROJECT_DIR$/src/Chuong3/bai34/Process/outputChiTietSach.java" />
-        <option value="$PROJECT_DIR$/src/Chuong3/bai34/Control/ListMenu.java" />
-        <option value="$PROJECT_DIR$/src/Chuong3/bai34/Process/inputChiTietSach.java" />
-        <option value="$PROJECT_DIR$/src/Chuong3/bai34/Control/Switch.java" />
-        <option value="$PROJECT_DIR$/src/Chuong3/bai34/Process/outputPhieuSach.java" />
-        <option value="$PROJECT_DIR$/src/Chuong3/bai35/output.java" />
-        <option value="$PROJECT_DIR$/src/Chuong3/bai35/Artist.java" />
-        <option value="$PROJECT_DIR$/src/Chuong3/bai35/ArtistDemo.java" />
-        <option value="$PROJECT_DIR$/src/Chuong3/bai35/Shape.java" />
-        <option value="$PROJECT_DIR$/src/Chuong3/bai35/RightTriangle.java" />
-        <option value="$PROJECT_DIR$/src/Chuong3/bai35/Rectangle.java" />
-        <option value="$PROJECT_DIR$/src/Chuong3/bai36/Module/GiaoDichNha.java" />
-        <option value="$PROJECT_DIR$/src/Chuong3/bai36/Process/inputNha.java" />
-        <option value="$PROJECT_DIR$/src/Chuong3/bai36/Process/outputDate.java" />
-        <option value="$PROJECT_DIR$/src/Chuong3/bai36/Module/Date.java" />
-        <option value="$PROJECT_DIR$/src/Chuong3/bai36/Module/GiaoDichDat.java" />
-        <option value="$PROJECT_DIR$/src/Chuong3/bai36/Process/ThanhTien.java" />
-        <option value="$PROJECT_DIR$/src/Chuong3/bai36/Main/Main.java" />
-        <option value="$PROJECT_DIR$/src/Chuong3/bai36/Control/ListMenu.java" />
-        <option value="$PROJECT_DIR$/src/Chuong3/bai36/Process/inputN.java" />
-        <option value="$PROJECT_DIR$/src/Chuong3/bai36/Control/Menu.java" />
-        <option value="$PROJECT_DIR$/src/Chuong3/bai36/Process/inputDate.java" />
-        <option value="$PROJECT_DIR$/src/Chuong3/bai36/Process/inputGiaoDich.java" />
-        <option value="$PROJECT_DIR$/src/Chuong3/bai36/Process/outputGiaoDich.java" />
-        <option value="$PROJECT_DIR$/src/Chuong3/bai36/Control/Switch.java" />
-        <option value="$PROJECT_DIR$/src/Chuong3/bai37/Module/VietNam.java" />
-        <option value="$PROJECT_DIR$/src/Chuong3/bai37/Module/NuocNgoai.java" />
-        <option value="$PROJECT_DIR$/src/Chuong3/bai37/Process/inputDate.java" />
-        <option value="$PROJECT_DIR$/src/Chuong3/bai37/Process/inputKhachHangVietNam.java" />
-        <option value="$PROJECT_DIR$/src/Chuong3/bai37/Process/inputKhachHangNuocNgoai.java" />
-        <option value="$PROJECT_DIR$/src/Chuong3/bai37/Module/KhachHang.java" />
-        <option value="$PROJECT_DIR$/src/Chuong3/bai37/Module/Date.java" />
-        <option value="$PROJECT_DIR$/src/Chuong3/bai37/Process/ThanhTien.java" />
-        <option value="$PROJECT_DIR$/src/Chuong3/bai37/Control/ListMenu.java" />
-        <option value="$PROJECT_DIR$/src/Chuong3/bai37/Main/Main.java" />
-        <option value="$PROJECT_DIR$/src/Chuong3/bai37/Process/inputKhachHang.java" />
-        <option value="$PROJECT_DIR$/src/Chuong3/bai37/Control/Menu.java" />
-        <option value="$PROJECT_DIR$/src/Chuong3/bai37/Control/Switch.java" />
-        <option value="$PROJECT_DIR$/src/Chuong3/bai37/Process/outputKhachHang.java" />
-      </list>
-    </option>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
   </component>
   <component name="ProjectFrameBounds" extendedState="4">
     <option name="y" value="25" />
     <option name="width" value="960" />
     <option name="height" value="1055" />
   </component>
+  <component name="ProjectId" id="1Odf70KhGBkmzlRpzZ4fa1NHuZ3" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="JavaExampleForIntelliJ" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaExampleForIntelliJ" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaExampleForIntelliJ" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaExampleForIntelliJ" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaExampleForIntelliJ" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaExampleForIntelliJ" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Chuong3" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaExampleForIntelliJ" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaExampleForIntelliJ" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Chuong3" type="462c0819:PsiDirectoryNode" />
-              <item name="bai38" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaExampleForIntelliJ" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaExampleForIntelliJ" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Chuong3" type="462c0819:PsiDirectoryNode" />
-              <item name="bai38" type="462c0819:PsiDirectoryNode" />
-              <item name="Control" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaExampleForIntelliJ" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaExampleForIntelliJ" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Chuong3" type="462c0819:PsiDirectoryNode" />
-              <item name="bai38" type="462c0819:PsiDirectoryNode" />
-              <item name="Main" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Dev_Jv38/Example" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -222,7 +109,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (3)">
+  <component name="RunManager" selected="Application.Main (2)">
     <configuration name="ArtistDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Chuong3.bai35.ArtistDemo" />
       <module name="JavaExampleForIntelliJ" />
@@ -249,12 +136,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chuong3.bai37.Main.Main" />
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chuong3.bai38.Main.Main" />
       <module name="JavaExampleForIntelliJ" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chuong3.bai37.Main.*" />
+          <option name="PATTERN" value="Chuong3.bai38.Main.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -262,12 +149,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chuong3.bai34.Main.Main" />
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chuong3.bai37.Main.Main" />
       <module name="JavaExampleForIntelliJ" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chuong3.bai34.Main.*" />
+          <option name="PATTERN" value="Chuong3.bai37.Main.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -290,11 +177,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.ArtistDemo" />
         <item itemvalue="Application.Rectangle" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -320,629 +207,18 @@
       <is-autoscroll-to-source value="true" />
     </todo-panel>
   </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="25" width="960" height="1055" extended-state="4" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18201755" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Learn" order="6" />
-      <window_info id="Favorites" order="7" side_tool="true" weight="0.32894737" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32815966" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3968958" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.3292683" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.33037695" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.3292683" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3292683" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-    </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.074252136" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Learn" order="6" />
-      <window_info id="Favorites" order="7" side_tool="true" weight="0.32894737" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32815966" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3968958" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.3292683" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.33037695" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.3292683" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3292683" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Maven" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-    </layout-to-restore>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Chuong3/bai33/Main/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
-          <folding>
-            <element signature="e#128#129#0" expanded="true" />
-            <element signature="e#155#156#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chuong3/bai34/Module/ChiTietSach.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
-          <folding>
-            <element signature="e#230#231#0" expanded="true" />
-            <element signature="e#276#277#0" expanded="true" />
-            <element signature="e#314#315#0" expanded="true" />
-            <element signature="e#350#351#0" expanded="true" />
-            <element signature="e#382#383#0" expanded="true" />
-            <element signature="e#432#433#0" expanded="true" />
-            <element signature="e#474#475#0" expanded="true" />
-            <element signature="e#507#508#0" expanded="true" />
-            <element signature="e#536#537#0" expanded="true" />
-            <element signature="e#580#581#0" expanded="true" />
-            <element signature="e#616#617#0" expanded="true" />
-            <element signature="e#647#648#0" expanded="true" />
-            <element signature="e#677#678#0" expanded="true" />
-            <element signature="e#720#721#0" expanded="true" />
-            <element signature="e#758#759#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chuong3/bai34/Module/Date.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
-          <folding>
-            <element signature="e#170#171#0" expanded="true" />
-            <element signature="e#207#208#0" expanded="true" />
-            <element signature="e#239#240#0" expanded="true" />
-            <element signature="e#268#269#0" expanded="true" />
-            <element signature="e#296#297#0" expanded="true" />
-            <element signature="e#335#336#0" expanded="true" />
-            <element signature="e#369#370#0" expanded="true" />
-            <element signature="e#396#397#0" expanded="true" />
-            <element signature="e#422#423#0" expanded="true" />
-            <element signature="e#457#458#0" expanded="true" />
-            <element signature="e#487#488#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chuong3/bai34/Module/PhieuNhapSach.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-          <folding>
-            <element signature="e#202#215#0" expanded="true" />
-            <element signature="e#251#252#0" expanded="true" />
-            <element signature="e#281#282#0" expanded="true" />
-            <element signature="e#327#328#0" expanded="true" />
-            <element signature="e#365#366#0" expanded="true" />
-            <element signature="e#560#561#0" expanded="true" />
-            <element signature="e#591#592#0" expanded="true" />
-            <element signature="e#655#656#0" expanded="true" />
-            <element signature="e#695#696#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chuong3/bai34/Process/intputDate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chuong3/bai33/IO/outputMonHoc.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
-          <folding>
-            <element signature="e#108#109#0" expanded="true" />
-            <element signature="e#194#195#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chuong3/bai33/IO/inputMonHoc.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="83" selection-start-line="29" selection-start-column="83" selection-end-line="29" selection-end-column="83" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chuong3/bai34/Process/inputPhieuNhapSach.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="38" column="5" lean-forward="true" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#801#814#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chuong3/bai34/Main/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
-          <folding>
-            <element signature="e#128#129#0" expanded="true" />
-            <element signature="e#147#148#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chuong3/bai34/Control/Menu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chuong3/bai34/Control/Switch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chuong3/bai34/Control/ListMenu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="67" selection-start-line="8" selection-start-column="67" selection-end-line="8" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chuong3/bai34/Process/outputChiTietSach.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chuong3/bai34/Process/inputChiTietSach.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" column="46" selection-start-line="33" selection-start-column="46" selection-end-line="33" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chuong3/bai35/output.java" />
-    <entry file="file://$PROJECT_DIR$/src/Chuong3/bai35/Shape.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="44" selection-start-line="4" selection-start-column="44" selection-end-line="4" selection-end-column="44" />
-          <folding>
-            <element signature="e#67#68#0" expanded="true" />
-            <element signature="e#124#125#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chuong3/bai35/Rectangle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="50" column="37" selection-start-line="50" selection-start-column="37" selection-end-line="50" selection-end-column="37" />
-          <folding>
-            <element signature="e#630#631#0" expanded="true" />
-            <element signature="e#661#662#0" expanded="true" />
-            <element signature="e#880#881#0" expanded="true" />
-            <element signature="e#912#913#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chuong3/bai35/RightTriangle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="31" column="41" selection-start-line="31" selection-start-column="41" selection-end-line="31" selection-end-column="41" />
-          <folding>
-            <element signature="e#342#343#0" expanded="true" />
-            <element signature="e#373#374#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chuong3/bai35/Artist.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
-          <folding>
-            <element signature="e#84#85#0" expanded="true" />
-            <element signature="e#112#113#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chuong3/bai35/ArtistDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chuong3/bai36/Module/GiaoDichNha.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
-          <folding>
-            <element signature="e#508#509#0" expanded="true" />
-            <element signature="e#554#555#0" expanded="true" />
-            <element signature="e#592#593#0" expanded="true" />
-            <element signature="e#625#626#0" expanded="true" />
-            <element signature="e#654#655#0" expanded="true" />
-            <element signature="e#698#699#0" expanded="true" />
-            <element signature="e#734#735#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chuong3/bai36/Process/outputDate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="4" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chuong3/bai36/Module/Date.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="40" column="63" lean-forward="true" selection-start-line="40" selection-start-column="63" selection-end-line="40" selection-end-column="63" />
-          <folding>
-            <element signature="e#271#272#0" expanded="true" />
-            <element signature="e#298#299#0" expanded="true" />
-            <element signature="e#335#336#0" expanded="true" />
-            <element signature="e#367#368#0" expanded="true" />
-            <element signature="e#396#397#0" expanded="true" />
-            <element signature="e#424#425#0" expanded="true" />
-            <element signature="e#463#464#0" expanded="true" />
-            <element signature="e#497#498#0" expanded="true" />
-            <element signature="e#524#525#0" expanded="true" />
-            <element signature="e#550#551#0" expanded="true" />
-            <element signature="e#585#586#0" expanded="true" />
-            <element signature="e#615#616#0" expanded="true" />
-            <element signature="e#661#662#0" expanded="true" />
-            <element signature="e#688#689#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chuong3/bai34/Process/outputPhieuSach.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chuong3/bai36/Module/GiaoDichDat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="58" column="5" selection-start-line="58" selection-start-column="5" selection-end-line="58" selection-end-column="5" />
-          <folding>
-            <element signature="e#567#568#0" expanded="true" />
-            <element signature="e#600#601#0" expanded="true" />
-            <element signature="e#652#653#0" expanded="true" />
-            <element signature="e#696#697#0" expanded="true" />
-            <element signature="e#733#734#0" expanded="true" />
-            <element signature="e#768#769#0" expanded="true" />
-            <element signature="e#822#823#0" expanded="true" />
-            <element signature="e#870#871#0" expanded="true" />
-            <element signature="e#903#904#0" expanded="true" />
-            <element signature="e#932#933#0" expanded="true" />
-            <element signature="e#976#977#0" expanded="true" />
-            <element signature="e#1012#1013#0" expanded="true" />
-            <element signature="e#1046#1047#0" expanded="true" />
-            <element signature="e#1076#1077#0" expanded="true" />
-            <element signature="e#1122#1123#0" expanded="true" />
-            <element signature="e#1160#1161#0" expanded="true" />
-            <element signature="e#1195#1196#0" expanded="true" />
-            <element signature="e#1226#1227#0" expanded="true" />
-            <element signature="e#1274#1275#0" expanded="true" />
-            <element signature="e#1314#1315#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chuong3/bai36/Process/inputN.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="28" lean-forward="true" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chuong3/bai36/Control/Switch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="72" selection-start-line="30" selection-start-column="72" selection-end-line="30" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chuong3/bai36/Main/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
-          <folding>
-            <element signature="e#128#129#0" expanded="true" />
-            <element signature="e#147#148#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chuong3/bai36/Process/inputGiaoDich.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="683">
-          <caret line="55" column="34" selection-start-line="55" selection-start-column="34" selection-end-line="55" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#184#197#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chuong3/bai36/Process/outputGiaoDich.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="428">
-          <caret line="52" column="52" selection-start-line="52" selection-start-column="52" selection-end-line="52" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chuong3/bai36/Process/inputDate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chuong3/bai36/Control/ListMenu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chuong3/bai36/Process/ThanhTien.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="71" selection-start-line="14" selection-start-column="71" selection-end-line="14" selection-end-column="71" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chuong3/bai38/Control/ListMenu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chuong3/bai38/Control/Menu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chuong3/bai38/Control/Switch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="19" selection-start-line="2" selection-start-column="19" selection-end-line="2" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chuong3/bai38/Main/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chuong3/bai37/Module/NuocNgoai.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
-          <folding>
-            <element signature="e#404#405#0" expanded="true" />
-            <element signature="e#452#453#0" expanded="true" />
-            <element signature="e#492#493#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chuong3/bai37/Process/inputKhachHangNuocNgoai.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#276#287#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chuong3/bai37/Module/VietNam.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
-          <folding>
-            <element signature="e#480#481#0" expanded="true" />
-            <element signature="e#532#533#0" expanded="true" />
-            <element signature="e#576#577#0" expanded="true" />
-            <element signature="e#607#608#0" expanded="true" />
-            <element signature="e#637#638#0" expanded="true" />
-            <element signature="e#680#681#0" expanded="true" />
-            <element signature="e#718#719#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chuong3/bai36/Control/Menu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="4" selection-start-line="18" selection-start-column="4" selection-end-line="18" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chuong3/bai37/Process/outputKhachHang.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="68" column="30" selection-start-line="68" selection-start-column="30" selection-end-line="68" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chuong3/bai37/Process/inputKhachHang.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="623">
-          <caret line="93" column="55" selection-start-line="93" selection-start-column="55" selection-end-line="93" selection-end-column="55" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#265#274#0" expanded="true" />
-            <element signature="e#368#379#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chuong3/bai37/Process/inputDate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chuong3/bai37/Module/KhachHang.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="48" column="33" selection-start-line="48" selection-start-column="33" selection-end-line="48" selection-end-column="33" />
-          <folding>
-            <element signature="e#495#496#0" expanded="true" />
-            <element signature="e#522#523#0" expanded="true" />
-            <element signature="e#562#563#0" expanded="true" />
-            <element signature="e#594#595#0" expanded="true" />
-            <element signature="e#626#627#0" expanded="true" />
-            <element signature="e#654#655#0" expanded="true" />
-            <element signature="e#696#697#0" expanded="true" />
-            <element signature="e#730#731#0" expanded="true" />
-            <element signature="e#763#764#0" expanded="true" />
-            <element signature="e#794#795#0" expanded="true" />
-            <element signature="e#840#841#0" expanded="true" />
-            <element signature="e#880#881#0" expanded="true" />
-            <element signature="e#913#914#0" expanded="true" />
-            <element signature="e#943#944#0" expanded="true" />
-            <element signature="e#988#989#0" expanded="true" />
-            <element signature="e#1026#1027#0" expanded="true" />
-            <element signature="e#1056#1057#0" expanded="true" />
-            <element signature="e#1085#1086#0" expanded="true" />
-            <element signature="e#1126#1127#0" expanded="true" />
-            <element signature="e#1162#1163#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chuong3/bai37/Module/Date.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="40" column="62" selection-start-line="40" selection-start-column="62" selection-end-line="40" selection-end-column="62" />
-          <folding>
-            <element signature="e#271#272#0" expanded="true" />
-            <element signature="e#298#299#0" expanded="true" />
-            <element signature="e#335#336#0" expanded="true" />
-            <element signature="e#367#368#0" expanded="true" />
-            <element signature="e#396#397#0" expanded="true" />
-            <element signature="e#424#425#0" expanded="true" />
-            <element signature="e#463#464#0" expanded="true" />
-            <element signature="e#497#498#0" expanded="true" />
-            <element signature="e#524#525#0" expanded="true" />
-            <element signature="e#550#551#0" expanded="true" />
-            <element signature="e#585#586#0" expanded="true" />
-            <element signature="e#615#616#0" expanded="true" />
-            <element signature="e#661#662#0" expanded="true" />
-            <element signature="e#692#693#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chuong3/bai37/Process/ThanhTien.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="37" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chuong3/bai37/Control/Menu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chuong3/bai37/Main/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="e#128#129#0" expanded="true" />
-            <element signature="e#147#148#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chuong3/bai37/Control/ListMenu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="50" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Chuong3/bai37/Control/Switch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="54" selection-start-line="30" selection-start-column="54" selection-end-line="30" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="masterDetails">
     <states>
