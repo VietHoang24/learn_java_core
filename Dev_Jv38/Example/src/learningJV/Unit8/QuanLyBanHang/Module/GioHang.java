@@ -1,17 +1,17 @@
 package learningJV.Unit8.QuanLyBanHang.Module;
 
+import java.util.ArrayList;
+
 public class GioHang {
     private String id;
-    private String tenHang;
-    private LoaiHang loaiHangID;
+    private ArrayList<LoaiHang> loaiHangs = new ArrayList<LoaiHang>();
 
     public GioHang() {
     }
 
-    public GioHang(String id, String tenHang, LoaiHang loaiHangID) {
+    public GioHang(String id, ArrayList<LoaiHang> loaiHangs) {
         this.id = id;
-        this.tenHang = tenHang;
-        this.loaiHangID = loaiHangID;
+        this.loaiHangs = loaiHangs;
     }
 
     public String getId() {
@@ -22,19 +22,11 @@ public class GioHang {
         this.id = id;
     }
 
-    public String getTenHang() {
-        return tenHang;
+    public ArrayList<LoaiHang> getLoaiHangs() {
+        return loaiHangs;
     }
 
-    public void setTenHang(String tenHang) {
-        this.tenHang = tenHang;
-    }
-
-    public LoaiHang getLoaiHangID() {
-        return loaiHangID;
-    }
-
-    public void setLoaiHangID(LoaiHang loaiHangID) {
-        this.loaiHangID = loaiHangID;
+    public void setLoaiHangs(ArrayList<LoaiHang> loaiHangs) {
+        this.loaiHangs = loaiHangs;
     }
 }

@@ -7,6 +7,16 @@ public class input {
     static ArrayList<hcn> list = new ArrayList<hcn>();
     static Scanner in = new Scanner(System.in);
 
+    public static int luaChon(){
+        System.out.print("nhap lua chon can sua: ");
+        int x = in.nextInt();
+        while (x<0 || x>3){
+            System.out.print("Lua chon khong ton tai, moi nhap lai: ");
+            x = in.nextInt();
+        }
+        return x;
+    }
+
     public static void nhap(){
         hcn a = new hcn();
         System.out.print("Chieu dai: ");
