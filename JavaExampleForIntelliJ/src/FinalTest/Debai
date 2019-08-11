@@ -17,6 +17,6 @@ Cách tính lương cho người lao động:
         xếp loại B thì lương tính bằng hesoluong*luongcoban+750000
         xếp loại C thì lương tính bằng hesoluong*luongcoban+500000
         xếp loại D thì lương tính bằng hesoluong*luongcoban.
-Sắp xếp danh sách người lao động theo t,ên nếu tên trùng lương thì sắp xếp theo lương.
+Sắp xếp danh sách người lao động theo tên, nếu tên trùng thì sắp xếp theo lương.
 Nhập vào danh sách người lao động và xuất theo từng kiểu người lao động.
 Xây dựng menu cho phép lựa chọn chức năng cho chương trình.
