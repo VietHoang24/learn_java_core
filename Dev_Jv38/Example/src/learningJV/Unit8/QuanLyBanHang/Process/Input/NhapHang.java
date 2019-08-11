@@ -28,6 +28,7 @@ public class NhapHang {
     }
 
     public static void nhapDsHangs(ArrayList<Hang> hangs){
+        hangs = new ArrayList<Hang>();
         System.out.print("- So mat hang can nhap: ");
         int n = input.nextInt();
         input.nextLine();

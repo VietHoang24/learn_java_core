@@ -2,35 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8e7dce99-e78e-4924-890a-64d2c1cdfd16" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/learningJV/Unit8/LinkList/Control/Listmenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learningJV/Unit8/LinkList/Control/Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learningJV/Unit8/LinkList/Control/Switch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learningJV/Unit8/LinkList/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learningJV/Unit8/LinkList/edit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learningJV/Unit8/LinkList/output.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learningJV/Unit8/QuanLyBanHang/Process/Input/Choice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learningJV/Unit8/QuanLyBanHang/Process/Input/NhapGioHang.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learningJV/Unit8/QuanLyBanHang/Process/Input/NhapHang.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learningJV/Unit8/QuanLyBanHang/Process/Input/NhapKhachHang.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learningJV/Unit8/QuanLyBanHang/Process/Input/NhapLoaiHang.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learningJV/Unit8/QuanLyBanHang/Process/Output/XuatGioHang.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learningJV/Unit8/QuanLyBanHang/Process/Output/XuatHang.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learningJV/Unit8/QuanLyBanHang/Process/Output/XuatKhachHang.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learningJV/Unit8/QuanLyBanHang/Process/Output/XuatLoaiHang.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/learningJV/Unit8/LinkList/input.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/learningJV/Unit8/LinkList/input.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/learningJV/Unit8/QuanLyBanHang/Control/ListMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/learningJV/Unit8/QuanLyBanHang/Control/ListMenu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/learningJV/Unit8/QuanLyBanHang/Control/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/learningJV/Unit8/QuanLyBanHang/Control/Menu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/learningJV/Unit8/QuanLyBanHang/Control/Switch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/learningJV/Unit8/QuanLyBanHang/Control/Switch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/learningJV/Unit8/QuanLyBanHang/Main/QuanLyBanHang.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/learningJV/Unit8/QuanLyBanHang/Main/QuanLyBanHang.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/learningJV/Unit8/QuanLyBanHang/Module/GioHang.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/learningJV/Unit8/QuanLyBanHang/Module/GioHang.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/learningJV/Unit8/QuanLyBanHang/Module/Hang.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/learningJV/Unit8/QuanLyBanHang/Module/Hang.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/learningJV/Unit8/QuanLyBanHang/Module/KhachHang.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/learningJV/Unit8/QuanLyBanHang/Module/KhachHang.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/learningJV/Unit8/QuanLyBanHang/Module/LoaiHang.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/learningJV/Unit8/QuanLyBanHang/Module/LoaiHang.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/learningJV/Unit8/QuanLyBanHang/Process/inputGioHang.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/learningJV/Unit8/QuanLyBanHang/Process/inputHang.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/learningJV/Unit8/QuanLyBanHang/Process/inputKhachHang.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/learningJV/Unit8/QuanLyBanHang/Process/inputLoaiHang.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Unit1/learningJV/Unit8/QuanLyBanHang/Process/Input/NhapGioHang.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Unit1/learningJV/Unit8/QuanLyBanHang/Process/Input/NhapGioHang.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Unit1/learningJV/Unit8/QuanLyBanHang/Process/Input/NhapHang.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Unit1/learningJV/Unit8/QuanLyBanHang/Process/Input/NhapHang.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Unit1/learningJV/Unit8/QuanLyBanHang/Process/Input/NhapLoaiHang.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Unit1/learningJV/Unit8/QuanLyBanHang/Process/Input/NhapLoaiHang.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/learningJV/Unit8/QuanLyBanHang/Process/Input/NhapGioHang.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/learningJV/Unit8/QuanLyBanHang/Process/Input/NhapGioHang.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/learningJV/Unit8/QuanLyBanHang/Process/Input/NhapHang.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/learningJV/Unit8/QuanLyBanHang/Process/Input/NhapHang.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/learningJV/Unit8/QuanLyBanHang/Process/Input/NhapLoaiHang.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/learningJV/Unit8/QuanLyBanHang/Process/Input/NhapLoaiHang.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -65,9 +43,9 @@
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../JavaExampleForIntelliJ" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Android Logcat" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">

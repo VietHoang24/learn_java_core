@@ -2,8 +2,8 @@ package Chuong3.bai39.Process;
 
 public class outputThucPham extends inputHangThucPham {
     public static void tieuDe(){
-        System.out.printf("%15s%15s%15s%15s%15s%15s%n",
-                "Ma Hang", "Ten Hang", "Ton Kho", "Don Gia", "NSX", "HSD");
+        System.out.printf("%15s%15s%15s%15s%15s%15s%15s%n",
+                "Ma Hang", "Ten Hang", "Ton Kho", "Don Gia", "NSX", "HSD", "Danh Gia");
     }
 
     public static void xuatDSThucPham(){
@@ -16,7 +16,8 @@ public class outputThucPham extends inputHangThucPham {
                     listThucPham.get(i).getSoLuongTonKho(),
                     listThucPham.get(i).getDonGia(),
                     listThucPham.get(i).getNsx().toString(),
-                    listThucPham.get(i).getHsd().toString());
+                    listThucPham.get(i).getHsd().toString(),
+                    listThucPham.get(i).danhGia());
         }
     }
 }

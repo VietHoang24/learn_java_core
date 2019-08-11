@@ -10,9 +10,7 @@ public class inputHangSanhSu {
     static Scanner input = new Scanner(System.in);
     static ArrayList<HangSanhSu> listSanhSu = new ArrayList<HangSanhSu>();
 
-    public static void nhapSanhSu(){
-        HangSanhSu hss = new HangSanhSu();
-
+    public static void nhap(HangSanhSu hss){
         System.out.print("Ma hang: ");
         String maHang = input.nextLine();
         hss.setMaHang(maHang);
@@ -28,6 +26,7 @@ public class inputHangSanhSu {
         System.out.print("Don gia: ");
         double donGia = input.nextDouble();
         hss.setDonGia(donGia);
+        input.nextLine();
 
         System.out.print("Hang san xuat: ");
         String hangSanXuat = input.nextLine();
@@ -46,10 +45,31 @@ public class inputHangSanhSu {
         inputDMY.nhapDate(nhapKho);
         hss.setNgayNhapKho(nhapKho);
 
+        input.nextLine();
+    }
+
+    public static void nhapSanhSu(){
+        HangSanhSu hss = new HangSanhSu();
+        nhap(hss);
         listSanhSu.add(hss);
     }
 
-    public static void nhapDSTP(){
+    public static void themSanhSu(){
+        HangSanhSu themHss = new HangSanhSu();
+        System.out.println("\tNhap thong tin hang sanh sau can them.");
+        nhap(themHss);
+        for (int i=0; i<listSanhSu.size(); i++){
+            if (themHss.getMaHang().compareToIgnoreCase(listSanhSu.get(i).getMaHang())!=0){
+                System.out.println("Them hang sanh su thanh cong.");
+                listSanhSu.add(themHss);
+            } else {
+                System.out.println("Ma hang sanh su bi trung, khong the them.");
+                break;
+            }
+        }
+    }
+
+    public static void nhapDSSS(){
         System.out.print("So hang sanh su can nhap: ");
         int n = input.nextInt();
         input.nextLine();

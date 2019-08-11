@@ -10,9 +10,7 @@ public class inputHangThucPham {
     static ArrayList<HangThucPham> listThucPham = new ArrayList<HangThucPham>();
     static Scanner input = new Scanner(System.in);
 
-    public static void nhapThucPham(){
-        HangThucPham htp = new HangThucPham();
-
+    public static void nhap(HangThucPham htp){
         System.out.print("Ma hang: ");
         String maHang = input.nextLine();
         htp.setMaHang(maHang);
@@ -39,7 +37,28 @@ public class inputHangThucPham {
         inputDMY.nhapDate(hsd);
         htp.setHsd(hsd);
 
+        input.nextLine();
+    }
+
+    public static void nhapThucPham(){
+        HangThucPham htp = new HangThucPham();
+        nhap(htp);
         listThucPham.add(htp);
+    }
+
+    public static void themThucPham(){
+        HangThucPham themHtp = new HangThucPham();
+        System.out.println("\tNhap hang thuc pham can them.");
+        nhap(themHtp);
+        for (int i=0; i<listThucPham.size(); i++){
+            if (themHtp.getMaHang().compareToIgnoreCase(listThucPham.get(i).getMaHang())!=0){
+                System.out.println("Them hang thuc pham thanh cong.");
+                listThucPham.add(themHtp);
+            } else {
+                System.out.println("Ma hang thuc pham bi trung, khong the them.");
+                break;
+            }
+        }
     }
 
     public static void nhapDSTP(){

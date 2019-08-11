@@ -2,44 +2,51 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4403fdec-fd6c-476c-bac3-cc91934910be" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai38/Module/Date.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai38/Module/Gio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai38/Module/HoaDon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai38/Module/Ngay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai38/Process/ThanhTien.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai38/Process/inputDate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai38/Process/inputHoaDon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai38/Process/outputHoaDon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai39/Control/ListMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai39/Control/Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai39/Control/Switch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai39/Main/QuanLy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai39/Module/DMY.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai39/Module/HangDienMay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai39/Module/HangHoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai39/Module/HangSanhSu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai39/Module/HangThucPham.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai39/Process/inputDMY.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai39/Process/inputHangDienMay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai39/Process/inputHangSanhSu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai39/Process/inputHangThucPham.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai39/Process/inputSanhSu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai39/Process/outputDienMay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai39/Process/outputSanhSu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai39/Process/outputThucPham.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai36/Module/GiaoDich.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Chuong3/bai39/Process/inputMenu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FinalTest/Cau1/Control/ListMenuControl/menuInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FinalTest/Cau1/Control/ListMenuControl/menuMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FinalTest/Cau1/Control/ListMenuControl/menuOutput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FinalTest/Cau1/Control/MenuManager/menu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FinalTest/Cau1/Control/SwitchControl/choiceInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FinalTest/Cau1/Control/SwitchControl/choiceMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FinalTest/Cau1/Control/SwitchControl/choiceOutput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FinalTest/Cau1/Main/QuanLyNguoiLaoDong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FinalTest/Cau1/Module/CongNhan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FinalTest/Cau1/Module/KySu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FinalTest/Cau1/Module/NguoiLaoDong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FinalTest/Cau1/Process/ChoiceInMenu/enterChoice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FinalTest/Cau1/Process/INPUT/iCongNhan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FinalTest/Cau1/Process/INPUT/iKySu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FinalTest/Cau1/Process/INPUT/iNguoiLaoDong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FinalTest/Cau1/Process/OUTPUT/oNguoiLaoDong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FinalTest/Cau1/Process/SORT/sapXep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FinalTest/Debai" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dev_Jv38/Example/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Dev_Jv38/Example/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dev_Jv38/Example/out/production/Unit1/learningJV/Unit8/QuanLyBanHang/Process/Input/NhapGioHang.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Dev_Jv38/Example/out/production/Unit1/learningJV/Unit8/QuanLyBanHang/Process/Input/NhapGioHang.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dev_Jv38/Example/out/production/Unit1/learningJV/Unit8/QuanLyBanHang/Process/Input/NhapHang.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Dev_Jv38/Example/out/production/Unit1/learningJV/Unit8/QuanLyBanHang/Process/Input/NhapHang.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dev_Jv38/Example/out/production/Unit1/learningJV/Unit8/QuanLyBanHang/Process/Input/NhapLoaiHang.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Dev_Jv38/Example/out/production/Unit1/learningJV/Unit8/QuanLyBanHang/Process/Input/NhapLoaiHang.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dev_Jv38/Example/src/learningJV/Unit8/QuanLyBanHang/Process/Input/NhapGioHang.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Dev_Jv38/Example/src/learningJV/Unit8/QuanLyBanHang/Process/Input/NhapGioHang.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dev_Jv38/Example/src/learningJV/Unit8/QuanLyBanHang/Process/Input/NhapHang.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Dev_Jv38/Example/src/learningJV/Unit8/QuanLyBanHang/Process/Input/NhapHang.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dev_Jv38/Example/src/learningJV/Unit8/QuanLyBanHang/Process/Input/NhapLoaiHang.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Dev_Jv38/Example/src/learningJV/Unit8/QuanLyBanHang/Process/Input/NhapLoaiHang.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Dev_Jv38/HomeWorks/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Dev_Jv38/HomeWorks/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExampleForIntelliJ/Chuong3/bai37/Control/Menu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExampleForIntelliJ/Chuong3/bai37/Control/Menu.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExampleForIntelliJ/Chuong3/bai37/Control/Switch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExampleForIntelliJ/Chuong3/bai37/Control/Switch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExampleForIntelliJ/Chuong3/bai37/Process/inputKhachHang.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExampleForIntelliJ/Chuong3/bai37/Process/inputKhachHang.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExampleForIntelliJ/Chuong3/bai37/Process/outputKhachHang.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExampleForIntelliJ/Chuong3/bai37/Process/outputKhachHang.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExampleForIntelliJ/Chuong3/bai38/Control/ListMenu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExampleForIntelliJ/Chuong3/bai38/Control/ListMenu.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExampleForIntelliJ/Chuong3/bai38/Control/Menu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExampleForIntelliJ/Chuong3/bai38/Control/Menu.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExampleForIntelliJ/Chuong3/bai38/Control/Switch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExampleForIntelliJ/Chuong3/bai38/Control/Switch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaExampleForIntelliJ/Chuong3/bai38/Main/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExampleForIntelliJ/Chuong3/bai38/Main/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chuong3/bai38/Control/ListMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chuong3/bai38/Control/ListMenu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chuong3/bai38/Control/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chuong3/bai38/Control/Menu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chuong3/bai38/Control/Switch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chuong3/bai38/Control/Switch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Chuong3/bai38/Main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chuong3/bai38/Main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaExampleForIntelliJ/Chuong3/bai25/Main/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExampleForIntelliJ/Chuong3/bai25/Main/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaExampleForIntelliJ/Chuong3/bai33/Control/ListMenu.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaExampleForIntelliJ/Chuong3/bai33/Control/ListMenu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaExampleForIntelliJ/META-INF/JavaExampleForIntelliJ.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chuong3/bai25/Main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chuong3/bai25/Main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chuong3/bai33/Control/ListMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chuong3/bai33/Control/ListMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chuong3/bai39/Control/ListMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chuong3/bai39/Control/ListMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chuong3/bai39/Control/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chuong3/bai39/Control/Menu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chuong3/bai39/Control/Switch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chuong3/bai39/Control/Switch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chuong3/bai39/Main/QuanLy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chuong3/bai39/Main/QuanLy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chuong3/bai39/Process/inputHangDienMay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chuong3/bai39/Process/inputHangDienMay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chuong3/bai39/Process/inputHangSanhSu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chuong3/bai39/Process/inputHangSanhSu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chuong3/bai39/Process/inputHangThucPham.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chuong3/bai39/Process/inputHangThucPham.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chuong3/bai39/Process/inputSanhSu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chuong3/bai39/Process/outputDienMay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chuong3/bai39/Process/outputDienMay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chuong3/bai39/Process/outputSanhSu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chuong3/bai39/Process/outputSanhSu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chuong3/bai39/Process/outputThucPham.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chuong3/bai39/Process/outputThucPham.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -61,8 +68,8 @@
       <list>
         <option value="Kotlin Class" />
         <option value="Kotlin File" />
-        <option value="FxmlFile" />
         <option value="Interface" />
+        <option value="FxmlFile" />
         <option value="Class" />
       </list>
     </option>
@@ -73,11 +80,6 @@
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="4">
-    <option name="y" value="25" />
-    <option name="width" value="960" />
-    <option name="height" value="1055" />
-  </component>
   <component name="ProjectId" id="1Odf70KhGBkmzlRpzZ4fa1NHuZ3" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -85,7 +87,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Dev_Jv38/Example" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -109,20 +111,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main (2)">
-    <configuration name="ArtistDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chuong3.bai35.ArtistDemo" />
-      <module name="JavaExampleForIntelliJ" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Chuong3.bai35.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.QuanLyNguoiLaoDong">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Chuong3.bai36.Main.Main" />
       <module name="JavaExampleForIntelliJ" />
@@ -162,12 +151,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Rectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Chuong3.bai35.Rectangle" />
+    <configuration name="QuanLy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chuong3.bai39.Main.QuanLy" />
       <module name="JavaExampleForIntelliJ" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Chuong3.bai35.*" />
+          <option name="PATTERN" value="Chuong3.bai39.Main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuanLyNguoiLaoDong" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FinalTest.Cau1.Main.QuanLyNguoiLaoDong" />
+      <module name="JavaExampleForIntelliJ" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FinalTest.Cau1.Main.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -177,11 +179,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.QuanLyNguoiLaoDong" />
+        <item itemvalue="Application.QuanLy" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.ArtistDemo" />
-        <item itemvalue="Application.Rectangle" />
       </list>
     </recent_temporary>
   </component>

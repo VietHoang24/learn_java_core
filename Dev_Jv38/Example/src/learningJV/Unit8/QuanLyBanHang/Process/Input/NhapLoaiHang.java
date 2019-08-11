@@ -23,6 +23,7 @@ public class NhapLoaiHang {
     }
 
     public static void nhapDsLoaiHang(ArrayList<LoaiHang> loaiHangs){
+        loaiHangs = new ArrayList<LoaiHang>();
         System.out.print("- So loai hang can nhap: ");
         int n = input.nextInt();
         input.nextLine();

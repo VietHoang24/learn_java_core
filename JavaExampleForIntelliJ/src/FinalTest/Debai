@@ -1,0 +1,22 @@
+Câu 1(8đ):
+Dùng 1 collection để quản lý chương trình sau:
+- Xây dựng lớp NguoiLaoDong gồm các thuộc tính: họ tên, giới tính, năm sinh, địa chỉ.
+- Lớp CongNhan kế thừa lớp NguoiLaoDong và thêm các thuộc tính: số ngày công, đơn giá.
+- Lớp KySu kế thừa lớp NguoiLaoDong và thêm các thuộc tính: xếp loại, hệ số lương.
+Xây dựng các class với các phương thức getter, setter, và phương thức tính lương cho người lao động.
+Xây dựng phương thức nhập/xuất cho chương trình quản lý người lao động.
+Cách tính lương cho người lao động:
+    + Công nhân:
+        số ngày công > 20 thì lương tính bằng songaycong*dongia+1000000
+        số ngày công > 15 thì lương tính bằng songaycong*dongia+500000
+        số ngày công > 10 thì lương tính bằng songaycong*dongia+200000
+        số ngày công > 0 thì lương tính bằng songaycong*dongia.
+    + Kỹ sư:
+        lương cơ bản: 1500000
+        xếp loại A thì lương tính bằng hesoluong*luongcoban+1000000
+        xếp loại B thì lương tính bằng hesoluong*luongcoban+750000
+        xếp loại C thì lương tính bằng hesoluong*luongcoban+500000
+        xếp loại D thì lương tính bằng hesoluong*luongcoban.
+Sắp xếp danh sách người lao động theo t,ên nếu tên trùng lương thì sắp xếp theo lương.
+Nhập vào danh sách người lao động và xuất theo từng kiểu người lao động.
+Xây dựng menu cho phép lựa chọn chức năng cho chương trình.

@@ -2,55 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1303fcc8-65ae-4728-965b-d472385d34f5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Example/src/learningJV/Unit7/bai4/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Example/src/learningJV/Unit7/bai4/IO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Example/src/learningJV/Unit7/bai4/InterfaceDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Example/src/learningJV/Unit7/bai4/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Example/src/learningJV/Unit7/bai4/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Example/src/learningJV/Unit8/ArrayList/ListSinhVien.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Example/src/learningJV/Unit8/ArrayList/SinhVien.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Example/src/learningJV/Unit8/HashMap/TuDien.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/src/Chuong3/bai38/Module/Date.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/src/Chuong3/bai38/Module/Gio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/src/Chuong3/bai38/Module/HoaDon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/src/Chuong3/bai38/Module/Ngay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/src/Chuong3/bai38/Process/ThanhTien.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/src/Chuong3/bai38/Process/inputDate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/src/Chuong3/bai38/Process/inputHoaDon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/src/Chuong3/bai38/Process/outputHoaDon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/src/Chuong3/bai39/Control/ListMenu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/src/Chuong3/bai39/Control/Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/src/Chuong3/bai39/Control/Switch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/src/Chuong3/bai39/Main/QuanLy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/src/Chuong3/bai39/Module/DMY.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/src/Chuong3/bai39/Module/HangDienMay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/src/Chuong3/bai39/Module/HangHoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/src/Chuong3/bai39/Module/HangSanhSu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/src/Chuong3/bai39/Module/HangThucPham.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/src/Chuong3/bai39/Process/inputDMY.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/src/Chuong3/bai39/Process/inputHangDienMay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/src/Chuong3/bai39/Process/inputHangSanhSu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/src/Chuong3/bai39/Process/inputHangThucPham.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/src/Chuong3/bai39/Process/inputSanhSu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/src/Chuong3/bai39/Process/outputDienMay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/src/Chuong3/bai39/Process/outputSanhSu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/src/Chuong3/bai39/Process/outputThucPham.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/src/Chuong3/bai36/Module/GiaoDich.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/src/Chuong3/bai39/Process/inputMenu.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Example/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Example/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Example/out/production/Unit1/META-INF/Unit1.kotlin_module" beforeDir="false" afterPath="$PROJECT_DIR$/../Example/out/production/Unit1/META-INF/Unit1.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Example/out/production/Unit1/learningJV/Unit8/QuanLyBanHang/Process/Input/NhapGioHang.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Example/out/production/Unit1/learningJV/Unit8/QuanLyBanHang/Process/Input/NhapGioHang.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Example/out/production/Unit1/learningJV/Unit8/QuanLyBanHang/Process/Input/NhapHang.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Example/out/production/Unit1/learningJV/Unit8/QuanLyBanHang/Process/Input/NhapHang.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Example/out/production/Unit1/learningJV/Unit8/QuanLyBanHang/Process/Input/NhapLoaiHang.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Example/out/production/Unit1/learningJV/Unit8/QuanLyBanHang/Process/Input/NhapLoaiHang.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Example/src/learningJV/Unit8/QuanLyBanHang/Process/Input/NhapGioHang.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Example/src/learningJV/Unit8/QuanLyBanHang/Process/Input/NhapGioHang.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Example/src/learningJV/Unit8/QuanLyBanHang/Process/Input/NhapHang.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Example/src/learningJV/Unit8/QuanLyBanHang/Process/Input/NhapHang.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Example/src/learningJV/Unit8/QuanLyBanHang/Process/Input/NhapLoaiHang.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Example/src/learningJV/Unit8/QuanLyBanHang/Process/Input/NhapLoaiHang.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/out/production/JavaExampleForIntelliJ/Chuong3/bai37/Control/Menu.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/out/production/JavaExampleForIntelliJ/Chuong3/bai37/Control/Menu.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/out/production/JavaExampleForIntelliJ/Chuong3/bai37/Control/Switch.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/out/production/JavaExampleForIntelliJ/Chuong3/bai37/Control/Switch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/out/production/JavaExampleForIntelliJ/Chuong3/bai37/Process/inputKhachHang.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/out/production/JavaExampleForIntelliJ/Chuong3/bai37/Process/inputKhachHang.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/out/production/JavaExampleForIntelliJ/Chuong3/bai37/Process/outputKhachHang.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/out/production/JavaExampleForIntelliJ/Chuong3/bai37/Process/outputKhachHang.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/out/production/JavaExampleForIntelliJ/Chuong3/bai38/Control/ListMenu.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/out/production/JavaExampleForIntelliJ/Chuong3/bai38/Control/ListMenu.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/out/production/JavaExampleForIntelliJ/Chuong3/bai38/Control/Menu.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/out/production/JavaExampleForIntelliJ/Chuong3/bai38/Control/Menu.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/out/production/JavaExampleForIntelliJ/Chuong3/bai38/Control/Switch.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/out/production/JavaExampleForIntelliJ/Chuong3/bai38/Control/Switch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/out/production/JavaExampleForIntelliJ/Chuong3/bai38/Main/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/out/production/JavaExampleForIntelliJ/Chuong3/bai38/Main/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/src/Chuong3/bai38/Control/ListMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/src/Chuong3/bai38/Control/ListMenu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/src/Chuong3/bai38/Control/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/src/Chuong3/bai38/Control/Menu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/src/Chuong3/bai38/Control/Switch.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/src/Chuong3/bai38/Control/Switch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/src/Chuong3/bai38/Main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/src/Chuong3/bai38/Main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/out/production/JavaExampleForIntelliJ/META-INF/JavaExampleForIntelliJ.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/src/Chuong3/bai39/Control/ListMenu.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/src/Chuong3/bai39/Control/ListMenu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/src/Chuong3/bai39/Control/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/src/Chuong3/bai39/Control/Menu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/src/Chuong3/bai39/Control/Switch.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/src/Chuong3/bai39/Control/Switch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/src/Chuong3/bai39/Main/QuanLy.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/src/Chuong3/bai39/Main/QuanLy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/src/Chuong3/bai39/Process/inputHangDienMay.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/src/Chuong3/bai39/Process/inputHangDienMay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/src/Chuong3/bai39/Process/inputHangSanhSu.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/src/Chuong3/bai39/Process/inputHangSanhSu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/src/Chuong3/bai39/Process/inputHangThucPham.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/src/Chuong3/bai39/Process/inputHangThucPham.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/src/Chuong3/bai39/Process/inputSanhSu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/src/Chuong3/bai39/Process/outputDienMay.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/src/Chuong3/bai39/Process/outputDienMay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/src/Chuong3/bai39/Process/outputSanhSu.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/src/Chuong3/bai39/Process/outputSanhSu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/src/Chuong3/bai39/Process/outputThucPham.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../JavaExampleForIntelliJ/src/Chuong3/bai39/Process/outputThucPham.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -89,7 +63,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Example" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../JavaExampleForIntelliJ" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -211,7 +185,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

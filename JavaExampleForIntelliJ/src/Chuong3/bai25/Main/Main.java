@@ -13,7 +13,7 @@ public class Main {
         XeDemo a = new XeDemo();
         List b = new List();
         do {
-            System.out.println("\n\t\t--- Menu ---");
+            System.out.println("\n\t\t--- MenuManager ---");
             System.out.println("1. Nhap vao thong tin cho 1 xe.");
             System.out.println("2. Nhap vao thong tin 1 danh sach xe.");
             System.out.println("3. Xuat thong tin xe vua nhap.");

@@ -2,8 +2,8 @@ package Chuong3.bai39.Process;
 
 public class outputDienMay extends inputHangDienMay {
     public static void tieuDe(){
-        System.out.printf("%15s%15s%15s%15s%15s%15s%n",
-                "Ma Hang", "Ten Hang", "Ton Kho", "Don Gia", "Bao Hanh", "Cong Suat");
+        System.out.printf("%15s%15s%15s%15s%15s%15s%15s%n",
+                "Ma Hang", "Ten Hang", "Ton Kho", "Don Gia", "Bao Hanh", "Cong Suat", "Danh Gia");
     }
 
     public static void xuatDSDienMay(){
@@ -16,7 +16,8 @@ public class outputDienMay extends inputHangDienMay {
                     listDienMay.get(i).getSoLuongTonKho(),
                     listDienMay.get(i).getDonGia(),
                     listDienMay.get(i).getThoiGianBaoHanh(),
-                    listDienMay.get(i).getCongSuat());
+                    listDienMay.get(i).getCongSuat(),
+                    listDienMay.get(i).danhGia());
         }
     }
 }

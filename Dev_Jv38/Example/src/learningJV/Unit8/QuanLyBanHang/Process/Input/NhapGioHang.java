@@ -19,6 +19,7 @@ public class NhapGioHang {
     }
 
     public static void nhapDsGioHang(ArrayList<GioHang> gioHangs){
+        gioHangs = new ArrayList<GioHang>();
         System.out.print("- So gio hang can nhap: ");
         int n = input.nextInt();
         input.nextLine();
