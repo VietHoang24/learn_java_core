@@ -1,8 +1,8 @@
-package learningJV.devpro.CanBo;
+package learningJV.Unit1.CanBo;
 
 public class Main {
     public static void main(String[] args){
-        CanBo a = new CanBo();
+        learningJV.devpro.CanBo.CanBo a = new learningJV.devpro.CanBo.CanBo();
         a.nhap();
         a.xuat();
     }
