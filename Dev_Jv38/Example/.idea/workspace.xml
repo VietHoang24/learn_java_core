@@ -2,21 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8e7dce99-e78e-4924-890a-64d2c1cdfd16" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/learningJV/Unit10/test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learningJV/Unit9/cau1/AllUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learningJV/Unit9/cau1/DateExeption.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learningJV/Unit9/cau1/NumberPhoneExeption.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learningJV/Unit9/cau1/PasswordExeption.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learningJV/Unit9/cau1/UsernameExeption.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learningJV/Unit9/cau1/Users.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learningJV/Unit9/cau2/AllUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learningJV/Unit9/cau2/FootballPlayers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learningJV/Unit9/cau2/Helpers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/learningJV/Unit9/cau2/HoDemExeption.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learningJV/Unit10/ex1/GotoSchool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learningJV/Unit10/ex1/GotoSchoolUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learningJV/Unit10/ex2/SendOrReceiveUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learningJV/Unit10/ex2/SendOrRecevie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learningJV/Unit10/ex3/MyArrayThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learningJV/Unit10/ex3/MyArrayThreadUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learningJV/Unit11/ex1/FileClassUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learningJV/Unit11/ex2/Stream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learningJV/Unit7/bai5/Module/CanBo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learningJV/Unit7/bai5/Module/CongNhan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learningJV/Unit7/bai5/Module/NhanSu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learningJV/Unit7/bai5/Module/Phong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/learningJV/Unit7/bai5/Module/XuongSX.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Unit1/META-INF/Unit1.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Unit1/learningJV/devpro/CanBo/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/learningJV/Unit1/CanBo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/learningJV/Unit1/CanBo/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Unit1/learningJV/Unit10/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Unit1/learningJV/Unit9/cau2/AllUtils$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Unit1/learningJV/Unit9/cau2/AllUtils$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Unit1/learningJV/Unit9/cau2/AllUtils$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Unit1/learningJV/Unit9/cau2/AllUtils$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Unit1/learningJV/Unit9/cau2/AllUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Unit1/learningJV/Unit9/cau2/AllUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/learningJV/Unit10/test.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -49,11 +54,12 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Android Logcat" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -67,13 +73,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AllUtils">
-    <configuration name="AllUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="learningJV.Unit9.cau2.AllUtils" />
+  <component name="RunManager" selected="Application.FileClassUtils">
+    <configuration name="FileClassUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="learningJV.Unit11.ex1.FileClassUtils" />
       <module name="Unit1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="learningJV.Unit9.cau2.*" />
+          <option name="PATTERN" value="learningJV.Unit11.ex1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="learningJV.Unit8.LinkList.Main" />
+    <configuration name="GotoSchoolUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="learningJV.Unit10.ex1.GotoSchoolUtils" />
       <module name="Unit1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="learningJV.Unit8.LinkList.*" />
+          <option name="PATTERN" value="learningJV.Unit10.ex1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="QuanLyBanHang" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="learningJV.Unit8.QuanLyBanHang.Main.QuanLyBanHang" />
+    <configuration name="MyArrayThreadUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="learningJV.Unit10.ex3.MyArrayThreadUtils" />
       <module name="Unit1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="learningJV.Unit8.QuanLyBanHang.Main.*" />
+          <option name="PATTERN" value="learningJV.Unit10.ex3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TuDien" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="learningJV.Unit8.HashMap.TuDien" />
+    <configuration name="SendOrReceiveUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="learningJV.Unit10.ex2.SendOrReceiveUtils" />
       <module name="Unit1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="learningJV.Unit8.HashMap.*" />
+          <option name="PATTERN" value="learningJV.Unit10.ex2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="learningJV.Unit10.test" />
+    <configuration name="Stream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="learningJV.Unit11.ex2.Stream" />
       <module name="Unit1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="learningJV.Unit10.*" />
+          <option name="PATTERN" value="learningJV.Unit11.ex2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AllUtils" />
-        <item itemvalue="Application.test" />
-        <item itemvalue="Application.QuanLyBanHang" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.TuDien" />
+        <item itemvalue="Application.FileClassUtils" />
+        <item itemvalue="Application.Stream" />
+        <item itemvalue="Application.MyArrayThreadUtils" />
+        <item itemvalue="Application.SendOrReceiveUtils" />
+        <item itemvalue="Application.GotoSchoolUtils" />
       </list>
     </recent_temporary>
   </component>
@@ -168,6 +174,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="masterDetails">
     <states>
