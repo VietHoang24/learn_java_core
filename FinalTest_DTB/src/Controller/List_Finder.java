@@ -5,12 +5,12 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 public class List_Finder {
-    static ArrayList<SinhVien> listSinhVien = Database_GetListData.getListSinhVien();
-    static ArrayList<MonHoc> listMonHoc = Database_GetListData.getListMonHoc();
-    static ArrayList<Diem> listDiem = Database_GetListData.getListDiem();
     static Scanner input = new Scanner(System.in);
 
     public static void timKiem_MaSinhVien() {
+        ArrayList<SinhVien> listSinhVien = Database_GetListData.getListSinhVien();
+        ArrayList<MonHoc> listMonHoc = Database_GetListData.getListMonHoc();
+        ArrayList<Diem> listDiem = Database_GetListData.getListDiem();
         System.out.print("- Nhap vao ma sinh vien can tim: ");
         String maSinhVien = input.nextLine();
         int dem = 0;
@@ -44,12 +44,15 @@ public class List_Finder {
                 }
             }
         } else {
-            System.out.println("Ma sinh vien vua nhap khong ton tai. Dung chuong trinh...");
+            System.out.println("Ma sinh vien vua nhap khong ton tai. Dung tim kiem...");
             return;
         }
     }
 
     public static void timKiem_MaMonHoc() {
+        ArrayList<SinhVien> listSinhVien = Database_GetListData.getListSinhVien();
+        ArrayList<MonHoc> listMonHoc = Database_GetListData.getListMonHoc();
+        ArrayList<Diem> listDiem = Database_GetListData.getListDiem();
         System.out.print("- Nhap vao ma mon hoc can tim: ");
         String maMonHoc = input.nextLine();
         int dem = 0;
@@ -77,7 +80,7 @@ public class List_Finder {
             }
             System.out.println("-----------------------------------------------------------------------------------------");
         } else {
-            System.out.println("Ma mon hoc vua nhap khong ton tai. Dung chuong trinh...");
+            System.out.println("Ma mon hoc vua nhap khong ton tai. Dung tim kiem...");
             return;
         }
     }

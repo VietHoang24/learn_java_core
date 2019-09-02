@@ -3,11 +3,22 @@ package Controller;
 import java.sql.PreparedStatement;
 
 public class Database_Delete {
-    public static boolean xoaSinhVien(String maSinhVien){
+    public static boolean xoaSinhVien_SinhVien(String maSinhVien){
         int result = 0;
-        String sqlDeleteSV = "DELETE FROM SinhVien WHERE maSinhVien=?";
+        String sqlDelete = "DELETE FROM SinhVien WHERE maSinhVien=?";
         try {
-            PreparedStatement ps = Database_Connect.getConnection().prepareStatement(sqlDeleteSV);
+            PreparedStatement ps = Database_Connect.getConnection().prepareStatement(sqlDelete);
+            ps.setString(1, maSinhVien);
+            result = ps.executeUpdate();
+        } catch (Exception e) {e.printStackTrace();}
+        return result>0;
+    }
+
+    public static boolean xoaSinhVien_Diem(String maSinhVien){
+        int result = 0;
+        String sqlDelete = "DELETE FROM Diem WHERE maSinhVien=?";
+        try {
+            PreparedStatement ps = Database_Connect.getConnection().prepareStatement(sqlDelete);
             ps.setString(1, maSinhVien);
             result = ps.executeUpdate();
         } catch (Exception e) {e.printStackTrace();}
@@ -27,9 +38,9 @@ public class Database_Delete {
 
     public static boolean xoaDiem(String maSinhVien, String maMonHoc){
         int result = 0;
-        String sqlDeleteSV = "DELETE FROM SinhVien WHERE maSinhVien=?, maMonHoc=?";
+        String sqlDeleteDiem = "DELETE FROM Diem WHERE maSinhVien=?, maMonHoc=?";
         try {
-            PreparedStatement ps = Database_Connect.getConnection().prepareStatement(sqlDeleteSV);
+            PreparedStatement ps = Database_Connect.getConnection().prepareStatement(sqlDeleteDiem);
             ps.setString(1, maSinhVien);
             ps.setString(2, maMonHoc);
             result = ps.executeUpdate();

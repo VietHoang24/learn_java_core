@@ -100,7 +100,7 @@ public class Data_Input {
         }
         diem.setMaMonHoc(maMonHoc);
 
-        System.out.print("Diem mon hoc: ");
+        System.out.print("Diem mon hoc  : ");
         float diemSo = input.nextFloat();
         while (diemSo<0 || diemSo>10) {
             System.out.print("Diem thanh phan phai luon duong va khong vuot qua 10. Moi nhap lai: ");
@@ -110,5 +110,11 @@ public class Data_Input {
         diem.setDiemSo(diemSo);
 
         return diem;
+    }
+
+    public static String maSinhVien() {
+        System.out.print("Nhap vao ma sinh vien muon xoa: ");
+        String maSinhVien = input.nextLine();
+        return maSinhVien;
     }
 }

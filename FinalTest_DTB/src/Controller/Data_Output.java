@@ -4,11 +4,8 @@ import Module.*;
 import java.util.ArrayList;
 
 public class Data_Output {
-    static ArrayList<SinhVien> listSinhVien = Database_GetListData.getListSinhVien();
-    static ArrayList<MonHoc> listMonHoc = Database_GetListData.getListMonHoc();
-    static ArrayList<Diem> listDiem = Database_GetListData.getListDiem();
-
     public static void xuatSinhVien() {
+        ArrayList<SinhVien> listSinhVien = Database_GetListData.getListSinhVien();
         System.out.printf("%20s%20s%20s%20s%20s%n", "Ma Sinh Vien", "Ho Dem", "Ten", "Nam Sinh", "Gioi Tinh");
         for (int i=0; i<listSinhVien.size(); i++) {
             System.out.printf("%20s%20s%20s%20d%20s%n",
@@ -21,6 +18,7 @@ public class Data_Output {
     }
 
     public static void xuatMonHoc() {
+        ArrayList<MonHoc> listMonHoc = Database_GetListData.getListMonHoc();
         System.out.printf("%20s%20s%20s%n", "Ma Mon Hoc", "Ten Mon Hoc", "He So");
         for (int i=0; i<listMonHoc.size(); i++) {
             System.out.printf("%20s%20s%20s%n",
@@ -31,6 +29,7 @@ public class Data_Output {
     }
 
     public static void xuatDiem() {
+        ArrayList<Diem> listDiem = Database_GetListData.getListDiem();
         System.out.printf("%20s%20s%20s%n", "Ma Sinh Vien", "Ma Mon Hoc", "Diem So");
         for (int i=0; i<listDiem.size(); i++) {
             System.out.printf("%20s%20s%20.1f%n",
@@ -41,6 +40,9 @@ public class Data_Output {
     }
 
     public static void xuatDanhSach() {
+        ArrayList<SinhVien> listSinhVien = Database_GetListData.getListSinhVien();
+        ArrayList<MonHoc> listMonHoc = Database_GetListData.getListMonHoc();
+        ArrayList<Diem> listDiem = Database_GetListData.getListDiem();
         int demHeSo = 0;
         float tongDiem = 0;
         System.out.println("-----------------------------------------------------------------------------------------");

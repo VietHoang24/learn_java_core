@@ -35,14 +35,14 @@ public class Database_Update {
 
     public static boolean suaDiem(Diem diem){
         int result = 0;
-        String sqlUpdateD = "UPDATE Diem SET diemSo=? WHERE maSinhVien=?, maMonHoc=?";
+        String sqlUpdateD = "UPDATE Diem SET diemSo=? WHERE maSinhVien=? AND maMonHoc=?";
         try {
             PreparedStatement ps = Database_Connect.getConnection().prepareStatement(sqlUpdateD);
             ps.setFloat(1, diem.getDiemSo());
             ps.setString(2, diem.getMaSinhVien());
             ps.setString(3, diem.getMaMonHoc());
             result = ps.executeUpdate();
-        } catch (Exception e) {e.printStackTrace(); }
+        } catch (Exception e) { e.printStackTrace(); }
         return result>0;
     }
 }
